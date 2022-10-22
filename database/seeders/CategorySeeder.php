@@ -45,7 +45,7 @@ class CategorySeeder extends Seeder
             SubCategory::create([
                 'name' => $faker->name,
                 'notes' => $faker->name,
-                'category_id'=> rand(1,3)
+                'category_id'=> rand(1,2)
             ]);
         }
 
@@ -63,8 +63,8 @@ class CategorySeeder extends Seeder
                 'notes' => $faker->paragraph,
                 'price'=> 25000,
                 'quantity'=> $faker->numberBetween(1000000,2000000),
-                'category_id'=> rand(1,3),
-                'sub_category_id'=> rand(1,3),
+                'category_id'=> rand(1,2),
+                'sub_category_id'=> rand(1,2),
                 'days'=>rand(100,600),
                 'life_cycle'=>$faker->name,
                 'disease'=>$faker->name,
