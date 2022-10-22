@@ -60,11 +60,18 @@ class CategorySeeder extends Seeder
         for ($i = 0; $i <= 80; $i++) {
             Product::create([
                 'name' => $faker->name,
-                'notes' => $faker->name,
+                'notes' => $faker->paragraph,
                 'price'=> 25000,
                 'quantity'=> $faker->numberBetween(1000000,2000000),
                 'category_id'=> rand(1,6),
-                'sub_category_id'=> rand(1,6)
+                'sub_category_id'=> rand(1,6),
+                'days'=>rand(100,600),
+                'life_cycle'=>$faker->name,
+                'disease'=>$faker->name,
+                'hybrid'=>$faker->name,
+                'section_one'=>$faker->paragraph,
+                'section_two'=>$faker->paragraph,
+                'section_there'=>$faker->paragraph,
             ]);
         }
 

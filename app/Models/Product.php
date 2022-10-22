@@ -15,6 +15,14 @@ class Product extends Model
         'notes',
         'category_id',
         'sub_category_id',
+        'days',
+        'life_cycle',
+        'disease',
+        'hybrid',
+        'section_one',
+        'section_two',
+        'section_there',
+        'section_frour',
     ];
 
     protected $appends = ['image'];

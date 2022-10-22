@@ -66,7 +66,30 @@
                         </div>
 
                         <br>
+                       
 
+                        <div class="row">
+                            <div class="col">
+                                <label>DAYS TO MATURITY</label>
+                                <input type="number" name="days" value="{{ $data->days }}" class="form-control">
+                            </div>
+    
+                            <div class="col">
+                                <label>LIFE CYCLE</label>
+                                <input type="text" name="life_cycle" value="{{ $data->life_cycle }}" class="form-control">
+                            </div>
+    
+                            <div class="col">
+                                <label>DISEASE RESISTANCE CODES </label>
+                                <input type="text" name="disease" value="{{ $data->disease }}" class="form-control">
+                            </div>
+    
+                            <div class="col">
+                                <label>DISEASE RESISTANCE CODES</label>
+                                <input type="text" name="hybrid" value="{{ $data->hybrid }}" class="form-control">
+                            </div>
+                        </div>
+                        <br>
                         <div class="row">
                             <div class="col">
                                 <label>اسم الفئه</label>
@@ -90,10 +113,59 @@
 
                         <div class="row">
                             <div class="col">
-                                <label>ملاحظات</label>
+                                <label>Notes</label>
                                 <textarea class="form-control" name="notes" rows="5">
                                     {{$data->notes}}
                                 </textarea>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                            <div class="col">
+                                <label>Shipping Information</label>
+                                <textarea class="form-control" name="section_one" rows="5">
+                                    {{$data->section_one}}
+                                </textarea>
+                            </div>
+                        </div>
+                        
+                        <br>
+    
+                        
+                        <div class="row">
+                            <div class="col">
+                                <label> Growing Information</label>
+                                <textarea class="form-control" name="section_two" rows="5">
+                                    {{$data->section_two}}
+                                </textarea>
+                            </div>
+                        </div>
+                        <br>
+    
+                        
+                        <div class="row">
+                            <div class="col">
+                                <label> Satisfaction Guarantee</label>
+                                <textarea class="form-control" name="section_there" rows="5">
+                                    {{$data->section_there}}
+                                </textarea>
+                            </div>
+                        </div>
+    
+    
+                        <br>
+    
+                        <div class="row">
+                            <div class="col">
+                                <label>QUICK FACTS</label>
+                                @if($data->photo->Filename ?? '')
+                                <a href="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}" target="_blank"> <img src="{{asset($data->image)}}" width="100px" height="100px" alt=""></a>
+                                <input type="hidden" name="oldfile" value="{{$data->photo->Filename}}">
+                            @endif
+                            </div>
+                            <div class="col">
+                                <label>QUICK FACTS</label>
+                                <input type="file" name="photo" accept="image/*">
                             </div>
                         </div>
 

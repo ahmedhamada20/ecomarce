@@ -1,4 +1,7 @@
 @extends('website.layouts.master')
+@section('title')
+PRODUCT
+@endsection
 @section('content')
     <div role="main" id="maincontent">
 
@@ -140,22 +143,189 @@
 
                         </div>
                     </div>
-                    <div class="row product-attributes d-none d-lg-block col-12">
+                  
+                    <div class="o-layout-zipper__left layout-zipper-line-pdp">
+                        <div class="c-facts layout-zipper-line-pdp-social-icon">
+                            <h2 class="c-facts__heading ">Quick Facts</h2>
+
+                            @if ($data->photo->Filename ?? '')
+                            <img class="c-facts__supplementary_image"
+
+                            src="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}"> 
+
+                            @else
+                            <img class="c-facts__supplementary_image"
+
+                            src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}"> 
+
+                            @endif
+                          
+                            <dl class="c-facts__list">
 
 
-                        <div class="o-layout-zipper__left layout-zipper-line-pdp">
-                            <div class="c-facts layout-zipper-line-pdp-social-icon">
-                                <h2 class="c-facts__heading ">Quick Facts</h2>
-
-                                <img class="c-facts__supplementary_image"
-                                     src="{{ asset('front/on/demandware.static/-/Sites-jss-master/default/dw62133de0/products/germintation_guides/lettuce.jpg') }}"
-                                     alt="null"/>
 
 
-                            </div>
+                                <dt class="c-facts__term">
+                                    <h3 title="Latin Name">Latin Name</h3>
+
+                                </dt>
+                                <dd class="c-facts__definition">
+
+
+
+                                    <h4>{{ $data->name }}</h4>
+
+
+
+                                </dd>
+
+
+
+                                <dt class="c-facts__term js-facts-dialog">
+                                    <h3 title="Days To Maturity">Days To Maturity</h3>
+
+                                  
+
+
+                                </dt>
+                                <dd class="c-facts__definition">
+                                    <h4>{{ $data->days }} Days</h4>
+                                </dd>
+
+
+
+
+
+                                <dt class="c-facts__term js-facts-dialog">
+                                    <h3 title="Life Cycle">Life Cycle</h3>
+
+                                  
+                                </dt>
+                                <dd class="c-facts__definition">
+
+
+
+                                    <h4>{{ $data->life_cycle }}</h4>
+
+
+
+                                </dd>
+
+
+
+
+                                <dt class="c-facts__term js-facts-dialog">
+                                    <h3 title="Disease Resistance Codes">Disease Resistance Codes</h3>
+
+                                 
+                                </dt>
+                                <dd class="c-facts__definition">
+
+
+                                    <h4>{{ $data->disease }}</h4>
+
+
+                                 
+
+                                </dd>
+
+
+
+
+
+
+                                <dt class="c-facts__term js-facts-dialog">
+                                    <h3 title="Hybrid Status">Hybrid Status</h3>
+
+                                  
+
+                                </dt>
+                                <dd class="c-facts__definition">
+
+
+
+                                    <h4>{{ $data->hybrid }}</h4>
+
+
+
+                                </dd>
+
+
+
+
+
+                                <dt class="c-facts__term js-facts-dialog">
+                                    <h3 title="Product Features">Product Features</h3>
+
+                                    <button type="button"
+                                        class="c-facts__term__info js-facts-dialog__trigger">About Quick
+                                        Fact Product Features</button>
+                                    <div class="c-facts-dialog__content js-facts-dialog__content">
+                                        <h3><span class="c-facts-dialog__term-heading">Product
+                                                Features</span></h3>
+                                        <dl class="c-facts-dialog__list">
+
+                                            <dt class="c-facts-dialog__term has-icon">
+                                                <img src="{{ asset('front/on/demandware.static/Sites-JSS-Site/-/default/dw56e3b406/images/svgs/product_feature/9.svg') }}"
+                                                    class="c-facts-dialog__term-icon"
+                                                    alt="Greenhouse Performer" />
+                                                <span class="c-facts-dialog__term-heading">Greenhouse
+                                                    Performer</span>
+                                            </dt>
+                                            <dd class="c-facts-dialog__definition">
+
+                                                Variety that we have found, based on our trials, to be the
+                                                best performers in a climate-controlled greenhouse
+                                                environment.
+
+                                            </dd>
+
+                                            <dt class="c-facts-dialog__term has-icon">
+                                                <img src="{{ asset('front/on/demandware.static/Sites-JSS-Site/-/default/dw730545ba/images/svgs/product_feature/110.svg') }}"
+                                                    class="c-facts-dialog__term-icon"
+                                                    alt="Hydroponic Performer" />
+                                                <span class="c-facts-dialog__term-heading">Hydroponic
+                                                    Performer</span>
+                                            </dt>
+                                            <dd class="c-facts-dialog__definition">
+
+                                                Variety that can be grown successfully using hydroponic
+                                                growing methods, such as NFT (Nutrient Film Technique), DWC
+                                                (Deep Water Culture), or other soilless growing systems.
+
+                                            </dd>
+
+                                        </dl>
+                                        <span class="close-modal">Close</span>
+                                    </div>
+
+                                </dt>
+                                <dd class="c-facts__definition">
+                                    <h4>
+
+
+
+
+                                        <img src="{{ asset('front/on/demandware.static/Sites-JSS-Site/-/default/dw56e3b406/images/svgs/product_feature/9.svg') }}"
+                                            class="tooltip-img-alt c-facts__icon"
+                                            alt="Greenhouse Performer" />
+
+
+
+
+                                        <img src="{{ asset('front/on/demandware.static/Sites-JSS-Site/-/default/dw730545ba/images/svgs/product_feature/110.svg') }}"
+                                            class="tooltip-img-alt c-facts__icon"
+                                            alt="Hydroponic Performer" />
+
+
+
+                                    </h4>
+                                </dd>
+
+
+
+                            </dl>
                         </div>
-
-
                     </div>
                 </div>
                 <div class="col-12 col-lg-8">
@@ -1043,186 +1213,10 @@
                                 <div role="tabpanel" id="tabpanel_1" class="c-accordion__body js-accordion__body"
                                      aria-labelledby="tabheading_1">
 
-                                    <ul class="c-restrictions-list">
+                                  
 
 
-                                        <li class="c-restrictions-list__item">This product does not ship to the
-                                            following countries:
-
-
-                                            United Arab Emirates,&nbsp;
-
-
-                                            Austria,&nbsp;
-
-
-                                            Australia,&nbsp;
-
-
-                                            Barbados,&nbsp;
-
-
-                                            Belgium,&nbsp;
-
-
-                                            Bulgaria,&nbsp;
-
-
-                                            Bermuda,&nbsp;
-
-
-                                            Bahamas,&nbsp;
-
-
-                                            Switzerland,&nbsp;
-
-
-                                            Cyprus,&nbsp;
-
-
-                                            Czech Republic,&nbsp;
-
-
-                                            Germany,&nbsp;
-
-
-                                            Denmark,&nbsp;
-
-
-                                            Estonia,&nbsp;
-
-
-                                            Spain,&nbsp;
-
-
-                                            Finland,&nbsp;
-
-
-                                            France,&nbsp;
-
-
-                                            United Kingdom,&nbsp;
-
-
-                                            Greece,&nbsp;
-
-
-                                            Hong Kong,&nbsp;
-
-
-                                            Croatia,&nbsp;
-
-
-                                            Hungary,&nbsp;
-
-
-                                            Ireland,&nbsp;
-
-
-                                            Iceland,&nbsp;
-
-
-                                            Italy,&nbsp;
-
-
-                                            Japan,&nbsp;
-
-
-                                            KR,&nbsp;
-
-
-                                            Kuwait,&nbsp;
-
-
-                                            Cayman Islands,&nbsp;
-
-
-                                            Lithuania,&nbsp;
-
-
-                                            Luxembourg,&nbsp;
-
-
-                                            Latvia,&nbsp;
-
-
-                                            MY,&nbsp;
-
-
-                                            Netherlands,&nbsp;
-
-
-                                            Norway,&nbsp;
-
-
-                                            New Zealand,&nbsp;
-
-
-                                            Oman,&nbsp;
-
-
-                                            Poland,&nbsp;
-
-
-                                            Portugal,&nbsp;
-
-
-                                            Qatar,&nbsp;
-
-
-                                            Romania,&nbsp;
-
-
-                                            Saudi Arabia,&nbsp;
-
-
-                                            Sweden,&nbsp;
-
-
-                                            Singapore,&nbsp;
-
-
-                                            Slovenia,&nbsp;
-
-
-                                            Slovakia,&nbsp;
-
-
-                                            San Marino,&nbsp;
-
-
-                                            Thailand,&nbsp;
-
-
-                                            Trinidad,&nbsp;
-
-
-                                            Taiwan,&nbsp;
-
-
-                                            Ukraine.
-
-
-                                        </li>
-
-
-                                        <li class="c-restrictions-list__item">This product does not ship to the
-                                            following states:
-
-
-                                            PR.
-
-
-                                        </li>
-
-                                    </ul>
-
-
-                                    <span style="">Many (though not all) of our pelleted lettuce varieties are
-                                    primed to increase germination uniformity, and to break thermal and/or light
-                                    dormancy. However, the priming process decreases the storage life of the
-                                    seed, so pelleted seed must be kept cool and dry prior to planting, and
-                                    should be used within one year of purchase.</span>
+                                    <span style="">{{ $data->notes }}</span>
                                 </div>
                             </div>
 
@@ -1240,180 +1234,7 @@
                                 <div role="tabpanel" id="tabpanel_0" class="c-accordion__body js-accordion__body"
                                      aria-labelledby="tabheading_0">
 
-                                    <ul class="c-restrictions-list">
-
-
-                                        <li class="c-restrictions-list__item">This product does not ship to the
-                                            following countries:
-
-
-                                            United Arab Emirates,&nbsp;
-
-
-                                            Austria,&nbsp;
-
-
-                                            Australia,&nbsp;
-
-
-                                            Barbados,&nbsp;
-
-
-                                            Belgium,&nbsp;
-
-
-                                            Bulgaria,&nbsp;
-
-
-                                            Bermuda,&nbsp;
-
-
-                                            Bahamas,&nbsp;
-
-
-                                            Switzerland,&nbsp;
-
-
-                                            Cyprus,&nbsp;
-
-
-                                            Czech Republic,&nbsp;
-
-
-                                            Germany,&nbsp;
-
-
-                                            Denmark,&nbsp;
-
-
-                                            Estonia,&nbsp;
-
-
-                                            Spain,&nbsp;
-
-
-                                            Finland,&nbsp;
-
-
-                                            France,&nbsp;
-
-
-                                            United Kingdom,&nbsp;
-
-
-                                            Greece,&nbsp;
-
-
-                                            Hong Kong,&nbsp;
-
-
-                                            Croatia,&nbsp;
-
-
-                                            Hungary,&nbsp;
-
-
-                                            Ireland,&nbsp;
-
-
-                                            Iceland,&nbsp;
-
-
-                                            Italy,&nbsp;
-
-
-                                            Japan,&nbsp;
-
-
-                                            KR,&nbsp;
-
-
-                                            Kuwait,&nbsp;
-
-
-                                            Cayman Islands,&nbsp;
-
-
-                                            Lithuania,&nbsp;
-
-
-                                            Luxembourg,&nbsp;
-
-
-                                            Latvia,&nbsp;
-
-
-                                            MY,&nbsp;
-
-
-                                            Netherlands,&nbsp;
-
-
-                                            Norway,&nbsp;
-
-
-                                            New Zealand,&nbsp;
-
-
-                                            Oman,&nbsp;
-
-
-                                            Poland,&nbsp;
-
-
-                                            Portugal,&nbsp;
-
-
-                                            Qatar,&nbsp;
-
-
-                                            Romania,&nbsp;
-
-
-                                            Saudi Arabia,&nbsp;
-
-
-                                            Sweden,&nbsp;
-
-
-                                            Singapore,&nbsp;
-
-
-                                            Slovenia,&nbsp;
-
-
-                                            Slovakia,&nbsp;
-
-
-                                            San Marino,&nbsp;
-
-
-                                            Thailand,&nbsp;
-
-
-                                            Trinidad,&nbsp;
-
-
-                                            Taiwan,&nbsp;
-
-
-                                            Ukraine.
-
-
-                                        </li>
-
-
-                                        <li class="c-restrictions-list__item">This product does not ship to the
-                                            following states:
-
-
-                                            PR.
-
-
-                                        </li>
-
-                                    </ul>
-
+                                     <span style="">{{ $data->section_one }}</span>
 
                                 </div>
                             </div>
@@ -1432,77 +1253,7 @@
                                 <div role="tabpanel" id="tabpanel_2-1"
                                      class="c-accordion__body s-lgc-pdp-content js-accordion__body"
                                      aria-labelledby="tabheading_2-1">
-                                    <span style="font-weight: bold;">SCIENTIFIC NAME:</span><span style=""> Lactuca
-                                    sativa<br/></span><span style="font-weight: bold;">CULTURE:</span><span style="">
-                                    Lettuce is a hardy, cool-weather crop and can be planted with your
-                                    earliest worked soil. It grows best at 60&ndash;65&deg;F (16&ndash;18&deg;C)
-                                    and germinates best below 70&deg;F (21&deg;C), so careful variety selection
-                                    is key for success in hotter weather. Sow every 2&ndash;3 weeks for a
-                                    continuous supply of either full heads or salad mix.<br/></span><span
-                                        style="font-weight: bold;">PELLETED SEED:</span><span style=""> Pelleted
-                                    seed requires a little extra attention when it comes to watering, as it
-                                    performs best with consistent, moderate soil moisture throughout the
-                                    germination period. An initial watering will split or dissolve the pellet,
-                                    but if the soil is allowed to dry out before the germination period is over,
-                                    the seed may receive insufficient moisture for optimal
-                                    germination.<br/></span><span style="font-weight: bold;">PELLET
-                                    STORAGE:</span><span style=""> Pelleting offers many advantages, but the
-                                    pelleting process also shortens the shelf life of the seed. We recommend
-                                    using pelleted seed within one year of purchase. If you need to store
-                                    pelleted seeds until planting, protect them from heat and humidity in a
-                                    cool, dark, dry place. If you prefer to store your seed in the refrigerator,
-                                    be sure to place the seed in an air-tight container to protect it from
-                                    fluctuations in humidity.<br/></span><span style="font-weight: bold;">THERMAL
-                                    DORMANCY:</span><span style=""> Lettuce
-                                    seed can enter <a class="tooltip-title"
-                                                      title="In thermal dormancy, a seed becomes dormant and fails to germinate due to exposure to sub-optimal temperatures">thermal
-                                        dormancy</a> when exposed to high temperatures. Optimum germination
-                                    results at soil temperatures of 60&ndash;68&deg;F (15.5&ndash;20&deg;C). The
-                                    priming process in pelleted lettuce seeds broadens the temperature range in
-                                    which the seeds will germinate, overcoming some of their thermal
-                                    dormancy.<br/></span><span style="font-weight: bold;">TRANSPLANTING for
-                                    HEAD LETTUCE:</span><span style=""> 3&ndash;4 weeks before field planting,
-                                    sow in 128-cell trays barely covered with vermiculite or fine soil. If
-                                    necessary, utilize shade and frequent misting to keep trays cooled below
-                                    75&deg;F (25&deg;C) during germination. Young plants properly hardened at
-                                    least 3&ndash;5 days before planting can survive temperatures as low as
-                                    20&deg;F (-6&deg;C). Transplant iceberg, romaine, and butterhead lettuce
-                                    10&ndash;12&quot; apart in rows 15&ndash;18&quot; apart, other types
-                                    8&ndash;10&quot; apart in rows 12&ndash;18&quot;, and mini heads as close as
-                                    6&quot; in a grid. <br/></span><span style="font-weight: bold;">DIRECT
-                                    SEEDING for BABY LEAF:</span><span style=""> Seeds can germinate well in
-                                    soils as low as 40&deg;F (4&deg;C) but often poorly above 75&deg;F
-                                    (24&deg;C). Sow 4&ndash;6 seeds/inch in rows at least 2&quot; apart. Cover
-                                    lightly to 1/8&quot; and firm gently. Dry soil must be watered to ensure
-                                    coolness and moisture for uniform germination. <br/></span><span
-                                        style="font-weight: bold;">HARVEST:</span><span style=""> Head Lettuce: Cut
-                                    at base, keeping wrapper leaves for handling loss. Consider cutting
-                                    alternating plants to extend harvest window, allowing remaining plants to
-                                    continue to grow. Pack heads in layers facing cut ends away. Wash off sap
-                                    and cool immediately to prevent staining and dehydration. Baby Leaf: Harvest
-                                    about 1&quot; above the growing point when leaves reach desired harvestable
-                                    length, about 3&ndash;4&quot; long. Remove harvest debris to improve
-                                    regrowth quality. <br/></span><span style="font-weight: bold;">STORAGE:</span><span
-                                        style=""> Keep cold at
-                                    35&ndash;40&deg;F (1&ndash;4&deg;C) with high humidity but free of standing
-                                    water. Head Lettuce: Keep 14&ndash;20 days, less for delicate types like
-                                    butterhead and oakleaf, and longer for lettuce grown slowly in cooler
-                                    temperatures. For one-cut types, extend season in cold weather by holding
-                                    cut heads in cooler up to two weeks to process into salad
-                                    mix.<br/></span><span style="font-weight: bold;">MT0 SEEDS:</span><span style=""> A
-                                    variety's description followed by &quot;MT0-30&quot; indicates
-                                    that the seed offered for sale has been tested for the presence of Lettuce
-                                    Mosaic Virus and that no LMV was found in a sample of at least 30,000
-                                    seeds.<br/></span><span style="font-weight: bold;">DAYS TO
-                                    MATURITY:</span><span style=""> Head Lettuce: from transplant; Baby Leaf:
-                                    from direct seeding. <br/></span><span style="font-weight: bold;">AVG.
-                                    DIRECT SEEDING RATE:</span><span style=""> For baby leaf: 1,000 seeds/16', 1
-                                    oz./400', 1 lb./6,400' at 60 seeds/ft.<br/></span><span
-                                        style="font-weight: bold;">TRANSPLANTS:</span><span style=""> Avg. 16,000
-                                    plants/oz.<br/></span><span style="font-weight: bold;">SEED
-                                    SPECS:</span><span style=""> SEEDS/OZ: Avg. 17,800.<br/></span><span
-                                        style="font-weight: bold;">PACKET:</span><span style=""> 500 seeds, unless
-                                    otherwise indicated.</span>
+                                     <span style="">{{ $data->section_two }}</span>
                                 </div>
                             </div>
 
@@ -1518,13 +1269,7 @@
                                 </div>
                                 <div role="tabpanel" id="tabpanel_4" class="c-accordion__body js-accordion__body"
                                      aria-labelledby="tabheading_4">
-                                    <p>Johnny's is committed to your success, every step of the way.</p>
-
-                                    <p>We want you, our customer, to be 100% satisfied with all of our seeds, tools,
-                                        and supplies.&nbsp;</p>
-
-                                    <p>If anything you purchase from us proves unsatisfactory, we will either
-                                        replace the item or refund the purchase price.</p>
+                                     <span style="">{{ $data->section_there }}</span>
                                 </div>
                             </div>
 

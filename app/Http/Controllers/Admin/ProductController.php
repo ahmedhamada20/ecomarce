@@ -46,7 +46,7 @@ class ProductController extends Controller
      */
     public function store(Request $request)
     {
-        dd($request->all());
+       
         if ($request->page_id == 3){
             // Insert Many Photos
             if ($request->hasfile('FilenameMany')) {
@@ -66,19 +66,26 @@ class ProductController extends Controller
             toastr()->success('تم الحفظ بنجاح');
             return redirect()->back();
         }
-
         $request->validate([
             'name' => 'required',
             'price' => 'required|numeric',
             'quantity' => 'required|numeric',
             'category_id' => 'required',
             'sub_category_id' => 'required',
+            'days' => 'required',
+            'life_cycle' => 'required',
+            'disease' => 'required',
+            'hybrid' => 'required',
         ], [
             'name.required' => 'هذا الحقل مطلوب',
             'price.required' => 'هذا الحقل مطلوب',
             'quantity.required' => 'هذا الحقل مطلوب',
             'category_id.required' => 'هذا الحقل مطلوب',
             'sub_category_id.required' => 'هذا الحقل مطلوب',
+            'days.required' => 'هذا الحقل مطلوب',
+            'life_cycle.required' => 'هذا الحقل مطلوب',
+            'disease.required' => 'هذا الحقل مطلوب',
+            'hybrid.required' => 'هذا الحقل مطلوب',
         ]);
 
         $data = Product::create([
@@ -88,8 +95,29 @@ class ProductController extends Controller
             'quantity' => $request->quantity,
             'category_id' => $request->category_id,
             'sub_category_id' => $request->sub_category_id,
+            'days' => $request->days,
+            'life_cycle' => $request->life_cycle,
+            'disease' => $request->disease,
+            'hybrid' => $request->hybrid,
+            'section_one' => $request->section_one,
+            'section_two' => $request->section_two,
+            'section_there' => $request->section_there,
+            
         ]);
 
+        if ($file = $request->file('photo')) {
+            $file_name = $file->getClientOriginalName();
+            $file_name_Extension = $request->file('photo')->getClientOriginalExtension();
+            $file_to_store = time() . '_' . explode('.', $file_name)[0] . '_.' . $file_name_Extension;
+
+            if ($file->move('admin/pictures/product' . '/' . $data->id, $file_to_store)) {
+                Photo::create([
+                    'Filename' => $file_to_store,
+                    'photoable_id' => $data->id,
+                    'photoable_type' => 'App\Models\Product',
+                ]);
+            }
+        }
 
         // Insert Many Photos
         if ($request->hasfile('FilenameMany')) {
@@ -149,12 +177,20 @@ class ProductController extends Controller
             'quantity' => 'required|numeric',
             'category_id' => 'required',
             'sub_category_id' => 'required',
+            'days' => 'required',
+            'life_cycle' => 'required',
+            'disease' => 'required',
+            'hybrid' => 'required',
         ], [
             'name.required' => 'هذا الحقل مطلوب',
             'price.required' => 'هذا الحقل مطلوب',
             'quantity.required' => 'هذا الحقل مطلوب',
             'category_id.required' => 'هذا الحقل مطلوب',
             'sub_category_id.required' => 'هذا الحقل مطلوب',
+            'days.required' => 'هذا الحقل مطلوب',
+            'life_cycle.required' => 'هذا الحقل مطلوب',
+            'disease.required' => 'هذا الحقل مطلوب',
+            'hybrid.required' => 'هذا الحقل مطلوب',
         ]);
 
         $data = Product::findorfail($request->id);
@@ -165,8 +201,31 @@ class ProductController extends Controller
             'quantity' => $request->quantity,
             'category_id' => $request->category_id,
             'sub_category_id' => $request->sub_category_id,
+            'days' => $request->days,
+            'life_cycle' => $request->life_cycle,
+            'disease' => $request->disease,
+            'hybrid' => $request->hybrid,
+            'section_one' => $request->section_one,
+            'section_two' => $request->section_two,
+            'section_there' => $request->section_there,
+            
         ]);
 
+        if ($file = $request->file('photo')) {
+            File::delete(public_path('admin/pictures/product'. $request->id . '/' . $request->oldfile));
+
+            $file_name = $file->getClientOriginalName();
+            $file_name_Extension = $request->file('photo')->getClientOriginalExtension();
+            $file_to_store = time() . '_' . explode('.', $file_name)[0] . '_.' . $file_name_Extension;
+
+            if ($file->move('admin/pictures/product' . '/' . $data->id, $file_to_store)) {
+                Photo::create([
+                    'Filename' => $file_to_store,
+                    'photoable_id' => $request->id,
+                    'photoable_type' => 'App\Models\Product',
+                ]);
+            }
+        }
         toastr()->success('تم التعديل بنجاح');
         return redirect('product');
     }
