@@ -28,7 +28,16 @@
 <div class="row">
     <div class="col">
         <div class="card m-b-30">
-          
+          <div class="card-header">
+            <div class="pull-right">
+                <a class="btn btn-success" href="{{ route('users.create') }}">اضافه مستخدم جديد</a>
+            </div>
+            @if ($message = Session::get('success'))
+<div class="alert alert-success">
+  <p>{{ $message }}</p>
+</div>
+@endif
+          </div>
             <div class="card-body">
 
                 <table id="datatable" class="table table-bordered dt-responsive nowrap"
@@ -38,7 +47,9 @@
                             <th>#</th>
                             <th>اسم المستخدم</th>
                             <th>البريد الالكتروني</th>
-                           
+                            <th>الصلاحيه</th>
+                            <th>العمليات</th>
+
                         </tr>
                     </thead>
 
@@ -51,11 +62,27 @@
                             <td>{{$loop->index+1}}</td>
                             <td>{{$row->name}}</td>
                             <td>{{$row->email}}</td>
+                            <td>
+                                @if(!empty($row->getRoleNames()))
+                                  @foreach($row->getRoleNames() as $v)
+                                     <label class="badge badge-success">{{ $v }}</label>
+                                  @endforeach
+                                @endif
+                              </td>
+
+                              <td>
+                                <a class="btn btn-info" href="{{ route('users.show',$row->id) }}">Show</a>
+                                <a class="btn btn-primary" href="{{ route('users.edit',$row->id) }}">Edit</a>
+                                 {!! Form::open(['method' => 'DELETE','route' => ['users.destroy', $row->id],'style'=>'display:inline']) !!}
+                                     {!! Form::submit('Delete', ['class' => 'btn btn-danger']) !!}
+                                 {!! Form::close() !!}
+                             </td>
                         </tr>
                         @endforeach
                     </tbody>
                 </table>
 
+                {!! $data->render() !!}
             </div>
         </div>
     </div>

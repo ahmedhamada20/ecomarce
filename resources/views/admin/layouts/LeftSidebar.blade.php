@@ -66,15 +66,17 @@
                     <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-view-thumb"></i><span> الطلبات </span> <span class="menu-arrow float-right"><i class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                         <li><a href="{{ route('order.index') }}">جميع الطلبات</a></li>
-                      
+
                     </ul>
                 </li>
 
 
                 <li class="has_sub">
-                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span> المستخدمين </span> <span class="menu-arrow float-right"><i class="mdi mdi-chevron-right"></i></span></a>
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span> المستخدمين و الصلاحيات </span> <span class="menu-arrow float-right"><i class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
+                        <li><a href="{{ route('roles.index') }}">جميع الصلاحيات</a></li>
                         <li><a href="{{ route('users.index') }}">جميع المستخدمين</a></li>
+
                     </ul>
                 </li>
 
