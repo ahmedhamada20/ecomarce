@@ -1,0 +1,1033 @@
+{
+  "action": "Product-Variation",
+  "queryString": "dwvar_320_sizecode=54&pid=320&quantity=1",
+  "locale": "en_US",
+  "product": {
+    "uuid": "bf5ea1ea432d9b998fa9ccc147",
+    "id": "320.54",
+    "productName": "Kolibri",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 82.4,
+        "currency": "USD",
+        "formatted": "$82.40",
+        "decimalPrice": "82.40"
+      },
+      "list": null,
+      "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"82.40\">\n        \n        $82.40\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"82.40\">\n        \n        $82.40\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Kolibri",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwabcc1147/images/products/vegetables/00320_01_kolibri.jpg?sw=800&sh=800",
+          "title": "Kolibri"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Kolibri",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwabcc1147/images/products/vegetables/00320_01_kolibri.jpg?sw=140&sh=140",
+          "title": "Kolibri"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "5,000 Seeds",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=11&pid=320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=11&pid=320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "320.11",
+            "price": {
+              "sales": {
+                "value": 5.15,
+                "currency": "USD",
+                "formatted": "$5.15",
+                "decimalPrice": "5.15"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"5.15\">\n        \n        $5.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "51",
+            "description": null,
+            "displayValue": "250 Seeds",
+            "value": "51",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=51&pid=320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=51&pid=320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "320.51",
+            "price": {
+              "sales": {
+                "value": 8.05,
+                "currency": "USD",
+                "formatted": "$8.05",
+                "decimalPrice": "8.05"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"8.05\">\n        \n        $8.05\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=53&pid=320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=53&pid=320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "320.53",
+            "price": {
+              "sales": {
+                "value": 19.55,
+                "currency": "USD",
+                "formatted": "$19.55",
+                "decimalPrice": "19.55"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"19.55\">\n        \n        $19.55\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": true,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=&pid=320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "320.54",
+            "price": {
+              "sales": {
+                "value": 82.4,
+                "currency": "USD",
+                "formatted": "$82.40",
+                "decimalPrice": "82.40"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"82.40\">\n        \n        $82.40\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "56",
+            "description": null,
+            "displayValue": "25,000 Seeds",
+            "value": "56",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=56&pid=320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=56&pid=320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "320.56",
+            "price": {
+              "sales": {
+                "value": 358.75,
+                "currency": "USD",
+                "formatted": "$358.75",
+                "decimalPrice": "358.75"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"358.75\">\n        \n        $358.75\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=&pid=320&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >3&quot; bulbs with uniform, deep purple skin and nearly fiberless, crisp, white flesh. Avg. 4,900 seeds/oz. Packet: 100 seeds.</span>",
+    "shortDescription": "Prettiest, most uniform purple variety.",
+    "rating": 3.1,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "(F1) Kohlrabi Seed"
+            ],
+            "val": [
+              "(F1) Kohlrabi Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "54"
+            ],
+            "val": [
+              "54"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Brassica oleracea var. gongylodes"
+            ],
+            "val": [
+              "Brassica oleracea var. gongylodes"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "45"
+            ],
+            "val": [
+              "45"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-116"
+            ],
+            "val": [
+              "culture-116"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              45
+            ],
+            "val": [
+              45
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "(F1) Kohlrabi Seed"
+            ],
+            "val": [
+              "(F1) Kohlrabi Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Prettiest, most uniform purple variety."
+            ],
+            "val": [
+              "Prettiest, most uniform purple variety."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid"
+            ],
+            "val": [
+              "128"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Recommended Summer Planting for Fall Harvest",
+              "Start Early For Transplants"
+            ],
+            "val": [
+              "45",
+              "72"
+            ]
+          },
+          {
+            "label": "Product Feature Color",
+            "ID": "prod_feature_color",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Purple"
+            ],
+            "val": [
+              "89"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.0787
+            ],
+            "val": [
+              0.0787
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Brassica oleracea var. gongylodes"
+            ],
+            "val": [
+              "Brassica oleracea var. gongylodes"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "45"
+            ],
+            "val": [
+              "45"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": null
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_320_sizecode=54&pid=320.54&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/kohlrabi/fresh-market-kohlrabi/kolibri-f1-kohlrabi-seed-320.html?dwvar_320_sizecode=54&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": "320, Kolibri, (F1) Kohlrabi Seed, Annual, Brassica oleracea (gongylodes group), Kohlrabi, Fresh Eating 320, purple kohlrabi, kolibri, brassica oleracea, containers, pots, potting, hybrid kohlrabi, kohlrabi slaw, light cooking, salad mix, micro mix, micromix, 320X",
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "(F1) Kohlrabi Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AE",
+      "1": "AT",
+      "2": "AU",
+      "3": "BB",
+      "4": "BE",
+      "5": "BG",
+      "6": "BM",
+      "7": "BS",
+      "8": "CH",
+      "9": "CY",
+      "10": "CZ",
+      "11": "DE",
+      "12": "DK",
+      "13": "EE",
+      "14": "ES",
+      "15": "FI",
+      "16": "FR",
+      "17": "GB",
+      "18": "GR",
+      "19": "HK",
+      "20": "HR",
+      "21": "HU",
+      "22": "IE",
+      "23": "IS",
+      "24": "IT",
+      "25": "JP",
+      "26": "KR",
+      "27": "KW",
+      "28": "KY",
+      "29": "LT",
+      "30": "LU",
+      "31": "LV",
+      "32": "MY",
+      "33": "NL",
+      "34": "NO",
+      "35": "NZ",
+      "36": "OM",
+      "37": "PL",
+      "38": "PT",
+      "39": "QA",
+      "40": "RO",
+      "41": "SA",
+      "42": "SE",
+      "43": "SG",
+      "44": "SI",
+      "45": "SK",
+      "46": "SM",
+      "47": "TH",
+      "48": "TT",
+      "49": "TW",
+      "50": "UA"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Prettiest, most uniform purple variety.",
+    "daysToMaturityString": "45 Days",
+    "relatedAssetsArray": [],
+    "availableSubstitutes": false,
+    "orderableRecommendationsPIDs": [],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": false,
+    "productVideos": [],
+    "productFilteredFeatures": [],
+    "availabilityStatus": "IN_STOCK",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Fresh Market Kohlrabi",
+    "minPrice": {},
+    "maxPrice": {},
+    "attributesHtml": "\n\n\n    <div class=\"col-sm-12 col-md-4 col-lg-3\">\n        <button class=\"title btn text-left btn-block d-sm-none\"\n                aria-expanded=\"false\" aria-controls=\"collapsible-attributes-1\"\n        >\n            Attributes\n        </button>\n        <h2 class=\"title d-none d-sm-block\">\n            Attributes\n        </h2>\n    </div>\n    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\" id=\"collapsible-attributes-1\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    Product Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                (F1) Kohlrabi Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Size Code:\n                            \n                                54\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    PIM Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Latin Name:\n                            \n                                Brassica oleracea var. gongylodes\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Canada:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions State:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Foreign:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is New:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Internet Only:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Pelleted:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Clearance:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Plant Type ID:\n                            \n                                seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                45\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Life Cycle ID:\n                            \n                                Annual\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Featured:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Favorite:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Culture Content ID:\n                            \n                                culture-116\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Sale:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Overstock:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Current Promo:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Crop Failure:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature High:\n                            \n                                45\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature Unit:\n                            \n                                Days\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                (F1) Kohlrabi Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Germination Guide Image:\n                            \n                                com.demandware.beehive.core.capi.domain.SimpleMediaFile@2324519f\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Hybrid Status:\n                            \n                                Hybrid (F1)\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Grid Description:\n                            \n                                Prettiest, most uniform purple variety.\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Life Cycle:\n                            \n                                Annual\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Treated:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_seed_type:\n                            \n                                Hybrid\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Additional:\n                            \n                                Recommended Summer Planting for Fall Harvest\n                            \n                                Start Early For Transplants\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Color:\n                            \n                                Purple\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Shipping\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Shipping Weight:\n                            \n                                0.0787\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "\n\n\n",
+    "optionsHtml": "\n\n\n",
+    "shippingAlertsHtml": "\n"
+  },
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "pageData": {
+    "products": [
+      {
+        "name": "Kolibri",
+        "id": "320",
+        "price": "82.40",
+        "category": "Vegetables/Kohlrabi/Fresh Market Kohlrabi",
+        "variant": "320.54",
+        "quantity": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+.quantity-counter{
+    display: flex;
+    background: #eeee;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 100%;
+    margin: 0;
+    padding: 1rem;
+}
+
+.quantity-counter button{
+    background: none;
+    border: none;
+}
+
+.item-container-list{
+    position: relative;
+}
+
+.remove-item-container{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.remove-item-container .remove-item{
+    background: none;
+    border: none;
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+.cart-details{
+    padding: 1rem;
+    height: 25rem;
+    border: 1px solid rgba(141, 141, 141, 0.474);
+}
+
+.ad-shipping-text{
+    color: #d11a1a;
+    text-decoration: wavy;
+}
+
+.checkout-btn{
+    border: 0;
+    background: #d11a1a;
+    padding: 0.5rem;
+    color: #fff;
+}
+
+.checkout-btn:hover{
+    background: #ef2626;
+}

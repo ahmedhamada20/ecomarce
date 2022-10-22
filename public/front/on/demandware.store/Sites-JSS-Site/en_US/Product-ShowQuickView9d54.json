@@ -1,0 +1,1123 @@
+{
+  "action": "Product-ShowQuickView",
+  "queryString": "pid=741",
+  "locale": "en_US",
+  "product": {
+    "uuid": "2d56175424bcc893b3dae07dab",
+    "id": "741.11",
+    "productName": "Valley Girl",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 5.15,
+        "currency": "USD",
+        "formatted": "$5.15",
+        "decimalPrice": "5.15"
+      },
+      "list": null
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"5.15\">\n        \n        $5.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Valley Girl",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw13f97a8b/images/products/vegetables/00741_01_valley_girl.jpg?sw=800&sh=800",
+          "title": "Valley Girl"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Valley Girl",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw13f97a8b/images/products/vegetables/00741_01_valley_girl.jpg?sw=140&sh=140",
+          "title": "Valley Girl"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "Packet",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": true,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=&pid=741&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=11&pid=741&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "741.11",
+            "price": {
+              "sales": {
+                "value": 5.15,
+                "currency": "USD",
+                "formatted": "$5.15",
+                "decimalPrice": "5.15"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"5.15\">\n        \n        $5.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "51",
+            "description": null,
+            "displayValue": "250 Seeds",
+            "value": "51",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=51&pid=741&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=51&pid=741&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "741.51",
+            "price": {
+              "sales": {
+                "value": 14.95,
+                "currency": "USD",
+                "formatted": "$14.95",
+                "decimalPrice": "14.95"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"14.95\">\n        \n        $14.95\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "52",
+            "description": null,
+            "displayValue": "500 Seeds",
+            "value": "52",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=52&pid=741&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=52&pid=741&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "741.52",
+            "price": {
+              "sales": {
+                "value": 27.95,
+                "currency": "USD",
+                "formatted": "$27.95",
+                "decimalPrice": "27.95"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"27.95\">\n        \n        $27.95\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=53&pid=741&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=53&pid=741&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "741.53",
+            "price": {
+              "sales": {
+                "value": 47.53,
+                "currency": "USD",
+                "formatted": "$47.53",
+                "decimalPrice": "47.53"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"47.53\">\n        \n        $47.53\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=54&pid=741&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=54&pid=741&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "741.54",
+            "price": {
+              "sales": {
+                "value": 245.4,
+                "currency": "USD",
+                "formatted": "$245.40",
+                "decimalPrice": "245.40"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"245.40\">\n        \n        $245.40\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_741_sizecode=&pid=741&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >This productive, flavorful tomato has been a top yielder in numerous areas. Maturing early, the medium-size (avg. 7&ndash;8 oz.), globe-shaped red fruits ripen uniformly and are firm, smooth, and crack tolerant. Growers report that Valley Girl continues producing longer than other early varieties. Our best early variety for fruit set under temperature stress. Widely adapted. High resistance to fusarium wilt races 1, 2 and verticillium wilt. Determinate. Avg. 11,050 seeds/oz. Packet: 40 seeds.</span>",
+    "shortDescription": "Sets fruit under heat or cold stress.",
+    "rating": 3.1,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "(F1) Tomato Seed"
+            ],
+            "val": [
+              "(F1) Tomato Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "11"
+            ],
+            "val": [
+              "11"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "late-blight-awareness-prevention",
+              "tomatoes-determinate-comparison-chart",
+              "video-v30",
+              "video-v57",
+              "video-v58"
+            ],
+            "val": [
+              "late-blight-awareness-prevention",
+              "tomatoes-determinate-comparison-chart",
+              "video-v30",
+              "video-v57",
+              "video-v58"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Solanum lycopersicum"
+            ],
+            "val": [
+              "Solanum lycopersicum"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "65"
+            ],
+            "val": [
+              "65"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-143"
+            ],
+            "val": [
+              "culture-143"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              65
+            ],
+            "val": [
+              65
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "(F1) Tomato Seed"
+            ],
+            "val": [
+              "(F1) Tomato Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "F",
+              "V"
+            ],
+            "val": [
+              "F",
+              "V"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Productive and flavorful tomato, sets fruit under heat or cold stress."
+            ],
+            "val": [
+              "Productive and flavorful tomato, sets fruit under heat or cold stress."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid"
+            ],
+            "val": [
+              "128"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Start Early For Transplants"
+            ],
+            "val": [
+              "72"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Online Only"
+            ],
+            "val": [
+              "5"
+            ]
+          },
+          {
+            "label": "Growth Habit",
+            "ID": "prod_feature_grow_hab",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Determinate"
+            ],
+            "val": [
+              "159"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.0068
+            ],
+            "val": [
+              0.0068
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Solanum lycopersicum"
+            ],
+            "val": [
+              "Solanum lycopersicum"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "65"
+            ],
+            "val": [
+              "65"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "F",
+              "V"
+            ],
+            "val": [
+              "F",
+              "V"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "Temporarily Unavailable"
+      ],
+      "inStockDate": null
+    },
+    "available": false,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=741.11&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/tomatoes/slicing-tomatoes/valley-girl-f1-tomato-seed-741.html?dwvar_741_sizecode=11&quantity=undefined",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": "741, Valley Girl, (F1) Tomato Seed, Annual, Solanum lycopersicum, Tomatoes, Determinate, Red 741, lycopersicon esculentum, jss exclusive, johnnys exclusive,johnny's exclusive,cold tolerant, hybrid, tomatoes, short vine, determinate, valley girl, red, vigorous,f2,fusarium,verticillium wilt",
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "(F1) Tomato Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AT",
+      "1": "AU",
+      "2": "BE",
+      "3": "BG",
+      "4": "CY",
+      "5": "CZ",
+      "6": "DE",
+      "7": "DK",
+      "8": "EE",
+      "9": "ES",
+      "10": "FI",
+      "11": "FR",
+      "12": "GB",
+      "13": "GR",
+      "14": "HR",
+      "15": "HU",
+      "16": "IE",
+      "17": "IT",
+      "18": "JP",
+      "19": "KR",
+      "20": "LT",
+      "21": "LU",
+      "22": "LV",
+      "23": "NL",
+      "24": "PL",
+      "25": "PT",
+      "26": "RO",
+      "27": "SE",
+      "28": "SI",
+      "29": "SK",
+      "30": "TW"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Productive and flavorful tomato, sets fruit under heat or cold stress.",
+    "daysToMaturityString": "65 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "document",
+        "title": "Late Blight Awareness & Prevention | Tech Sheet (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "comparisonchart",
+        "title": "Determinate Tomato Varieties | Dynamic Comparison Chart",
+        "link": {}
+      },
+      {
+        "mediaType": "video",
+        "title": "Video: How to Control Tomato [and Tobacco] Hornworms",
+        "link": {}
+      },
+      {
+        "mediaType": "video",
+        "title": "Video: How to Identify Late Blight on Tomatoes",
+        "link": {}
+      },
+      {
+        "mediaType": "video",
+        "title": "Video: How to Manage Late Blight on Tomatoes (Phytophthora infestans)",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": true,
+    "orderableRecommendationsPIDs": [
+      "4055G"
+    ],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": false,
+    "productVideos": [],
+    "productFilteredFeatures": [],
+    "availabilityStatus": "NOT_AVAILABLE",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Slicing Tomatoes",
+    "minPrice": {},
+    "maxPrice": {}
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "quickViewFullDetailMsg": "View Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "datalayerAjaxData": {
+    "currencyCode": "USD",
+    "products": [
+      {
+        "name": "Valley Girl",
+        "id": "741",
+        "price": "5.15",
+        "category": "Vegetables/Tomatoes/Slicing Tomatoes",
+        "variant": "",
+        "quantity": 1
+      }
+    ]
+  },
+  "recomendationProductDetails": {},
+  "urls": {
+    "product": "/vegetables/tomatoes/beefsteak-tomatoes/galahad-organic-f1-tomato-seed-4055G.html",
+    "quickView": "/on/demandware.store/Sites-JSS-Site/en_US/Product-ShowQuickView?pid=4055G"
+  },
+  "validatePerishableproductURL": {},
+  "masterProductID": "741",
+  "renderedTemplate": "\n\n\n\n\n\n<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"741.11\">\n    <div class=\"row\">\n        <div class=\"col-12 col-lg-4 mb-lg-5\">\n            <div class=\"row product-header mb-2 align-items-end d-lg-none\">\n                <!-- Product Name -->\n                <div class=\"col-12\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Valley Girl <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">&#40;F1&#41; Tomato Seed</span></h1>\n                </div>\n                <div class=\"col-12 mb-lg-2\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">741.11</span><span class=\"master-product-id\">741</span>\n\n                    </span>\n                </div>\n                <!-- Applicable Promotions -->\n                <span class=\"col-12 promotions mt-1 d-lg-none\">\n                    \n\n\n\n                </span>\n            </div>\n            <!-- Product Images Carousel -->\n            \n\n\n\n\n<div class=\"primary-images\">\n    <div id=\"pdpCarousel-741\" class=\"carousel slide \" data-interval=\"0\" data-prev=\"Previous\" data-next=\"Next\">\n        <div class=\"carousel-inner\" role=\"listbox\">\n            <div class=\"zoom-image\">Zoom Image</div>\n\n            \n            \n                <div data-slide=\"0\" class='carousel-item active'>\n                    <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw13f97a8b/images/products/vegetables/00741_01_valley_girl.jpg?sw=800&amp;sh=800\" class=\"d-block img-fluid\" alt=\"Valley Girl Slicing Tomatoes\" itemprop=\"image\" />\n                </div>\n            \n        </div>\n        \n            <div class=\"thumbnail-images-inner\">\n                <ol class=\"carousel-indicators\">\n                    \n\t                    <div data-target=\"#pdpCarousel-741\" data-slide-to=\"0\" class=\"thumbnail-image   \">\n                            <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw13f97a8b/images/products/vegetables/00741_01_valley_girl.jpg?sw=140&amp;sh=140\" class=\"d-block img-fluid\" alt=\"Valley Girl Slicing Tomatoes\" itemprop=\"image\" />\n                        </div>\n\t                    \n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t                \n\t            </ol>\n                \n            </div>\n        \n    </div>\n</div>\n        </div>\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-lg-8\">\n            <div class=\"row product-header align-items-end align-items-lg-start d-none d-lg-flex\">\n                <!-- Product Name -->\n                <div class=\"col-6\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Valley Girl <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">&#40;F1&#41; Tomato Seed</span></h1>\n                </div>\n                <div class=\"col-6 text-right\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1 mb-2 mb-md-4 mb-lg-0 d-flex justify-content-end\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">741.11</span><span class=\"master-product-id\">741</span>\n\n                    </span>\n                    <!-- Applicable Promotions -->\n                    <span class=\"promotions text-md-right justify-content-lg-end\">\n                        \n\n\n\n                    </span>\n                </div>\n            </div>\n\n            <div class=\"row mt-2 mt-lg-3\">\n                \n                <div class=\"description-and-detail col-12\">\n    \n\n    \n        <div class=\"details collapsible-xs \">\n            \n    <p id=\"collapsible-details-1\">\n        <span style=\"color: #000000;\" >This productive, flavorful tomato has been a top yielder in numerous areas. Maturing early, the medium-size (avg. 7&ndash;8 oz.), globe-shaped red fruits ripen uniformly and are firm, smooth, and crack tolerant. Growers report that Valley Girl continues producing longer than other early varieties. Our best early variety for fruit set under temperature stress. Widely adapted. High resistance to fusarium wilt races 1, 2 and verticillium wilt. Determinate. Avg. 11,050 seeds/oz. Packet: 40 seeds.</span>\n    </p>\n\n\n        </div>\n        <button type=\"button\" class=\"c-content-toggle-trigger js-ct-trigger d-none\" data-active-content=\"Less\">\n            Read More\n        </button>\n    \n</div>\n\n            </div>\n\n            <div class=\"row w-100 shipping-alerts\">\n                \n\n            </div>\n            <div class=\"row\">\n                \n                \n            </div>\n            <!-- Attributes -->\n\n            \n            \n                    \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n            \n            \n            \n                <div class=\"substitutes\">\n                    <h3 class=\"brand-h4 mb-4\">Johnny's Recommended Substitute </h3>\n                    \n                        <div class=\"product\" data-pid=\"4055G\">\n                            <div class=\"product-tile d-flex flex-column flex-lg-row w-100\">\n    <!-- dwMarker=\"product\" dwContentID=\"2d56175424bcc893b3dae07dab\" -->\n    \n\n\n\t\n    \n\n\n<div class=\"image-container\">\n    \n    <a class=\"tile-image-link\" href=\"/vegetables/tomatoes/beefsteak-tomatoes/galahad-organic-f1-tomato-seed-4055G.html\" title=\"Galahad\">\n        <img class=\"tile-image\"\n             src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwd57f9b95/images/products/vegetables/04055g_01_galahad.jpg?sw=400&amp;sh=400\"\n             alt=\"Galahad Beefsteak Tomatoes\"\n             title=\"Galahad\"\n             itemprop=\"image\"/>\n    </a>\n    \n\n    \n</div>\n\n    <div class=\"tile-body\">\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n    \n\n\n\n\t<div class=\"pdp-link\">\n\t\t<a class=\"link tile-name-link\" href=\"/vegetables/tomatoes/beefsteak-tomatoes/galahad-organic-f1-tomato-seed-4055G.html\">\n\t\t\t\n\t\t\t\t<div class=\"tile-name product-name\" itemprop=\"name\">\n\t\t\t\t\tGalahad\n\t\t\t\t</div>\n\t\t\t\n\t\t\t\n\t\t\t\t<div class=\"tile-secondary-name product-secondary\" itemprop=\"alternateName\">\n\t\t\t\t\tOrganic &#40;F1&#41; Tomato Seed\n\t\t\t\t</div>\n\t\t\t\n\t\t</a>\n\t\t\n\t</div>\n\n        \n\t\n\n\n\t<div class=\"tile-description d-none d-lg-block\">Delicious early determinate beefsteak.</div>\n\n\t\t<div class=\"c-action-row mt-3\">\n\t\t\t<a class=\"c-button btn btn-primary\" href=\"/vegetables/tomatoes/beefsteak-tomatoes/galahad-organic-f1-tomato-seed-4055G.html\">View Details</a>\n\t\t</div>\n    </div>\n    <!-- END_dwmarker -->\n</div>\n\n                        </div>\n                    \n                </div>\n            \n        </div>\n    </div>\n\n    \n    \n</div>\n",
+  "productUrl": "/vegetables/tomatoes/slicing-tomatoes/valley-girl-f1-tomato-seed-741.11.html"
+}

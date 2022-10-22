@@ -1,0 +1,1115 @@
+{
+  "action": "Product-Variation",
+  "queryString": "dwvar_675G_sizecode=36&pid=675G&quantity=1",
+  "locale": "en_US",
+  "product": {
+    "uuid": "1f16d1419f9981bc5629c46e55",
+    "id": "675G.36",
+    "productName": "Delicata JS",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 396.4,
+        "currency": "USD",
+        "formatted": "$396.40",
+        "decimalPrice": "396.40"
+      },
+      "list": null,
+      "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"396.40\">\n        \n        $396.40\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"396.40\">\n        \n        $396.40\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Delicata JS",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw92f81132/images/products/vegetables/00675g_01_delicatajs.jpg?sw=800&sh=800",
+          "title": "Delicata JS"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Delicata JS",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw92f81132/images/products/vegetables/00675g_01_delicatajs.jpg?sw=140&sh=140",
+          "title": "Delicata JS"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "5 Pounds",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=11&pid=675G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=11&pid=675G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "675G.11",
+            "price": {
+              "sales": {
+                "value": 5.4,
+                "currency": "USD",
+                "formatted": "$5.40",
+                "decimalPrice": "5.40"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"5.40\">\n        \n        $5.40\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "26",
+            "description": null,
+            "displayValue": "1 Ounce",
+            "value": "26",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=26&pid=675G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=26&pid=675G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "675G.26",
+            "price": {
+              "sales": {
+                "value": 10.15,
+                "currency": "USD",
+                "formatted": "$10.15",
+                "decimalPrice": "10.15"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"10.15\">\n        \n        $10.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "30",
+            "description": null,
+            "displayValue": "1/4 Pound",
+            "value": "30",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=30&pid=675G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=30&pid=675G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "675G.30",
+            "price": {
+              "sales": {
+                "value": 26.6,
+                "currency": "USD",
+                "formatted": "$26.60",
+                "decimalPrice": "26.60"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"26.60\">\n        \n        $26.60\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "32",
+            "description": null,
+            "displayValue": "1 Pound",
+            "value": "32",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=32&pid=675G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=32&pid=675G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "675G.32",
+            "price": {
+              "sales": {
+                "value": 88.2,
+                "currency": "USD",
+                "formatted": "$88.20",
+                "decimalPrice": "88.20"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"88.20\">\n        \n        $88.20\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "36",
+            "description": null,
+            "displayValue": "5 Pounds",
+            "value": "36",
+            "selected": true,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=&pid=675G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "675G.36",
+            "price": {
+              "sales": {
+                "value": 396.4,
+                "currency": "USD",
+                "formatted": "$396.40",
+                "decimalPrice": "396.40"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"396.40\">\n        \n        $396.40\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=&pid=675G&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >Unique appearance with cream skin and dark green longitudinal stripes and flecks. Tastes very sweet and skin is tender enough to eat. Excellent for stuffing and baking, even right at harvest! This beautiful strain has gained a nice following in the specialty produce trade. 7&ndash;9&quot; long x 3&quot; diam. Avg. weight: 1 1/2&ndash;2 lb. USDA Certified Organic. Avg. 7,800 seeds/lb. Packet: 30 seeds.</span>",
+    "shortDescription": "Our distinct, widely grown strain.",
+    "rating": 3.5,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Delicata Squash Seed"
+            ],
+            "val": [
+              "Organic Delicata Squash Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "36"
+            ],
+            "val": [
+              "36"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "winter-squash-production-tech-sheet",
+              "winter-squash-comparison-chart-pdf",
+              "winter-squash-eating-guide",
+              "eating-quality-in-winter-squashes",
+              "winter-squash-eating-experience-slideshow"
+            ],
+            "val": [
+              "winter-squash-production-tech-sheet",
+              "winter-squash-comparison-chart-pdf",
+              "winter-squash-eating-guide",
+              "eating-quality-in-winter-squashes",
+              "winter-squash-eating-experience-slideshow"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Cucurbita pepo"
+            ],
+            "val": [
+              "Cucurbita pepo"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "100"
+            ],
+            "val": [
+              "100"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-451"
+            ],
+            "val": [
+              "culture-451"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              100
+            ],
+            "val": [
+              100
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Delicata Squash Seed"
+            ],
+            "val": [
+              "Organic Delicata Squash Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Easy Choice",
+              "Developed by Johnny's",
+              "Organic Seeds, Plants, and Supplies"
+            ],
+            "val": [
+              "8",
+              "14",
+              "3"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Our distinct, widely grown strain."
+            ],
+            "val": [
+              "Our distinct, widely grown strain."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Seeds, Plants, and Supplies",
+              "Open Pollinated"
+            ],
+            "val": [
+              "3",
+              "129"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Easy Choice",
+              "Bred by Johnny's"
+            ],
+            "val": [
+              "8",
+              "14"
+            ]
+          },
+          {
+            "label": "Type",
+            "ID": "prod_feature_cat_ref",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Delicata (Sweet Dumpling)"
+            ],
+            "val": [
+              "202"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              6.3
+            ],
+            "val": [
+              6.3
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Cucurbita pepo"
+            ],
+            "val": [
+              "Cucurbita pepo"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "100"
+            ],
+            "val": [
+              "100"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Easy Choice",
+              "Developed by Johnny's",
+              "Organic Seeds, Plants, and Supplies"
+            ],
+            "val": [
+              "8",
+              "14",
+              "3"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "comparison-fields",
+        "name": "Comparison Fields",
+        "attributes": [
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "100"
+            ],
+            "val": [
+              "100"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": null
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_675G_sizecode=36&pid=675G.36&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/squash/winter-squash/delicata-js-organic-delicata-squash-seed-675G.html?dwvar_675G_sizecode=36&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": "675G, Delicata JS, Organic Squash Seed, Annual, Cucurbita pepo, Squash, Winter, Delicata/Sweet Dumpling",
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "Organic Delicata Squash Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AU",
+      "1": "JP",
+      "2": "KR",
+      "3": "NZ",
+      "4": "TW"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Our distinct, widely grown strain.",
+    "daysToMaturityString": "100 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "document",
+        "title": "Winter Squash Production | Tech Sheet (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "comparisonchart",
+        "title": "Winter Squash Varieties | Comparison Chart (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Curing & Storage Chart for Different Kinds of Winter Squash",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Eating Quality in Winter Squashes | Why Some Varieties Just Taste Better Than Others",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "The Winter Squash Eating Experience | Basic Differences in Eating Quality Between 7 Types",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": false,
+    "orderableRecommendationsPIDs": [],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": false,
+    "productVideos": [],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb8b50c3b/images/svgs/product_feature/14.svg",
+        "value": "14",
+        "displayValue": "Developed by Johnny's"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb74dfb93/images/svgs/product_feature/3.svg",
+        "value": "3",
+        "displayValue": "Organic Seeds, Plants, and Supplies"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dweda59d86/images/svgs/product_feature/8.svg",
+        "value": "8",
+        "displayValue": "Easy Choice"
+      }
+    ],
+    "availabilityStatus": "IN_STOCK",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Winter Squash",
+    "minPrice": {},
+    "maxPrice": {},
+    "attributesHtml": "\n\n\n    <div class=\"col-sm-12 col-md-4 col-lg-3\">\n        <button class=\"title btn text-left btn-block d-sm-none\"\n                aria-expanded=\"false\" aria-controls=\"collapsible-attributes-1\"\n        >\n            Attributes\n        </button>\n        <h2 class=\"title d-none d-sm-block\">\n            Attributes\n        </h2>\n    </div>\n    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\" id=\"collapsible-attributes-1\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    Product Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                Organic Delicata Squash Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Size Code:\n                            \n                                36\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Related Assets\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Related Assets:\n                            \n                                winter-squash-production-tech-sheet\n                            \n                                winter-squash-comparison-chart-pdf\n                            \n                                winter-squash-eating-guide\n                            \n                                eating-quality-in-winter-squashes\n                            \n                                winter-squash-eating-experience-slideshow\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    PIM Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Latin Name:\n                            \n                                Cucurbita pepo\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Canada:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions State:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Foreign:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is New:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Internet Only:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Pelleted:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Clearance:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Plant Type ID:\n                            \n                                seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                100\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Life Cycle ID:\n                            \n                                Annual\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Featured:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Favorite:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Culture Content ID:\n                            \n                                culture-451\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Sale:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Overstock:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Current Promo:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Crop Failure:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature High:\n                            \n                                100\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature Unit:\n                            \n                                Days\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                Organic Delicata Squash Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Germination Guide Image:\n                            \n                                com.demandware.beehive.core.capi.domain.SimpleMediaFile@5a436c50\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Hybrid Status:\n                            \n                                Open Pollinated\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Features:\n                            \n                                Easy Choice\n                            \n                                Developed by Johnny's\n                            \n                                Organic Seeds, Plants, and Supplies\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Grid Description:\n                            \n                                Our distinct, widely grown strain.\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Life Cycle:\n                            \n                                Annual\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Treated:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_seed_type:\n                            \n                                Organic Seeds, Plants, and Supplies\n                            \n                                Open Pollinated\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_marketing:\n                            \n                                Easy Choice\n                            \n                                Bred by Johnny's\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Type:\n                            \n                                Delicata (Sweet Dumpling)\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Shipping\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Shipping Weight:\n                            \n                                6.3\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Comparison Fields\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                100\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "\n\n\n",
+    "optionsHtml": "\n\n\n",
+    "shippingAlertsHtml": "\n"
+  },
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "pageData": {
+    "products": [
+      {
+        "name": "Delicata JS",
+        "id": "675G",
+        "price": "396.40",
+        "category": "Vegetables/Squash/Winter Squash",
+        "variant": "675G.36",
+        "quantity": ""
+      }
+    ]
+  }
+}

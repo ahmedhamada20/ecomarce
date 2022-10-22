@@ -1,0 +1,1166 @@
+{
+  "action": "Product-ShowQuickView",
+  "queryString": "pid=1320",
+  "locale": "en_US",
+  "product": {
+    "uuid": "390155b341812c606ef0233e3a",
+    "id": "1320.11",
+    "productName": "Torch",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 4.55,
+        "currency": "USD",
+        "formatted": "$4.55",
+        "decimalPrice": "4.55"
+      },
+      "list": null
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"4.55\">\n        \n        $4.55\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Torch",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw76ff604d/images/products/flowers/01320_01_torch.jpg?sw=800&cx=402&cy=86&cw=1000&ch=1000",
+          "title": "Torch"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Torch",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw76ff604d/images/products/flowers/01320_01_torch.jpg?sw=140&cx=402&cy=86&cw=1000&ch=1000",
+          "title": "Torch"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "Packet",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": true,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=&pid=1320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=11&pid=1320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "1320.11",
+            "price": {
+              "sales": {
+                "value": 4.55,
+                "currency": "USD",
+                "formatted": "$4.55",
+                "decimalPrice": "4.55"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"4.55\">\n        \n        $4.55\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "24",
+            "description": null,
+            "displayValue": "1/4 Ounce",
+            "value": "24",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=24&pid=1320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=24&pid=1320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "1320.24",
+            "price": {
+              "sales": {
+                "value": 13.85,
+                "currency": "USD",
+                "formatted": "$13.85",
+                "decimalPrice": "13.85"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"13.85\">\n        \n        $13.85\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "25",
+            "description": null,
+            "displayValue": "1/2 Ounce",
+            "value": "25",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=25&pid=1320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=25&pid=1320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "1320.25",
+            "price": {
+              "sales": {
+                "value": 23.65,
+                "currency": "USD",
+                "formatted": "$23.65",
+                "decimalPrice": "23.65"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"23.65\">\n        \n        $23.65\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "26",
+            "description": null,
+            "displayValue": "1 Ounce",
+            "value": "26",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=26&pid=1320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=26&pid=1320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "1320.26",
+            "price": {
+              "sales": {
+                "value": 41.6,
+                "currency": "USD",
+                "formatted": "$41.60",
+                "decimalPrice": "41.60"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"41.60\">\n        \n        $41.60\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "30",
+            "description": null,
+            "displayValue": "1/4 Pound",
+            "value": "30",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=30&pid=1320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=30&pid=1320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "1320.30",
+            "price": {
+              "sales": {
+                "value": 112.45,
+                "currency": "USD",
+                "formatted": "$112.45",
+                "decimalPrice": "112.45"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"112.45\">\n        \n        $112.45\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "32",
+            "description": null,
+            "displayValue": "1 Pound",
+            "value": "32",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=32&pid=1320&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=32&pid=1320&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "1320.32",
+            "price": {
+              "sales": {
+                "value": 393.5,
+                "currency": "USD",
+                "formatted": "$393.50",
+                "decimalPrice": "393.50"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"393.50\">\n        \n        $393.50\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_1320_sizecode=&pid=1320&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;font-weight: bold;\" >We're sorry, this product has been discontinued and is no longer available. For a similar variety, see Mexican Sunflower #3784. </span><span style=\"color: #000000;\" >3 1/2&quot; wide flowers on strong branching plants with velvety dark green leaves. Attracts beneficial insects such as hover flies, minute pirate bugs, and butterflies. Blooms midsummer to frost. Loves hot, dry sites. Also known as clavel de muerto. Ht. 60&ndash;72&quot;. Avg. 2,600 seeds/oz. Packet: 50 seeds.</span>",
+    "shortDescription": "Best Tithonia for cutting.",
+    "rating": 3.3,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Tithonia Seed"
+            ],
+            "val": [
+              "Tithonia Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "11"
+            ],
+            "val": [
+              "11"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "video-v114"
+            ],
+            "val": [
+              "video-v114"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Tithonia rotundifolia"
+            ],
+            "val": [
+              "Tithonia rotundifolia"
+            ]
+          },
+          {
+            "label": "Nickname",
+            "ID": "nickname",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Mexican Sunflower"
+            ],
+            "val": [
+              "Mexican Sunflower"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "85-90"
+            ],
+            "val": [
+              "85-90"
+            ]
+          },
+          {
+            "label": "Days To Germination",
+            "ID": "days_germination",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "7-14"
+            ],
+            "val": [
+              "7-14"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-66"
+            ],
+            "val": [
+              "culture-66"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              90
+            ],
+            "val": [
+              90
+            ]
+          },
+          {
+            "label": "Days Mature Low",
+            "ID": "daysmature_low",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              85
+            ],
+            "val": [
+              85
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Tithonia Seed"
+            ],
+            "val": [
+              "Tithonia Seed"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Use for Cut Flowers and Bouquets",
+              "AAS (All-America Selections) Winners",
+              "Attracts Beneficial Insects"
+            ],
+            "val": [
+              "19",
+              "11",
+              "61"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Best Tithonia for cutting."
+            ],
+            "val": [
+              "Best Tithonia for cutting."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "129"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Start Early For Transplants"
+            ],
+            "val": [
+              "72"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Online Only",
+              "AAS (All-America Selections) Winners"
+            ],
+            "val": [
+              "5",
+              "11"
+            ]
+          },
+          {
+            "label": "prod_feature_use",
+            "ID": "prod_feature_use",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Use for Cut Flowers and Bouquets",
+              "Attracts Beneficial Insects"
+            ],
+            "val": [
+              "19",
+              "61"
+            ]
+          },
+          {
+            "label": "Product Feature Color",
+            "ID": "prod_feature_color",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Orange"
+            ],
+            "val": [
+              "92"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.0082
+            ],
+            "val": [
+              0.0082
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Tithonia rotundifolia"
+            ],
+            "val": [
+              "Tithonia rotundifolia"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "85-90"
+            ],
+            "val": [
+              "85-90"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Use for Cut Flowers and Bouquets",
+              "AAS (All-America Selections) Winners",
+              "Attracts Beneficial Insects"
+            ],
+            "val": [
+              "19",
+              "11",
+              "61"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "Temporarily Unavailable"
+      ],
+      "inStockDate": null
+    },
+    "available": false,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=1320.11&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/flowers/tithonia-mexican-sunflower/torch-tithonia-seed-1320.html?dwvar_1320_sizecode=11&quantity=undefined",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": "1320, Torch, Tithonia Seed, Annual, Tithonia speciosa, Mexican Sunflower, Tithonia 1320, torch, tithonia speciosa, easy to grow, cut flowers, flower, annual, clavel de muerto",
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "Tithonia Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": false,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": null,
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": null,
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Best Tithonia for cutting.",
+    "daysToMaturityString": "85 - 90 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "video",
+        "title": "Video: Strategies to Support Beneficial Insects, with Johnny's Education Coordinator",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": true,
+    "orderableRecommendationsPIDs": [
+      "3784"
+    ],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": false,
+    "productVideos": [],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw8c9d482a/images/svgs/product_feature/19.svg",
+        "value": "19",
+        "displayValue": "Use for Cut Flowers and Bouquets"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwd0167f45/images/svgs/product_feature/61.svg",
+        "value": "61",
+        "displayValue": "Attracts Beneficial Insects"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwf048bd88/images/svgs/product_feature/11.svg",
+        "value": "11",
+        "displayValue": "AAS (All-America Selections) Winners"
+      }
+    ],
+    "availabilityStatus": "NOT_AVAILABLE",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Tithonia (Mexican Sunflower)",
+    "minPrice": {},
+    "maxPrice": {}
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "quickViewFullDetailMsg": "View Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "datalayerAjaxData": {
+    "currencyCode": "USD",
+    "products": [
+      {
+        "name": "Torch",
+        "id": "1320",
+        "price": "4.55",
+        "category": "Flowers/Tithonia (Mexican Sunflower)",
+        "variant": "",
+        "quantity": 1
+      }
+    ]
+  },
+  "recomendationProductDetails": {},
+  "urls": {
+    "product": "/flowers/tithonia-mexican-sunflower/mexican-sunflower-tithonia-seed-3784.html",
+    "quickView": "/on/demandware.store/Sites-JSS-Site/en_US/Product-ShowQuickView?pid=3784"
+  },
+  "validatePerishableproductURL": {},
+  "masterProductID": "1320",
+  "renderedTemplate": "\n\n\n\n\n\n<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"1320.11\">\n    <div class=\"row\">\n        <div class=\"col-12 col-lg-4 mb-lg-5\">\n            <div class=\"row product-header mb-2 align-items-end d-lg-none\">\n                <!-- Product Name -->\n                <div class=\"col-12\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Torch <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">Tithonia Seed</span></h1>\n                </div>\n                <div class=\"col-12 mb-lg-2\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">1320.11</span><span class=\"master-product-id\">1320</span>\n\n                    </span>\n                </div>\n                <!-- Applicable Promotions -->\n                <span class=\"col-12 promotions mt-1 d-lg-none\">\n                    \n\n\n\n                </span>\n            </div>\n            <!-- Product Images Carousel -->\n            \n\n\n\n\n<div class=\"primary-images\">\n    <div id=\"pdpCarousel-1320\" class=\"carousel slide \" data-interval=\"0\" data-prev=\"Previous\" data-next=\"Next\">\n        <div class=\"carousel-inner\" role=\"listbox\">\n            <div class=\"zoom-image\">Zoom Image</div>\n\n            \n            \n                <div data-slide=\"0\" class='carousel-item active'>\n                    <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw76ff604d/images/products/flowers/01320_01_torch.jpg?sw=800&amp;cx=402&amp;cy=86&amp;cw=1000&amp;ch=1000\" class=\"d-block img-fluid\" alt=\"Torch Tithonia (Mexican Sunflower)\" itemprop=\"image\" />\n                </div>\n            \n        </div>\n        \n            <div class=\"thumbnail-images-inner\">\n                <ol class=\"carousel-indicators\">\n                    \n\t                    <div data-target=\"#pdpCarousel-1320\" data-slide-to=\"0\" class=\"thumbnail-image   \">\n                            <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw76ff604d/images/products/flowers/01320_01_torch.jpg?sw=140&amp;cx=402&amp;cy=86&amp;cw=1000&amp;ch=1000\" class=\"d-block img-fluid\" alt=\"Torch Tithonia (Mexican Sunflower)\" itemprop=\"image\" />\n                        </div>\n\t                    \n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t                \n\t            </ol>\n                \n            </div>\n        \n    </div>\n</div>\n        </div>\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-lg-8\">\n            <div class=\"row product-header align-items-end align-items-lg-start d-none d-lg-flex\">\n                <!-- Product Name -->\n                <div class=\"col-6\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Torch <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">Tithonia Seed</span></h1>\n                </div>\n                <div class=\"col-6 text-right\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1 mb-2 mb-md-4 mb-lg-0 d-flex justify-content-end\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">1320.11</span><span class=\"master-product-id\">1320</span>\n\n                    </span>\n                    <!-- Applicable Promotions -->\n                    <span class=\"promotions text-md-right justify-content-lg-end\">\n                        \n\n\n\n                    </span>\n                </div>\n            </div>\n\n            <div class=\"row mt-2 mt-lg-3\">\n                \n                <div class=\"description-and-detail col-12\">\n    \n\n    \n        <div class=\"details collapsible-xs \">\n            \n    <p id=\"collapsible-details-1\">\n        <span style=\"color: #000000;font-weight: bold;\" >We're sorry, this product has been discontinued and is no longer available. For a similar variety, see Mexican Sunflower #3784. </span><span style=\"color: #000000;\" >3 1/2&quot; wide flowers on strong branching plants with velvety dark green leaves. Attracts beneficial insects such as hover flies, minute pirate bugs, and butterflies. Blooms midsummer to frost. Loves hot, dry sites. Also known as clavel de muerto. Ht. 60&ndash;72&quot;. Avg. 2,600 seeds/oz. Packet: 50 seeds.</span>\n    </p>\n\n\n        </div>\n        <button type=\"button\" class=\"c-content-toggle-trigger js-ct-trigger d-none\" data-active-content=\"Less\">\n            Read More\n        </button>\n    \n</div>\n\n            </div>\n\n            <div class=\"row w-100 shipping-alerts\">\n                \n\n            </div>\n            <div class=\"row\">\n                \n                \n            </div>\n            <!-- Attributes -->\n\n            \n            \n                    \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n            \n            \n            \n                <div class=\"substitutes\">\n                    <h3 class=\"brand-h4 mb-4\">Johnny's Recommended Substitute </h3>\n                    \n                        <div class=\"product\" data-pid=\"3784\">\n                            <div class=\"product-tile d-flex flex-column flex-lg-row w-100\">\n    <!-- dwMarker=\"product\" dwContentID=\"390155b341812c606ef0233e3a\" -->\n    \n\n\n\t\n    \n\n\n<div class=\"image-container\">\n    \n    <a class=\"tile-image-link\" href=\"/flowers/tithonia-mexican-sunflower/mexican-sunflower-tithonia-seed-3784.html\" title=\"Mexican Sunflower\">\n        <img class=\"tile-image\"\n             src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw65e2e654/images/products/flowers/3784_01_mexicansunflower.jpg?sw=400&amp;sh=400\"\n             alt=\"Mexican Sunflower Tithonia (Mexican Sunflower)\"\n             title=\"Mexican Sunflower\"\n             itemprop=\"image\"/>\n    </a>\n    \n\n    \n        <div class=\"badge badge-select badge-aas\">\n            <img\n                src=\"/on/demandware.static/Sites-JSS-Site/-/default/dwda0f17c8/images/badges/badge-aas-winner.png\"\n                alt=\"AAS (All-America Selections) Winners\"\n                title=\"AAS (All-America Selections) Winners\"\n            />\n        </div>\n    \n</div>\n\n    <div class=\"tile-body\">\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n    \n\n\n\n\t<div class=\"pdp-link\">\n\t\t<a class=\"link tile-name-link\" href=\"/flowers/tithonia-mexican-sunflower/mexican-sunflower-tithonia-seed-3784.html\">\n\t\t\t\n\t\t\t\t<div class=\"tile-name product-name\" itemprop=\"name\">\n\t\t\t\t\tMexican Sunflower\n\t\t\t\t</div>\n\t\t\t\n\t\t\t\n\t\t\t\t<div class=\"tile-secondary-name product-secondary\" itemprop=\"alternateName\">\n\t\t\t\t\tTithonia Seed\n\t\t\t\t</div>\n\t\t\t\n\t\t</a>\n\t\t\n\t</div>\n\n        \n\t\n\n\n\t<div class=\"tile-description d-none d-lg-block\">Late-season cut flower attracts beneficial insects.</div>\n\n\t\t<div class=\"c-action-row mt-3\">\n\t\t\t<a class=\"c-button btn btn-primary\" href=\"/flowers/tithonia-mexican-sunflower/mexican-sunflower-tithonia-seed-3784.html\">View Details</a>\n\t\t</div>\n    </div>\n    <!-- END_dwmarker -->\n</div>\n\n                        </div>\n                    \n                </div>\n            \n        </div>\n    </div>\n\n    \n    \n</div>\n",
+  "productUrl": "/flowers/tithonia-mexican-sunflower/torch-tithonia-seed-1320.11.html"
+}

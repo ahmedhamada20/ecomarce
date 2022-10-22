@@ -1,0 +1,1218 @@
+{
+  "action": "Product-Variation",
+  "queryString": "dwvar_4622P_sizecode=&pid=4622P&quantity=1",
+  "locale": "en_US",
+  "product": {
+    "uuid": "ebcfeb7d3e6f876b31826632dc",
+    "id": "4622P",
+    "productName": "Cristabel",
+    "productType": "master",
+    "brand": null,
+    "price": {
+      "type": "range",
+      "min": {
+        "sales": {
+          "value": 6.7,
+          "currency": "USD",
+          "formatted": "$6.70",
+          "decimalPrice": "6.70"
+        },
+        "list": null
+      },
+      "max": {
+        "sales": {
+          "value": 828,
+          "currency": "USD",
+          "formatted": "$828.00",
+          "decimalPrice": "828.00"
+        },
+        "list": null
+      },
+      "html": "\n\n\n\n    <div class=\"price\">\n        <span class=\"range\">\n    \n\n    \n    \n    <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n            <span class=\"value\" content=\"6.70\">\n        \n        \n        \n        $6.70\n\n\n        </span>\n    </span>\n</span>\n\n    -\n    \n    \n    <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n            <span class=\"value\" content=\"828.00\">\n        \n        \n        $828.00\n\n\n        </span>\n    </span>\n</span>\n\n</span>\n\n    </div>\n\n\n"
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        <span class=\"range\">\n    \n\n    \n    \n    <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n            <span class=\"value\" content=\"6.70\">\n        \n        \n        \n        $6.70\n\n\n        </span>\n    </span>\n</span>\n\n    -\n    \n    \n    <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n            <span class=\"value\" content=\"828.00\">\n        \n        \n        $828.00\n\n\n        </span>\n    </span>\n</span>\n\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Cristabel",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw1f999c4e/images/products/vegetables/04622p_01_cristabel.jpg?sw=800&sh=800",
+          "title": "Cristabel"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Cristabel",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw1f999c4e/images/products/vegetables/04622p_01_cristabel.jpg?sw=140&sh=140",
+          "title": "Cristabel"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=11&pid=4622P&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=11&pid=4622P&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4622P.11",
+            "price": {
+              "sales": {
+                "value": 6.7,
+                "currency": "USD",
+                "formatted": "$6.70",
+                "decimalPrice": "6.70"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"6.70\">\n        \n        $6.70\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "51",
+            "description": null,
+            "displayValue": "250 Seeds",
+            "value": "51",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=51&pid=4622P&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=51&pid=4622P&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4622P.51",
+            "price": {
+              "sales": {
+                "value": 12.8,
+                "currency": "USD",
+                "formatted": "$12.80",
+                "decimalPrice": "12.80"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"12.80\">\n        \n        $12.80\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=53&pid=4622P&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=53&pid=4622P&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4622P.53",
+            "price": {
+              "sales": {
+                "value": 43,
+                "currency": "USD",
+                "formatted": "$43.00",
+                "decimalPrice": "43.00"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"43.00\">\n        \n        $43.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=54&pid=4622P&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=54&pid=4622P&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4622P.54",
+            "price": {
+              "sales": {
+                "value": 198.7,
+                "currency": "USD",
+                "formatted": "$198.70",
+                "decimalPrice": "198.70"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"198.70\">\n        \n        $198.70\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "55",
+            "description": null,
+            "displayValue": "10,000 Seeds",
+            "value": "55",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=55&pid=4622P&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=55&pid=4622P&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4622P.55",
+            "price": {
+              "sales": {
+                "value": 380,
+                "currency": "USD",
+                "formatted": "$380.00",
+                "decimalPrice": "380.00"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"380.00\">\n        \n        $380.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "56",
+            "description": null,
+            "displayValue": "25,000 Seeds",
+            "value": "56",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=56&pid=4622P&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=56&pid=4622P&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4622P.56",
+            "price": {
+              "sales": {
+                "value": 828,
+                "currency": "USD",
+                "formatted": "$828.00",
+                "decimalPrice": "828.00"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"828.00\">\n        \n        $828.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >Crunchy, thick green leaves. Developed for exceptional crunch and sweet, juicy flavor. Cristabel is an adaptable, high-yielding, slow-bolting variety with a short core. Sweeter (less bitter) than similar varieties. NOTE: Days to maturity will vary depending on your target weight and growing practices, but you can expect a range of 45&ndash;55 days for hydroponically grown, full-size heads. High resistance to </span><span style=\"color: #000000;font-style:italic;\" >Nasonovia ribisnigri</span><span style=\"color: #000000;\" > aphid and tomato bushy stunt virus. MT0-30. Avg. 10,300 seeds/lb. Packet: 100 seeds.</span>",
+    "shortDescription": "New! Extra-crunchy complement to Azirka. Conventional seed with conventional pelleting.",
+    "rating": 4.7,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Pelleted Lettuce Seed"
+            ],
+            "val": [
+              "Pelleted Lettuce Seed"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "pelleted-seed-tech-sheet",
+              "hydroponic-lettuce-varieties-brochure",
+              "digital-hydroponic-head-lettuce-catalog"
+            ],
+            "val": [
+              "pelleted-seed-tech-sheet",
+              "hydroponic-lettuce-varieties-brochure",
+              "digital-hydroponic-head-lettuce-catalog"
+            ]
+          },
+          {
+            "label": "Product Videos",
+            "ID": "product_videos",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "9Wl1B9Ikx2U"
+            ],
+            "val": [
+              "9Wl1B9Ikx2U"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Lactuca sativa"
+            ],
+            "val": [
+              "Lactuca sativa"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "55"
+            ],
+            "val": [
+              "55"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-463"
+            ],
+            "val": [
+              "culture-463"
+            ]
+          },
+          {
+            "label": "State Restriction List",
+            "ID": "restrictions_state_list",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "AA",
+              "AE",
+              "AP",
+              "AS",
+              "FM",
+              "GU",
+              "MH",
+              "MP",
+              "PR",
+              "PW",
+              "VI"
+            ],
+            "val": [
+              "AA",
+              "AE",
+              "AP",
+              "AS",
+              "FM",
+              "GU",
+              "MH",
+              "MP",
+              "PR",
+              "PW",
+              "VI"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              55
+            ],
+            "val": [
+              55
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Pelleted Lettuce Seed"
+            ],
+            "val": [
+              "Pelleted Lettuce Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Nr",
+              "TBSV"
+            ],
+            "val": [
+              "Nr",
+              "TBSV"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hydroponic Performer"
+            ],
+            "val": [
+              "110"
+            ]
+          },
+          {
+            "label": "Product Notes",
+            "ID": "productnotes",
+            "valueTypeCode": 5,
+            "multiValueType": false,
+            "requiresEncoding": false,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Extra-crunchy complement to Azirka."
+            ],
+            "val": [
+              "Extra-crunchy complement to Azirka."
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Pelleted Seeds",
+              "Open Pollinated"
+            ],
+            "val": [
+              "16",
+              "129"
+            ]
+          },
+          {
+            "label": "prod_feature_grow_cond",
+            "ID": "prod_feature_grow_cond",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hydroponic Performer"
+            ],
+            "val": [
+              "110"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "New for 2022!",
+              "Online Only"
+            ],
+            "val": [
+              "2",
+              "5"
+            ]
+          },
+          {
+            "label": "Product Feature Color",
+            "ID": "prod_feature_color",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Green"
+            ],
+            "val": [
+              "93"
+            ]
+          },
+          {
+            "label": "prod_feature_grow_stg",
+            "ID": "prod_feature_grow_stg",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Full Head"
+            ],
+            "val": [
+              "161"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Lactuca sativa"
+            ],
+            "val": [
+              "Lactuca sativa"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "55"
+            ],
+            "val": [
+              "55"
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Nr",
+              "TBSV"
+            ],
+            "val": [
+              "Nr",
+              "TBSV"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hydroponic Performer"
+            ],
+            "val": [
+              "110"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": null
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4622P_sizecode=&pid=4622P&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/lettuce/crunchleaf-lettuce/cristabel-pelleted-lettuce-seed-4622P.html?%2Fvegetables%2Flettuce%2Fcrunchleaf-lettuce%2Fcristabel-pelleted-lettuce-seed-4622P.html=undefined&quantity=1",
+    "readyToOrder": false,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "Pelleted Lettuce Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": true,
+    "restrictionsForeign": true,
+    "restrictionsStateList": {
+      "0": "AA",
+      "1": "AE",
+      "2": "AP",
+      "3": "AS",
+      "4": "FM",
+      "5": "GU",
+      "6": "MH",
+      "7": "MP",
+      "8": "PR",
+      "9": "PW",
+      "10": "VI"
+    },
+    "restrictionsCountryList": {
+      "0": "AE",
+      "1": "AT",
+      "2": "AU",
+      "3": "BB",
+      "4": "BE",
+      "5": "BG",
+      "6": "BM",
+      "7": "BS",
+      "8": "CH",
+      "9": "CY",
+      "10": "CZ",
+      "11": "DE",
+      "12": "DK",
+      "13": "EE",
+      "14": "ES",
+      "15": "FI",
+      "16": "FR",
+      "17": "GB",
+      "18": "GR",
+      "19": "HK",
+      "20": "HR",
+      "21": "HU",
+      "22": "IE",
+      "23": "IS",
+      "24": "IT",
+      "25": "JP",
+      "26": "KR",
+      "27": "KW",
+      "28": "KY",
+      "29": "LT",
+      "30": "LU",
+      "31": "LV",
+      "32": "MY",
+      "33": "NL",
+      "34": "NO",
+      "35": "NZ",
+      "36": "OM",
+      "37": "PL",
+      "38": "PT",
+      "39": "QA",
+      "40": "RO",
+      "41": "SA",
+      "42": "SE",
+      "43": "SG",
+      "44": "SI",
+      "45": "SK",
+      "46": "SM",
+      "47": "TH",
+      "48": "TT",
+      "49": "TW",
+      "50": "UA"
+    },
+    "productHasRestriction": true,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": {},
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Extra-crunchy complement to Azirka.",
+    "daysToMaturityString": "55 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "document",
+        "title": "About Pelleted Seed | Tech Sheet (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "Hydroponic Lettuce Varieties from Johnny's | Printable 4-pp Brochure (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Digital Hydroponic Head Lettuce Catalog | Johnny’s Selected Seeds",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": false,
+    "orderableRecommendationsPIDs": [],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": true,
+    "productVideos": [
+      "9Wl1B9Ikx2U"
+    ],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw730545ba/images/svgs/product_feature/110.svg",
+        "value": "110",
+        "displayValue": "Hydroponic Performer"
+      }
+    ],
+    "availabilityStatus": "IN_STOCK",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "CrunchLeaf Lettuce",
+    "minPrice": {},
+    "maxPrice": {},
+    "attributesHtml": "\n\n\n    <div class=\"col-sm-12 col-md-4 col-lg-3\">\n        <button class=\"title btn text-left btn-block d-sm-none\"\n                aria-expanded=\"false\" aria-controls=\"collapsible-attributes-1\"\n        >\n            Attributes\n        </button>\n        <h2 class=\"title d-none d-sm-block\">\n            Attributes\n        </h2>\n    </div>\n    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\" id=\"collapsible-attributes-1\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    Product Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                Pelleted Lettuce Seed\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Related Assets\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Related Assets:\n                            \n                                pelleted-seed-tech-sheet\n                            \n                                hydroponic-lettuce-varieties-brochure\n                            \n                                digital-hydroponic-head-lettuce-catalog\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Videos:\n                            \n                                9Wl1B9Ikx2U\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    PIM Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Latin Name:\n                            \n                                Lactuca sativa\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Canada:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions State:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Foreign:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is New:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Internet Only:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Pelleted:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Clearance:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Plant Type ID:\n                            \n                                seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                55\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Featured:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Favorite:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Culture Content ID:\n                            \n                                culture-463\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            State Restriction List:\n                            \n                                AA\n                            \n                                AE\n                            \n                                AP\n                            \n                                AS\n                            \n                                FM\n                            \n                                GU\n                            \n                                MH\n                            \n                                MP\n                            \n                                PR\n                            \n                                PW\n                            \n                                VI\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Sale:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Overstock:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Current Promo:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Crop Failure:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature High:\n                            \n                                55\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature Unit:\n                            \n                                Days\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                Pelleted Lettuce Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Germination Guide Image:\n                            \n                                com.demandware.beehive.core.capi.domain.SimpleMediaFile@2151cf2e\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Disease Resistance Codes:\n                            \n                                Nr\n                            \n                                TBSV\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Hybrid Status:\n                            \n                                Open Pollinated\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Features:\n                            \n                                Hydroponic Performer\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Notes:\n                            \n                                &lt;span style=&quot;&quot; &gt;Many (though not all) of our pelleted lettuce varieties are primed to increase germination uniformity, and to break thermal and/or light dormancy. However, the priming process decreases the storage life of the seed, so pelleted seed must be kept cool and dry prior to planting, and should be used within one year of purchase.&lt;/span&gt;\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Grid Description:\n                            \n                                Extra-crunchy complement to Azirka.\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Treated:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_seed_type:\n                            \n                                Pelleted Seeds\n                            \n                                Open Pollinated\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_grow_cond:\n                            \n                                Hydroponic Performer\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_marketing:\n                            \n                                New for 2022!\n                            \n                                Online Only\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Color:\n                            \n                                Green\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_grow_stg:\n                            \n                                Full Head\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "\n\n\n",
+    "optionsHtml": "\n\n\n",
+    "shippingAlertsHtml": "\n\n\t<div class=\"c-pills-wrap mb-4\">\n\t\t<ul class=\"c-pills d-flex m-0 flex-column flex-lg-row\">\n\t\t\t\n\t\t\t\t<li class=\"c-pills__item\"><a href=\"#shipping-info\" class=\"c-pills__link js-accordion-scroll-to\">View Shipping Restrictions</a></li>\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t</ul>\n\t</div>\n"
+  },
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "pageData": {
+    "products": [
+      {
+        "name": "Cristabel",
+        "id": "4622P",
+        "price": "6.70",
+        "category": "Vegetables/Lettuce/CrunchLeaf Lettuce",
+        "variant": "",
+        "quantity": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,1090 @@
+{
+  "action": "Product-Variation",
+  "queryString": "dwvar_4264_sizecode=56&pid=4264&quantity=1",
+  "locale": "en_US",
+  "product": {
+    "uuid": "048fd90d42eba255fa742f2f75",
+    "id": "4264.56",
+    "productName": "Melody",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 93.5,
+        "currency": "USD",
+        "formatted": "$93.50",
+        "decimalPrice": "93.50"
+      },
+      "list": null,
+      "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"93.50\">\n        \n        $93.50\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"93.50\">\n        \n        $93.50\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Melody",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw8fa67315/images/products/vegetables/04264_01_melody.jpg?sw=800&sh=800",
+          "title": "Melody"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Melody",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw8fa67315/images/products/vegetables/04264_01_melody.jpg?sw=140&sh=140",
+          "title": "Melody"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "25,000 Seeds",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=11&pid=4264&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=11&pid=4264&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4264.11",
+            "price": {
+              "sales": {
+                "value": 5.15,
+                "currency": "USD",
+                "formatted": "$5.15",
+                "decimalPrice": "5.15"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"5.15\">\n        \n        $5.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=53&pid=4264&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=53&pid=4264&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4264.53",
+            "price": {
+              "sales": {
+                "value": 7.6,
+                "currency": "USD",
+                "formatted": "$7.60",
+                "decimalPrice": "7.60"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"7.60\">\n        \n        $7.60\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=54&pid=4264&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=54&pid=4264&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4264.54",
+            "price": {
+              "sales": {
+                "value": 31.65,
+                "currency": "USD",
+                "formatted": "$31.65",
+                "decimalPrice": "31.65"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"31.65\">\n        \n        $31.65\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "56",
+            "description": null,
+            "displayValue": "25,000 Seeds",
+            "value": "56",
+            "selected": true,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=&pid=4264&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4264.56",
+            "price": {
+              "sales": {
+                "value": 93.5,
+                "currency": "USD",
+                "formatted": "$93.50",
+                "decimalPrice": "93.50"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"93.50\">\n        \n        $93.50\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "59",
+            "description": null,
+            "displayValue": "100,000 Seeds",
+            "value": "59",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=59&pid=4264&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=59&pid=4264&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "4264.59",
+            "price": {
+              "sales": {
+                "value": 303,
+                "currency": "USD",
+                "formatted": "$303.00",
+                "decimalPrice": "303.00"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"303.00\">\n        \n        $303.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=&pid=4264&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >Florets are tender and sweet with a mild flavor. May be transplanted like our other mini broccoli varieties or direct sown at 4&ndash;6&quot; in the row. Our earliest mini broccoli, it is 1&ndash;2 weeks earlier than Happy Rich though it has a shorter harvest period. Melody has a more vigorous plant and higher yield potential than Noble Jade. Pinching not recommended. Avg. 222,000 seeds/lb. Packet: 100 seeds.</span>",
+    "shortDescription": "Exclusive! Our most tender, flavorful mini broccoli.",
+    "rating": 4.2,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "(F1) Broccoli Seed"
+            ],
+            "val": [
+              "(F1) Broccoli Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "56"
+            ],
+            "val": [
+              "56"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "broccoli-mini-sprouting-varieties-planting-program",
+              "diversified-broccoli-5-unique-types",
+              "brassicas-timing-temperature-fertility",
+              "brassica-pests-diseases"
+            ],
+            "val": [
+              "broccoli-mini-sprouting-varieties-planting-program",
+              "diversified-broccoli-5-unique-types",
+              "brassicas-timing-temperature-fertility",
+              "brassica-pests-diseases"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Brassica oleracea"
+            ],
+            "val": [
+              "Brassica oleracea"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "24"
+            ],
+            "val": [
+              "24"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-472"
+            ],
+            "val": [
+              "culture-472"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              24
+            ],
+            "val": [
+              24
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "(F1) Broccoli Seed"
+            ],
+            "val": [
+              "(F1) Broccoli Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Johnny's Exclusive"
+            ],
+            "val": [
+              "10"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Our most tender, flavorful mini broccoli."
+            ],
+            "val": [
+              "Our most tender, flavorful mini broccoli."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid"
+            ],
+            "val": [
+              "128"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Baby Vegetables"
+            ],
+            "val": [
+              "137"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "New for 2022!",
+              "Johnny's Exclusive"
+            ],
+            "val": [
+              "2",
+              "10"
+            ]
+          },
+          {
+            "label": "Product Feature Color",
+            "ID": "prod_feature_color",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Green"
+            ],
+            "val": [
+              "93"
+            ]
+          },
+          {
+            "label": "Type",
+            "ID": "prod_feature_cat_ref",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Sprouting Broccoli"
+            ],
+            "val": [
+              "225"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.3364
+            ],
+            "val": [
+              0.3364
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Brassica oleracea"
+            ],
+            "val": [
+              "Brassica oleracea"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "24"
+            ],
+            "val": [
+              "24"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Johnny's Exclusive"
+            ],
+            "val": [
+              "10"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": null
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_4264_sizecode=56&pid=4264.56&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/broccoli/mini-broccoli/melody-f1-broccoli-seed-4264.html?dwvar_4264_sizecode=56&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "(F1) Broccoli Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": false,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": null,
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Our most tender, flavorful mini broccoli.",
+    "daysToMaturityString": "24 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "comparisonchart",
+        "title": "Mini & Sprouting Broccoli Varieties | Planting Program Comparison Chart",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Diversified Broccoli: 4 Unique Types | Recommendations for Success with an Important (but Sensitive) Crop",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Success with Brassicas | Advice on Timing, Temperature, Fertility & Watering",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Common Brassica Pests & Diseases | Johnny's Selected Seeds",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": false,
+    "orderableRecommendationsPIDs": [],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": true,
+    "productVideos": [],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw570f98f3/images/svgs/product_feature/10.svg",
+        "value": "10",
+        "displayValue": "Johnny's Exclusive"
+      }
+    ],
+    "availabilityStatus": "IN_STOCK",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Mini Broccoli",
+    "minPrice": {},
+    "maxPrice": {},
+    "attributesHtml": "\n\n\n    <div class=\"col-sm-12 col-md-4 col-lg-3\">\n        <button class=\"title btn text-left btn-block d-sm-none\"\n                aria-expanded=\"false\" aria-controls=\"collapsible-attributes-1\"\n        >\n            Attributes\n        </button>\n        <h2 class=\"title d-none d-sm-block\">\n            Attributes\n        </h2>\n    </div>\n    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\" id=\"collapsible-attributes-1\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    Product Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                (F1) Broccoli Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Size Code:\n                            \n                                56\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Related Assets\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Related Assets:\n                            \n                                broccoli-mini-sprouting-varieties-planting-program\n                            \n                                diversified-broccoli-5-unique-types\n                            \n                                brassicas-timing-temperature-fertility\n                            \n                                brassica-pests-diseases\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    PIM Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Latin Name:\n                            \n                                Brassica oleracea\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Canada:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions State:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Foreign:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is New:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Internet Only:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Pelleted:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Clearance:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Plant Type ID:\n                            \n                                seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                24\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Life Cycle ID:\n                            \n                                Annual\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Featured:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Favorite:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Culture Content ID:\n                            \n                                culture-472\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Sale:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Overstock:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Current Promo:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Crop Failure:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature High:\n                            \n                                24\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature Unit:\n                            \n                                Days\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                (F1) Broccoli Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Germination Guide Image:\n                            \n                                com.demandware.beehive.core.capi.domain.SimpleMediaFile@13bb771a\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Hybrid Status:\n                            \n                                Hybrid (F1)\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Features:\n                            \n                                Johnny's Exclusive\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Grid Description:\n                            \n                                Our most tender, flavorful mini broccoli.\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Life Cycle:\n                            \n                                Annual\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Treated:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_seed_type:\n                            \n                                Hybrid\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Additional:\n                            \n                                Baby Vegetables\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_marketing:\n                            \n                                New for 2022!\n                            \n                                Johnny's Exclusive\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Color:\n                            \n                                Green\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Type:\n                            \n                                Sprouting Broccoli\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Shipping\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Shipping Weight:\n                            \n                                0.3364\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "\n\n\n",
+    "optionsHtml": "\n\n\n",
+    "shippingAlertsHtml": "\n"
+  },
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "pageData": {
+    "products": [
+      {
+        "name": "Melody",
+        "id": "4264",
+        "price": "93.50",
+        "category": "Vegetables/Broccoli/Mini Broccoli",
+        "variant": "4264.56",
+        "quantity": ""
+      }
+    ]
+  }
+}

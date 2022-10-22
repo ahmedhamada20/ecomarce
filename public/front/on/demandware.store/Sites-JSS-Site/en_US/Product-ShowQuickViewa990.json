@@ -1,0 +1,1330 @@
+{
+  "action": "Product-ShowQuickView",
+  "queryString": "pid=3983G",
+  "locale": "en_US",
+  "product": {
+    "uuid": "47f28fb5c738ad3aa151cf8833",
+    "id": "3983G.11",
+    "productName": "Butterscotch PMR",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 4.32,
+        "currency": "USD",
+        "formatted": "$4.32",
+        "decimalPrice": "4.32"
+      },
+      "list": {
+        "value": 5.4,
+        "currency": "USD",
+        "formatted": "$5.40",
+        "decimalPrice": "5.40"
+      }
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"5.40\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $5.40\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"4.32\">\n        \n        $4.32\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Butterscotch PMR",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw79193879/images/products/vegetables/03983g_01_butterscotch.jpg?sw=800&sh=800",
+          "title": "Butterscotch PMR"
+        },
+        {
+          "alt": "Butterscotch PMR",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwa128bc28/images/products/vegetables/03983g_02_butterscotch.jpg?sw=800&sh=800",
+          "title": "Butterscotch PMR"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Butterscotch PMR",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw79193879/images/products/vegetables/03983g_01_butterscotch.jpg?sw=140&sh=140",
+          "title": "Butterscotch PMR"
+        },
+        {
+          "alt": "Butterscotch PMR",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwa128bc28/images/products/vegetables/03983g_02_butterscotch.jpg?sw=140&sh=140",
+          "title": "Butterscotch PMR"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "Packet",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": true,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=&pid=3983G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=11&pid=3983G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3983G.11",
+            "price": {
+              "sales": {
+                "value": 4.32,
+                "currency": "USD",
+                "formatted": "$4.32",
+                "decimalPrice": "4.32"
+              },
+              "list": {
+                "value": 5.4,
+                "currency": "USD",
+                "formatted": "$5.40",
+                "decimalPrice": "5.40"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"5.40\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $5.40\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"4.32\">\n        \n        $4.32\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "50",
+            "description": null,
+            "displayValue": "100 Seeds",
+            "value": "50",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=50&pid=3983G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=50&pid=3983G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3983G.50",
+            "price": {
+              "sales": {
+                "value": 12.32,
+                "currency": "USD",
+                "formatted": "$12.32",
+                "decimalPrice": "12.32"
+              },
+              "list": {
+                "value": 16.65,
+                "currency": "USD",
+                "formatted": "$16.65",
+                "decimalPrice": "16.65"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"16.65\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $16.65\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"12.32\">\n        \n        $12.32\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "51",
+            "description": null,
+            "displayValue": "250 Seeds",
+            "value": "51",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=51&pid=3983G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=51&pid=3983G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3983G.51",
+            "price": {
+              "sales": {
+                "value": 25.16,
+                "currency": "USD",
+                "formatted": "$25.16",
+                "decimalPrice": "25.16"
+              },
+              "list": {
+                "value": 34,
+                "currency": "USD",
+                "formatted": "$34.00",
+                "decimalPrice": "34.00"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"34.00\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $34.00\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"25.16\">\n        \n        $25.16\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=53&pid=3983G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=53&pid=3983G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3983G.53",
+            "price": {
+              "sales": {
+                "value": 76.5,
+                "currency": "USD",
+                "formatted": "$76.50",
+                "decimalPrice": "76.50"
+              },
+              "list": {
+                "value": 102,
+                "currency": "USD",
+                "formatted": "$102.00",
+                "decimalPrice": "102.00"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"102.00\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $102.00\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"76.50\">\n        \n        $76.50\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=54&pid=3983G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=54&pid=3983G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3983G.54",
+            "price": {
+              "sales": {
+                "value": 366,
+                "currency": "USD",
+                "formatted": "$366.00",
+                "decimalPrice": "366.00"
+              },
+              "list": {
+                "value": 487.35,
+                "currency": "USD",
+                "formatted": "$487.35",
+                "decimalPrice": "487.35"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"487.35\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $487.35\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"366.00\">\n        \n        $366.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "56",
+            "description": null,
+            "displayValue": "25,000 Seeds",
+            "value": "56",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=56&pid=3983G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=56&pid=3983G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3983G.56",
+            "price": {
+              "sales": {
+                "value": 1730,
+                "currency": "USD",
+                "formatted": "$1,730.00",
+                "decimalPrice": "1730.00"
+              },
+              "list": {
+                "value": 2306.25,
+                "currency": "USD",
+                "formatted": "$2,306.25",
+                "decimalPrice": "2306.25"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"2306.25\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $2,306.25\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"1730.00\">\n        \n        $1,730.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "59",
+            "description": null,
+            "displayValue": "100,000 Seeds",
+            "value": "59",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=59&pid=3983G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=59&pid=3983G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3983G.59",
+            "price": {
+              "sales": {
+                "value": 6545,
+                "currency": "USD",
+                "formatted": "$6,545.00",
+                "decimalPrice": "6545.00"
+              },
+              "list": {
+                "value": 8727,
+                "currency": "USD",
+                "formatted": "$8,727.00",
+                "decimalPrice": "8727.00"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"8727.00\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $8,727.00\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"6545.00\">\n        \n        $6,545.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3983G_sizecode=&pid=3983G&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >Sweet, rich, complex flavor. The perfect size for dinner (no leftovers) and ideal for growers selling at farmers' markets and filling CSA boxes. Matures early at 1 1/2&ndash;2 lb., with no curing needed before it can be enjoyed. Stores up to 3 months after harvest. Short vines. Intermediate resistance to powdery mildew. Our thanks to Cornell University for working with us to develop this variety. NOTE: If growing for the 1-lb size, we recommend giving each plant only 6 sq.ft. of space. AAS Winner. USDA Certified Organic. Avg. 6,200 seeds/lb. Packet: 30 seeds.</span>",
+    "shortDescription": "Tastiest small butternut.",
+    "rating": 4.1,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic (F1) Butternut Squash Seed"
+            ],
+            "val": [
+              "Organic (F1) Butternut Squash Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "11"
+            ],
+            "val": [
+              "11"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "winter-squash-production-tech-sheet",
+              "winter-squash-comparison-chart-pdf",
+              "press-release-butterscotch-butternut-aas-winner",
+              "johnnys-bred-rob-johnston",
+              "winter-squash-eating-guide",
+              "eating-quality-in-winter-squashes",
+              "winter-squash-eating-experience-slideshow",
+              "aas-winners-bred-by-johnnys-spec-sheet"
+            ],
+            "val": [
+              "winter-squash-production-tech-sheet",
+              "winter-squash-comparison-chart-pdf",
+              "press-release-butterscotch-butternut-aas-winner",
+              "johnnys-bred-rob-johnston",
+              "winter-squash-eating-guide",
+              "eating-quality-in-winter-squashes",
+              "winter-squash-eating-experience-slideshow",
+              "aas-winners-bred-by-johnnys-spec-sheet"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Cucurbita moschata"
+            ],
+            "val": [
+              "Cucurbita moschata"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "100"
+            ],
+            "val": [
+              "100"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-449"
+            ],
+            "val": [
+              "culture-449"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              100
+            ],
+            "val": [
+              100
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic (F1) Butternut Squash Seed"
+            ],
+            "val": [
+              "Organic (F1) Butternut Squash Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "PM"
+            ],
+            "val": [
+              "PM"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Developed by Johnny's",
+              "AAS (All-America Selections) Winners",
+              "Organic Seeds, Plants, and Supplies"
+            ],
+            "val": [
+              "14",
+              "11",
+              "3"
+            ]
+          },
+          {
+            "label": "Product Notes",
+            "ID": "productnotes",
+            "valueTypeCode": 5,
+            "multiValueType": false,
+            "requiresEncoding": false,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Tastiest small butternut."
+            ],
+            "val": [
+              "Tastiest small butternut."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Seeds, Plants, and Supplies",
+              "Hybrid"
+            ],
+            "val": [
+              "3",
+              "128"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Baby Vegetables"
+            ],
+            "val": [
+              "137"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Online Only",
+              "AAS (All-America Selections) Winners",
+              "Bred by Johnny's"
+            ],
+            "val": [
+              "5",
+              "11",
+              "14"
+            ]
+          },
+          {
+            "label": "Type",
+            "ID": "prod_feature_cat_ref",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Butternut"
+            ],
+            "val": [
+              "201"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.0131
+            ],
+            "val": [
+              0.0131
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Cucurbita moschata"
+            ],
+            "val": [
+              "Cucurbita moschata"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "100"
+            ],
+            "val": [
+              "100"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "PM"
+            ],
+            "val": [
+              "PM"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Developed by Johnny's",
+              "AAS (All-America Selections) Winners",
+              "Organic Seeds, Plants, and Supplies"
+            ],
+            "val": [
+              "14",
+              "11",
+              "3"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "comparison-fields",
+        "name": "Comparison Fields",
+        "attributes": [
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "100"
+            ],
+            "val": [
+              "100"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "Temporarily Unavailable"
+      ],
+      "inStockDate": null
+    },
+    "available": false,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3983G.11&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/squash/winter-squash/butterscotch-pmr-organic-f1-butternut-squash-seed-3983G.html?dwvar_3983G_sizecode=11&quantity=undefined",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": "Butterscotch PMR Organic Butternut Squash Seeds",
+    "pageDescription": null,
+    "pageKeywords": "3983G, Butterscotch PMR, Organic (F1) Squash Seed, Annual, Cucurbita moschata, Squash, Winter, Butternut All-America Selections Award winner, AAS",
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "Organic (F1) Butternut Squash Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AU",
+      "1": "JP",
+      "2": "KR",
+      "3": "NZ",
+      "4": "TW"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": {},
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Tastiest small butternut.",
+    "daysToMaturityString": "100 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "document",
+        "title": "Winter Squash Production | Tech Sheet (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "comparisonchart",
+        "title": "Winter Squash Varieties | Comparison Chart (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "'Butterscotch' Butternut Squash: Johnny's National 2015 All-America Selections Winner | Press Release",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "5 JSS-Bred Varieties Introduced by Rob Johnston, Jr., Plant Breeder & Founder (Retired), Johnny's Selected Seeds",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Curing & Storage Chart for Different Kinds of Winter Squash",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Eating Quality in Winter Squashes | Why Some Varieties Just Taste Better Than Others",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "The Winter Squash Eating Experience | Basic Differences in Eating Quality Between 7 Types",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "All-America Selections Award-Winning Varieties Bred by Johnny's | Spec Sheet",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": true,
+    "orderableRecommendationsPIDs": [
+      "3983"
+    ],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": true,
+    "newFlag": false,
+    "productVideos": [],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb8b50c3b/images/svgs/product_feature/14.svg",
+        "value": "14",
+        "displayValue": "Developed by Johnny's"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb74dfb93/images/svgs/product_feature/3.svg",
+        "value": "3",
+        "displayValue": "Organic Seeds, Plants, and Supplies"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwf048bd88/images/svgs/product_feature/11.svg",
+        "value": "11",
+        "displayValue": "AAS (All-America Selections) Winners"
+      }
+    ],
+    "availabilityStatus": "NOT_AVAILABLE",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Winter Squash",
+    "minPrice": {},
+    "maxPrice": {}
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "quickViewFullDetailMsg": "View Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "datalayerAjaxData": {
+    "currencyCode": "USD",
+    "products": [
+      {
+        "name": "Butterscotch PMR",
+        "id": "3983G",
+        "price": "4.32",
+        "category": "Vegetables/Squash/Winter Squash",
+        "variant": "",
+        "quantity": 1
+      }
+    ]
+  },
+  "recomendationProductDetails": {},
+  "urls": {
+    "product": "/vegetables/squash/winter-squash/butterscotch-pmr-f1-butternut-squash-seed-3983.html",
+    "quickView": "/on/demandware.store/Sites-JSS-Site/en_US/Product-ShowQuickView?pid=3983"
+  },
+  "validatePerishableproductURL": {},
+  "masterProductID": "3983G",
+  "renderedTemplate": "\n\n\n\n\n\n<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"3983G.11\">\n    <div class=\"row\">\n        <div class=\"col-12 col-lg-4 mb-lg-5\">\n            <div class=\"row product-header mb-2 align-items-end d-lg-none\">\n                <!-- Product Name -->\n                <div class=\"col-12\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Butterscotch PMR <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">Organic &#40;F1&#41; Butternut Squash Seed</span></h1>\n                </div>\n                <div class=\"col-12 mb-lg-2\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">3983G.11</span><span class=\"master-product-id\">3983G</span>\n\n                    </span>\n                </div>\n                <!-- Applicable Promotions -->\n                <span class=\"col-12 promotions mt-1 d-lg-none\">\n                    \n\n\n\n                </span>\n            </div>\n            <!-- Product Images Carousel -->\n            \n\n\n\n\n<div class=\"primary-images\">\n    <div id=\"pdpCarousel-3983G\" class=\"carousel slide \" data-interval=\"0\" data-prev=\"Previous\" data-next=\"Next\">\n        <div class=\"carousel-inner\" role=\"listbox\">\n            <div class=\"zoom-image\">Zoom Image</div>\n\n            \n                <div class=\"c-image-gallery__main-image-badge c-image-gallery__main-image-badge--sale\">Sale</div>\n            \n            \n                <div data-slide=\"0\" class='carousel-item active'>\n                    <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw79193879/images/products/vegetables/03983g_01_butterscotch.jpg?sw=800&amp;sh=800\" class=\"d-block img-fluid\" alt=\"Butterscotch PMR Winter Squash\" itemprop=\"image\" />\n                </div>\n            \n                <div data-slide=\"1\" class='carousel-item '>\n                    <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwa128bc28/images/products/vegetables/03983g_02_butterscotch.jpg?sw=800&amp;sh=800\" class=\"d-block img-fluid\" alt=\"Butterscotch PMR Winter Squash\" itemprop=\"image\" />\n                </div>\n            \n        </div>\n        \n            <div class=\"thumbnail-images-inner\">\n                <ol class=\"carousel-indicators\">\n                    \n\t                    <div data-target=\"#pdpCarousel-3983G\" data-slide-to=\"0\" class=\"thumbnail-image active  \">\n                            <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw79193879/images/products/vegetables/03983g_01_butterscotch.jpg?sw=140&amp;sh=140\" class=\"d-block img-fluid\" alt=\"Butterscotch PMR Winter Squash\" itemprop=\"image\" />\n                        </div>\n\t                    \n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t                \n\t                    <div data-target=\"#pdpCarousel-3983G\" data-slide-to=\"1\" class=\"thumbnail-image   \">\n                            <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwa128bc28/images/products/vegetables/03983g_02_butterscotch.jpg?sw=140&amp;sh=140\" class=\"d-block img-fluid\" alt=\"Butterscotch PMR Winter Squash\" itemprop=\"image\" />\n                        </div>\n\t                    \n\t                \n\t            </ol>\n                \n            </div>\n        \n    </div>\n</div>\n        </div>\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-lg-8\">\n            <div class=\"row product-header align-items-end align-items-lg-start d-none d-lg-flex\">\n                <!-- Product Name -->\n                <div class=\"col-6\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Butterscotch PMR <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">Organic &#40;F1&#41; Butternut Squash Seed</span></h1>\n                </div>\n                <div class=\"col-6 text-right\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1 mb-2 mb-md-4 mb-lg-0 d-flex justify-content-end\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">3983G.11</span><span class=\"master-product-id\">3983G</span>\n\n                    </span>\n                    <!-- Applicable Promotions -->\n                    <span class=\"promotions text-md-right justify-content-lg-end\">\n                        \n\n\n\n                    </span>\n                </div>\n            </div>\n\n            <div class=\"row mt-2 mt-lg-3\">\n                \n                <div class=\"description-and-detail col-12\">\n    \n\n    \n        <div class=\"details collapsible-xs \">\n            \n    <p id=\"collapsible-details-1\">\n        <span style=\"color: #000000;\" >Sweet, rich, complex flavor. The perfect size for dinner (no leftovers) and ideal for growers selling at farmers' markets and filling CSA boxes. Matures early at 1 1/2&ndash;2 lb., with no curing needed before it can be enjoyed. Stores up to 3 months after harvest. Short vines. Intermediate resistance to powdery mildew. Our thanks to Cornell University for working with us to develop this variety. NOTE: If growing for the 1-lb size, we recommend giving each plant only 6 sq.ft. of space. AAS Winner. USDA Certified Organic. Avg. 6,200 seeds/lb. Packet: 30 seeds.</span>\n    </p>\n\n\n        </div>\n        <button type=\"button\" class=\"c-content-toggle-trigger js-ct-trigger d-none\" data-active-content=\"Less\">\n            Read More\n        </button>\n    \n</div>\n\n            </div>\n\n            <div class=\"row w-100 shipping-alerts\">\n                \n\n            </div>\n            <div class=\"row\">\n                \n                \n            </div>\n            <!-- Attributes -->\n\n            \n            \n                    \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n            \n            \n            \n                <div class=\"substitutes\">\n                    <h3 class=\"brand-h4 mb-4\">Johnny's Recommended Substitute </h3>\n                    \n                        <div class=\"product\" data-pid=\"3983\">\n                            <div class=\"product-tile d-flex flex-column flex-lg-row w-100\">\n    <!-- dwMarker=\"product\" dwContentID=\"47f28fb5c738ad3aa151cf8833\" -->\n    \n\n\n\t\n    \n\n\n<div class=\"image-container\">\n    \n    <a class=\"tile-image-link\" href=\"/vegetables/squash/winter-squash/butterscotch-pmr-f1-butternut-squash-seed-3983.html\" title=\"Butterscotch PMR\">\n        <img class=\"tile-image\"\n             src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwe819b16d/images/products/vegetables/03983_01_butterscotch.jpg?sw=400&amp;sh=400\"\n             alt=\"Butterscotch PMR Winter Squash\"\n             title=\"Butterscotch PMR\"\n             itemprop=\"image\"/>\n    </a>\n    \n\n    \n        <div class=\"badge badge-select badge-aas\">\n            <img\n                src=\"/on/demandware.static/Sites-JSS-Site/-/default/dwda0f17c8/images/badges/badge-aas-winner.png\"\n                alt=\"AAS (All-America Selections) Winners\"\n                title=\"AAS (All-America Selections) Winners\"\n            />\n        </div>\n    \n</div>\n\n    <div class=\"tile-body\">\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n    \n\n\n\n\t<div class=\"pdp-link\">\n\t\t<a class=\"link tile-name-link\" href=\"/vegetables/squash/winter-squash/butterscotch-pmr-f1-butternut-squash-seed-3983.html\">\n\t\t\t\n\t\t\t\t<div class=\"tile-name product-name\" itemprop=\"name\">\n\t\t\t\t\tButterscotch PMR\n\t\t\t\t</div>\n\t\t\t\n\t\t\t\n\t\t\t\t<div class=\"tile-secondary-name product-secondary\" itemprop=\"alternateName\">\n\t\t\t\t\t&#40;F1&#41; Butternut Squash Seed\n\t\t\t\t</div>\n\t\t\t\n\t\t</a>\n\t\t\n\t</div>\n\n        \n\t\n\n\n\t<div class=\"tile-description d-none d-lg-block\">Tastiest small butternut.</div>\n\n\t\t<div class=\"c-action-row mt-3\">\n\t\t\t<a class=\"c-button btn btn-primary\" href=\"/vegetables/squash/winter-squash/butterscotch-pmr-f1-butternut-squash-seed-3983.html\">View Details</a>\n\t\t</div>\n    </div>\n    <!-- END_dwmarker -->\n</div>\n\n                        </div>\n                    \n                </div>\n            \n        </div>\n    </div>\n\n    \n    \n</div>\n",
+  "productUrl": "/vegetables/squash/winter-squash/butterscotch-pmr-organic-f1-butternut-squash-seed-3983G.11.html"
+}

@@ -1,0 +1,1264 @@
+{
+  "action": "Product-Variation",
+  "queryString": "dwvar_3124G_sizecode=52&pid=3124G&quantity=1",
+  "locale": "en_US",
+  "product": {
+    "uuid": "6120ff20275cead075c6f827d5",
+    "id": "3124G.52",
+    "productName": "Eros",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 75.75,
+        "currency": "USD",
+        "formatted": "$75.75",
+        "decimalPrice": "75.75"
+      },
+      "list": null,
+      "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"75.75\">\n        \n        $75.75\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"75.75\">\n        \n        $75.75\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Eros",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw78279258/images/products/vegetables/03124g_01_eros.jpg?sw=800&sh=800",
+          "title": "Eros"
+        },
+        {
+          "alt": "Eros",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwce1c965e/images/products/vegetables/03124g_02_eros.jpg?sw=800&sh=800",
+          "title": "Eros"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Eros",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw78279258/images/products/vegetables/03124g_01_eros.jpg?sw=140&sh=140",
+          "title": "Eros"
+        },
+        {
+          "alt": "Eros",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwce1c965e/images/products/vegetables/03124g_02_eros.jpg?sw=140&sh=140",
+          "title": "Eros"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "500 Seeds",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=11&pid=3124G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=11&pid=3124G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3124G.11",
+            "price": {
+              "sales": {
+                "value": 6.7,
+                "currency": "USD",
+                "formatted": "$6.70",
+                "decimalPrice": "6.70"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"6.70\">\n        \n        $6.70\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "50",
+            "description": null,
+            "displayValue": "100 Seeds",
+            "value": "50",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=50&pid=3124G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=50&pid=3124G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3124G.50",
+            "price": {
+              "sales": {
+                "value": 24.2,
+                "currency": "USD",
+                "formatted": "$24.20",
+                "decimalPrice": "24.20"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"24.20\">\n        \n        $24.20\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "51",
+            "description": null,
+            "displayValue": "250 Seeds",
+            "value": "51",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=51&pid=3124G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=51&pid=3124G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3124G.51",
+            "price": {
+              "sales": {
+                "value": 42.05,
+                "currency": "USD",
+                "formatted": "$42.05",
+                "decimalPrice": "42.05"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"42.05\">\n        \n        $42.05\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "52",
+            "description": null,
+            "displayValue": "500 Seeds",
+            "value": "52",
+            "selected": true,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=&pid=3124G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3124G.52",
+            "price": {
+              "sales": {
+                "value": 75.75,
+                "currency": "USD",
+                "formatted": "$75.75",
+                "decimalPrice": "75.75"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"75.75\">\n        \n        $75.75\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=53&pid=3124G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=53&pid=3124G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3124G.53",
+            "price": {
+              "sales": {
+                "value": 105.8,
+                "currency": "USD",
+                "formatted": "$105.80",
+                "decimalPrice": "105.80"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"105.80\">\n        \n        $105.80\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=54&pid=3124G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=54&pid=3124G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3124G.54",
+            "price": {
+              "sales": {
+                "value": 480.3,
+                "currency": "USD",
+                "formatted": "$480.30",
+                "decimalPrice": "480.30"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"480.30\">\n        \n        $480.30\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=&pid=3124G&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >The perfect partner to Cupid, Eros's slightly tapered fruits are the same snack size, avg. 2&quot; x 1 3/4&quot;, with a sweet and slightly fruity flavor. The large, sturdy, and leafy plants protect the fruits from sunscald. Bred by Janika Eckert. USDA Certified Organic. Avg. 4,200 seeds/oz. Packet: 25 seeds.</span>",
+    "shortDescription": "Early golden yellow mini bell.",
+    "rating": 5,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic (F1) Bell Pepper Seed"
+            ],
+            "val": [
+              "Organic (F1) Bell Pepper Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "52"
+            ],
+            "val": [
+              "52"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "peppers-bell-comparison-chart",
+              "peppers-field-production",
+              "johnnys-bred-rob-johnston",
+              "growing-tips-successful-pepper-transplants",
+              "tomatoes-peppers-basket-weave-trellising-instructions"
+            ],
+            "val": [
+              "peppers-bell-comparison-chart",
+              "peppers-field-production",
+              "johnnys-bred-rob-johnston",
+              "growing-tips-successful-pepper-transplants",
+              "tomatoes-peppers-basket-weave-trellising-instructions"
+            ]
+          },
+          {
+            "label": "Product Videos",
+            "ID": "product_videos",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "4D9XuIG7FVw",
+              "f1EdCbxBspE"
+            ],
+            "val": [
+              "4D9XuIG7FVw",
+              "f1EdCbxBspE"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Capsicum annuum"
+            ],
+            "val": [
+              "Capsicum annuum"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "55 green; 75 yellow ripe"
+            ],
+            "val": [
+              "55 green; 75 yellow ripe"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-127"
+            ],
+            "val": [
+              "culture-127"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              75
+            ],
+            "val": [
+              75
+            ]
+          },
+          {
+            "label": "Days Mature Low",
+            "ID": "daysmature_low",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              55
+            ],
+            "val": [
+              55
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic (F1) Bell Pepper Seed"
+            ],
+            "val": [
+              "Organic (F1) Bell Pepper Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Developed by Johnny's",
+              "Grows Well in Containers",
+              "Organic Seeds, Plants, and Supplies"
+            ],
+            "val": [
+              "14",
+              "7",
+              "3"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Early golden yellow mini bell, the perfect partner to Cupid."
+            ],
+            "val": [
+              "Early golden yellow mini bell, the perfect partner to Cupid."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Seeds, Plants, and Supplies",
+              "Hybrid"
+            ],
+            "val": [
+              "3",
+              "128"
+            ]
+          },
+          {
+            "label": "prod_feature_grow_cond",
+            "ID": "prod_feature_grow_cond",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Grows Well in Containers"
+            ],
+            "val": [
+              "7"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Baby Vegetables",
+              "Start Early For Transplants"
+            ],
+            "val": [
+              "137",
+              "72"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Bred by Johnny's"
+            ],
+            "val": [
+              "14"
+            ]
+          },
+          {
+            "label": "Type",
+            "ID": "prod_feature_cat_ref",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Bell"
+            ],
+            "val": [
+              "229"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.0154
+            ],
+            "val": [
+              0.0154
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": null,
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Capsicum annuum"
+            ],
+            "val": [
+              "Capsicum annuum"
+            ]
+          },
+          {
+            "label": "Type",
+            "ID": "prod_feature_cat_ref",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Bell"
+            ],
+            "val": [
+              "229"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "55 green; 75 yellow ripe"
+            ],
+            "val": [
+              "55 green; 75 yellow ripe"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Developed by Johnny's",
+              "Grows Well in Containers",
+              "Organic Seeds, Plants, and Supplies"
+            ],
+            "val": [
+              "14",
+              "7",
+              "3"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "comparison-fields",
+        "name": "Comparison Fields",
+        "attributes": [
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "55 green; 75 yellow ripe"
+            ],
+            "val": [
+              "55 green; 75 yellow ripe"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "Temporarily Unavailable"
+      ],
+      "inStockDate": null
+    },
+    "available": false,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3124G_sizecode=52&pid=3124G.52&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/peppers/sweet-peppers/eros-organic-f1-bell-pepper-seed-3124G.html?dwvar_3124G_sizecode=52&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": "Eros - Organic Mini Bell Pepper Seeds",
+    "pageDescription": null,
+    "pageKeywords": "3124G, Eros, Organic (F1) Pepper Seed, Annual, Capsicum annuum, Peppers, Sweet Specialty Peppers, Snack Peppers",
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "Organic (F1) Bell Pepper Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AT",
+      "1": "AU",
+      "2": "BE",
+      "3": "BG",
+      "4": "CY",
+      "5": "CZ",
+      "6": "DE",
+      "7": "DK",
+      "8": "EE",
+      "9": "ES",
+      "10": "FI",
+      "11": "FR",
+      "12": "GB",
+      "13": "GR",
+      "14": "HR",
+      "15": "HU",
+      "16": "IE",
+      "17": "IT",
+      "18": "JP",
+      "19": "KR",
+      "20": "LT",
+      "21": "LU",
+      "22": "LV",
+      "23": "NL",
+      "24": "NZ",
+      "25": "PL",
+      "26": "PT",
+      "27": "RO",
+      "28": "SE",
+      "29": "SI",
+      "30": "SK",
+      "31": "TW"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Early golden yellow mini bell, the perfect partner to Cupid.",
+    "daysToMaturityString": "55 green; 75 yellow ripe",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "comparisonchart",
+        "title": "Sweet Bell Pepper Varieties | Dynamic Comparison Chart",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "Field-Grown Pepper Production Guide | Tech Sheet (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "5 JSS-Bred Varieties Introduced by Rob Johnston, Jr., Plant Breeder & Founder (Retired), Johnny's Selected Seeds",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "How to Grow Great Pepper Seedlings | Tips for Successful Transplants",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "Basket-weave Trellising Instructions for Tomato & Pepper Plants | Tech Sheet (PDF)",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": false,
+    "orderableRecommendationsPIDs": [],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": false,
+    "productVideos": [
+      "4D9XuIG7FVw",
+      "f1EdCbxBspE"
+    ],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb8b50c3b/images/svgs/product_feature/14.svg",
+        "value": "14",
+        "displayValue": "Developed by Johnny's"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb74dfb93/images/svgs/product_feature/3.svg",
+        "value": "3",
+        "displayValue": "Organic Seeds, Plants, and Supplies"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwc38ed3bb/images/svgs/product_feature/7.svg",
+        "value": "7",
+        "displayValue": "Grows Well in Containers"
+      }
+    ],
+    "availabilityStatus": "NOT_AVAILABLE",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Sweet Peppers",
+    "minPrice": {},
+    "maxPrice": {},
+    "attributesHtml": "\n\n\n    <div class=\"col-sm-12 col-md-4 col-lg-3\">\n        <button class=\"title btn text-left btn-block d-sm-none\"\n                aria-expanded=\"false\" aria-controls=\"collapsible-attributes-1\"\n        >\n            Attributes\n        </button>\n        <h2 class=\"title d-none d-sm-block\">\n            Attributes\n        </h2>\n    </div>\n    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\" id=\"collapsible-attributes-1\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    Product Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                Organic (F1) Bell Pepper Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Size Code:\n                            \n                                52\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Related Assets\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Related Assets:\n                            \n                                peppers-bell-comparison-chart\n                            \n                                peppers-field-production\n                            \n                                johnnys-bred-rob-johnston\n                            \n                                growing-tips-successful-pepper-transplants\n                            \n                                tomatoes-peppers-basket-weave-trellising-instructions\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Videos:\n                            \n                                4D9XuIG7FVw\n                            \n                                f1EdCbxBspE\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    PIM Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Latin Name:\n                            \n                                Capsicum annuum\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Canada:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions State:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Foreign:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is New:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Internet Only:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Pelleted:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Clearance:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Plant Type ID:\n                            \n                                seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                55 green; 75 yellow ripe\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Life Cycle ID:\n                            \n                                Annual\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Featured:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Favorite:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Culture Content ID:\n                            \n                                culture-127\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Sale:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Overstock:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Current Promo:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Crop Failure:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature High:\n                            \n                                75\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature Low:\n                            \n                                55\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature Unit:\n                            \n                                Days\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                Organic (F1) Bell Pepper Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Germination Guide Image:\n                            \n                                com.demandware.beehive.core.capi.domain.SimpleMediaFile@363899b5\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Hybrid Status:\n                            \n                                Hybrid (F1)\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Features:\n                            \n                                Developed by Johnny's\n                            \n                                Grows Well in Containers\n                            \n                                Organic Seeds, Plants, and Supplies\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Grid Description:\n                            \n                                Early golden yellow mini bell, the perfect partner to Cupid.\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Life Cycle:\n                            \n                                Annual\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Treated:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_seed_type:\n                            \n                                Organic Seeds, Plants, and Supplies\n                            \n                                Hybrid\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_grow_cond:\n                            \n                                Grows Well in Containers\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Additional:\n                            \n                                Baby Vegetables\n                            \n                                Start Early For Transplants\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_marketing:\n                            \n                                Bred by Johnny's\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Type:\n                            \n                                Bell\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Shipping\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Shipping Weight:\n                            \n                                0.0154\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Comparison Fields\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                55 green; 75 yellow ripe\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "\n\n\n",
+    "optionsHtml": "\n\n\n",
+    "shippingAlertsHtml": "\n"
+  },
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "pageData": {
+    "products": [
+      {
+        "name": "Eros",
+        "id": "3124G",
+        "price": "75.75",
+        "category": "Vegetables/Peppers/Sweet Peppers",
+        "variant": "3124G.52",
+        "quantity": ""
+      }
+    ]
+  }
+}

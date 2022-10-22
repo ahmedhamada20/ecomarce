@@ -1,0 +1,1162 @@
+{
+  "action": "Product-Variation",
+  "queryString": "dwvar_3524_sizecode=54&pid=3524&quantity=1",
+  "locale": "en_US",
+  "product": {
+    "uuid": "d95a919f7d784cea5b497e92f8",
+    "id": "3524.54",
+    "productName": "Nokya",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 282.3,
+        "currency": "USD",
+        "formatted": "$282.30",
+        "decimalPrice": "282.30"
+      },
+      "list": null,
+      "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"282.30\">\n        \n        $282.30\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"282.30\">\n        \n        $282.30\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Nokya",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw48d1a628/images/products/vegetables/03524_01_nokya.jpg?sw=800&cx=252&cy=142&cw=1014&ch=1014",
+          "title": "Nokya"
+        },
+        {
+          "alt": "Nokya",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwd1e49bdc/images/products/vegetables/03524_02_nokya.jpg?sw=800&cx=302&cy=0&cw=1196&ch=1196",
+          "title": "Nokya"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Nokya",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw48d1a628/images/products/vegetables/03524_01_nokya.jpg?sw=140&cx=252&cy=142&cw=1014&ch=1014",
+          "title": "Nokya"
+        },
+        {
+          "alt": "Nokya",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwd1e49bdc/images/products/vegetables/03524_02_nokya.jpg?sw=140&cx=302&cy=0&cw=1196&ch=1196",
+          "title": "Nokya"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "5,000 Seeds",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=11&pid=3524&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=11&pid=3524&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3524.11",
+            "price": {
+              "sales": {
+                "value": 5.15,
+                "currency": "USD",
+                "formatted": "$5.15",
+                "decimalPrice": "5.15"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"5.15\">\n        \n        $5.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "50",
+            "description": null,
+            "displayValue": "100 Seeds",
+            "value": "50",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=50&pid=3524&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=50&pid=3524&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3524.50",
+            "price": {
+              "sales": {
+                "value": 10.85,
+                "currency": "USD",
+                "formatted": "$10.85",
+                "decimalPrice": "10.85"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"10.85\">\n        \n        $10.85\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "51",
+            "description": null,
+            "displayValue": "250 Seeds",
+            "value": "51",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=51&pid=3524&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=51&pid=3524&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3524.51",
+            "price": {
+              "sales": {
+                "value": 24.7,
+                "currency": "USD",
+                "formatted": "$24.70",
+                "decimalPrice": "24.70"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"24.70\">\n        \n        $24.70\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=53&pid=3524&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=53&pid=3524&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3524.53",
+            "price": {
+              "sales": {
+                "value": 61.45,
+                "currency": "USD",
+                "formatted": "$61.45",
+                "decimalPrice": "61.45"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"61.45\">\n        \n        $61.45\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": true,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=&pid=3524&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3524.54",
+            "price": {
+              "sales": {
+                "value": 282.3,
+                "currency": "USD",
+                "formatted": "$282.30",
+                "decimalPrice": "282.30"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"282.30\">\n        \n        $282.30\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "56",
+            "description": null,
+            "displayValue": "25,000 Seeds",
+            "value": "56",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=56&pid=3524&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=56&pid=3524&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3524.56",
+            "price": {
+              "sales": {
+                "value": 1158.25,
+                "currency": "USD",
+                "formatted": "$1,158.25",
+                "decimalPrice": "1158.25"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"1158.25\">\n        \n        $1,158.25\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Backordered"
+              ],
+              "inStockDate": "Sat Jan 07 2023"
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "backorder-msg",
+              "availabilityMsg": "",
+              "inStockDateMsg": "Estimated Ship Date Jan 07, 2023",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "backOrderDateFormat": "Jan 07, 2023",
+              "preorderBackorderAllocation": 999999999,
+              "availabilityMsgFormatted": "Backordered Until Jan 07, 2023"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=&pid=3524&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >An exceptional parthenocarpic cucumber. Delivers high yields of excellent quality cucumbers: sweet, crunchy, and 11&ndash;13&quot; long with notably small seed cavities. Compared to Tasty Jade which it replaced, Nokya has improved yield and powdery mildew resistance, and produces darker green, glossier fruit. We recommend pairing with Itachi. For indoor or outdoor production. Parthenocarpic. Intermediate resistance to powdery mildew. Avg. 19,200 seeds/lb. Packet: 30 seeds.</span>",
+    "shortDescription": "Exclusive! Productive and flavorful long Asian cucumber.",
+    "rating": 3.8,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "(F1) Cucumber Seed"
+            ],
+            "val": [
+              "(F1) Cucumber Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "54"
+            ],
+            "val": [
+              "54"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "cucumbers-greenhouse-varieties-comparison-chart-pdf",
+              "cucumbers-field-grown-comparison-chart-pdf",
+              "cucumbers-pickling-slicing-seedless-thin-skinned-specialty-varieties-comparison-chart-pdf",
+              "cucumbers-types-terminology",
+              "cucumbers-greenhouse-production",
+              "video-v29",
+              "cucumber-grafting-advantages-materials-technique"
+            ],
+            "val": [
+              "cucumbers-greenhouse-varieties-comparison-chart-pdf",
+              "cucumbers-field-grown-comparison-chart-pdf",
+              "cucumbers-pickling-slicing-seedless-thin-skinned-specialty-varieties-comparison-chart-pdf",
+              "cucumbers-types-terminology",
+              "cucumbers-greenhouse-production",
+              "video-v29",
+              "cucumber-grafting-advantages-materials-technique"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Cucumis sativus"
+            ],
+            "val": [
+              "Cucumis sativus"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "55"
+            ],
+            "val": [
+              "55"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-97"
+            ],
+            "val": [
+              "culture-97"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              55
+            ],
+            "val": [
+              55
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "(F1) Cucumber Seed"
+            ],
+            "val": [
+              "(F1) Cucumber Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "PM"
+            ],
+            "val": [
+              "PM"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Greenhouse Performer",
+              "Johnny's Exclusive"
+            ],
+            "val": [
+              "9",
+              "10"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Productive and flavorful long Asian cucumber."
+            ],
+            "val": [
+              "Productive and flavorful long Asian cucumber."
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid"
+            ],
+            "val": [
+              "128"
+            ]
+          },
+          {
+            "label": "prod_feature_grow_cond",
+            "ID": "prod_feature_grow_cond",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Greenhouse Performer"
+            ],
+            "val": [
+              "9"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Parthenocarpic",
+              "Start Early For Transplants"
+            ],
+            "val": [
+              "210",
+              "72"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Johnny's Exclusive"
+            ],
+            "val": [
+              "10"
+            ]
+          },
+          {
+            "label": "Product Feature Color",
+            "ID": "prod_feature_color",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Green"
+            ],
+            "val": [
+              "93"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.2867
+            ],
+            "val": [
+              0.2867
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Cucumis sativus"
+            ],
+            "val": [
+              "Cucumis sativus"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "55"
+            ],
+            "val": [
+              "55"
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "PM"
+            ],
+            "val": [
+              "PM"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Greenhouse Performer",
+              "Johnny's Exclusive"
+            ],
+            "val": [
+              "9",
+              "10"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "Temporarily Unavailable"
+      ],
+      "inStockDate": null
+    },
+    "available": false,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3524_sizecode=54&pid=3524.54&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/cucumbers/specialty-cucumbers/nokya-f1-cucumber-seed-3524.html?dwvar_3524_sizecode=54&quantity=1",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "(F1) Cucumber Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AU",
+      "1": "JP",
+      "2": "KR",
+      "3": "NZ",
+      "4": "TW"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Productive and flavorful long Asian cucumber.",
+    "daysToMaturityString": "55 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "comparisonchart",
+        "title": "Greenhouse Cucumber Varieties | Comparison Chart (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "comparisonchart",
+        "title": "Field-Grown Cucumber Varieties | Comparison Chart (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "comparisonchart",
+        "title": "Comparison Chart | Pickling; Slicing; Seedless & Thin-Skinned; & Specialty Cucumber Varieties (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "Cucumber Types & Terminology | Johnny's Selected Seeds",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "Greenhouse Cucumber Production Guide | Tech Sheet  (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "video",
+        "title": "Video: How to Prune Trellised Cucumbers to Optimize Yield & Reduce Disease Pressure",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Cucumber Grafting | Advantages, Materials & Technique",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": false,
+    "orderableRecommendationsPIDs": [],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": false,
+    "productVideos": [],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw570f98f3/images/svgs/product_feature/10.svg",
+        "value": "10",
+        "displayValue": "Johnny's Exclusive"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw56e3b406/images/svgs/product_feature/9.svg",
+        "value": "9",
+        "displayValue": "Greenhouse Performer"
+      }
+    ],
+    "availabilityStatus": "NOT_AVAILABLE",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Specialty Cucumbers",
+    "minPrice": {},
+    "maxPrice": {},
+    "attributesHtml": "\n\n\n    <div class=\"col-sm-12 col-md-4 col-lg-3\">\n        <button class=\"title btn text-left btn-block d-sm-none\"\n                aria-expanded=\"false\" aria-controls=\"collapsible-attributes-1\"\n        >\n            Attributes\n        </button>\n        <h2 class=\"title d-none d-sm-block\">\n            Attributes\n        </h2>\n    </div>\n    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\" id=\"collapsible-attributes-1\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    Product Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                (F1) Cucumber Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Size Code:\n                            \n                                54\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Related Assets\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Related Assets:\n                            \n                                cucumbers-greenhouse-varieties-comparison-chart-pdf\n                            \n                                cucumbers-field-grown-comparison-chart-pdf\n                            \n                                cucumbers-pickling-slicing-seedless-thin-skinned-specialty-varieties-comparison-chart-pdf\n                            \n                                cucumbers-types-terminology\n                            \n                                cucumbers-greenhouse-production\n                            \n                                video-v29\n                            \n                                cucumber-grafting-advantages-materials-technique\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    PIM Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Latin Name:\n                            \n                                Cucumis sativus\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Canada:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions State:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Foreign:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is New:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Internet Only:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Pelleted:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Clearance:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Plant Type ID:\n                            \n                                seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                55\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Featured:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Favorite:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Culture Content ID:\n                            \n                                culture-97\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Sale:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Overstock:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Current Promo:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Crop Failure:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature High:\n                            \n                                55\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature Unit:\n                            \n                                Days\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                (F1) Cucumber Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Germination Guide Image:\n                            \n                                com.demandware.beehive.core.capi.domain.SimpleMediaFile@271bb8d8\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Disease Resistance Codes:\n                            \n                                PM\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Hybrid Status:\n                            \n                                Hybrid (F1)\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Features:\n                            \n                                Greenhouse Performer\n                            \n                                Johnny's Exclusive\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Grid Description:\n                            \n                                Productive and flavorful long Asian cucumber.\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Treated:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_seed_type:\n                            \n                                Hybrid\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_grow_cond:\n                            \n                                Greenhouse Performer\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Additional:\n                            \n                                Parthenocarpic\n                            \n                                Start Early For Transplants\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_marketing:\n                            \n                                Johnny's Exclusive\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Color:\n                            \n                                Green\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Shipping\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Shipping Weight:\n                            \n                                0.2867\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "\n\n\n",
+    "optionsHtml": "\n\n\n",
+    "shippingAlertsHtml": "\n"
+  },
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "pageData": {
+    "products": [
+      {
+        "name": "Nokya",
+        "id": "3524",
+        "price": "282.30",
+        "category": "Vegetables/Cucumbers/Specialty Cucumbers",
+        "variant": "3524.54",
+        "quantity": ""
+      }
+    ]
+  }
+}

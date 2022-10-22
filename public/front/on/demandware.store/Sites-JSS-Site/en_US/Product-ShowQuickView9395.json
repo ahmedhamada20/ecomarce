@@ -1,0 +1,1155 @@
+{
+  "action": "Product-ShowQuickView",
+  "queryString": "pid=3786",
+  "locale": "en_US",
+  "product": {
+    "uuid": "c581190858edb6bd13a89dfdf4",
+    "id": "3786.11",
+    "productName": "Red Spike",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 5.15,
+        "currency": "USD",
+        "formatted": "$5.15",
+        "decimalPrice": "5.15"
+      },
+      "list": null
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"5.15\">\n        \n        $5.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Red Spike",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw4f92cfcd/images/products/flowers/3786_01_redspike.jpg?sw=800&sh=800",
+          "title": "Red Spike"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Red Spike",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw4f92cfcd/images/products/flowers/3786_01_redspike.jpg?sw=140&sh=140",
+          "title": "Red Spike"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "Packet",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": true,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=&pid=3786&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=11&pid=3786&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3786.11",
+            "price": {
+              "sales": {
+                "value": 5.15,
+                "currency": "USD",
+                "formatted": "$5.15",
+                "decimalPrice": "5.15"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"5.15\">\n        \n        $5.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "24",
+            "description": null,
+            "displayValue": "1/4 Ounce",
+            "value": "24",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=24&pid=3786&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=24&pid=3786&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3786.24",
+            "price": {
+              "sales": {
+                "value": 10.15,
+                "currency": "USD",
+                "formatted": "$10.15",
+                "decimalPrice": "10.15"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"10.15\">\n        \n        $10.15\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "26",
+            "description": null,
+            "displayValue": "1 Ounce",
+            "value": "26",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=26&pid=3786&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=26&pid=3786&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3786.26",
+            "price": {
+              "sales": {
+                "value": 29.6,
+                "currency": "USD",
+                "formatted": "$29.60",
+                "decimalPrice": "29.60"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"29.60\">\n        \n        $29.60\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "30",
+            "description": null,
+            "displayValue": "1/4 Pound",
+            "value": "30",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=30&pid=3786&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=30&pid=3786&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3786.30",
+            "price": {
+              "sales": {
+                "value": 78.65,
+                "currency": "USD",
+                "formatted": "$78.65",
+                "decimalPrice": "78.65"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"78.65\">\n        \n        $78.65\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          },
+          {
+            "id": "32",
+            "description": null,
+            "displayValue": "1 Pound",
+            "value": "32",
+            "selected": false,
+            "selectable": false,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=32&pid=3786&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=32&pid=3786&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3786.32",
+            "price": {
+              "sales": {
+                "value": 254.7,
+                "currency": "USD",
+                "formatted": "$254.70",
+                "decimalPrice": "254.70"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"254.70\">\n        \n        $254.70\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Temporarily Unavailable"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": false,
+              "availabilityClass": "not-available-msg",
+              "availabilityMsg": "Out of Stock",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "Out of Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3786_sizecode=&pid=3786&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >Ideal color and form for late summer and fall arrangements. More useful than other upright types because of its gracefully arched, feathery plumes. Dark red, arched, and airy flower heads. When plants are young and leaves are tender, the foliage makes a nice edible green. Also known simply as amaranth. Ht. 48&ndash;60&quot;. Avg. 40,600 seeds/oz. Packet: 100 seeds.</span>",
+    "shortDescription": "Darkest red amaranth in our trials.",
+    "rating": 3.1,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Amaranthus Seed"
+            ],
+            "val": [
+              "Amaranthus Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "11"
+            ],
+            "val": [
+              "11"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "easy-cut-flower-garden-set-planner",
+              "easy-cut-flower-garden-set-map",
+              "getting-started-in-cut-flowers-top-15-cuts",
+              "flower-farmers-favorite-foliage-fillers",
+              "dried-flowers-instructions-slideshow",
+              "slow-flowers-color-palette-trends"
+            ],
+            "val": [
+              "easy-cut-flower-garden-set-planner",
+              "easy-cut-flower-garden-set-map",
+              "getting-started-in-cut-flowers-top-15-cuts",
+              "flower-farmers-favorite-foliage-fillers",
+              "dried-flowers-instructions-slideshow",
+              "slow-flowers-color-palette-trends"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Amaranthus cruentus"
+            ],
+            "val": [
+              "Amaranthus cruentus"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "65-75"
+            ],
+            "val": [
+              "65-75"
+            ]
+          },
+          {
+            "label": "Days To Germination",
+            "ID": "days_germination",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "7-10"
+            ],
+            "val": [
+              "7-10"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-7"
+            ],
+            "val": [
+              "culture-7"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              75
+            ],
+            "val": [
+              75
+            ]
+          },
+          {
+            "label": "Days Mature Low",
+            "ID": "daysmature_low",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              65
+            ],
+            "val": [
+              65
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Amaranthus Seed"
+            ],
+            "val": [
+              "Amaranthus Seed"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Use for Cut Flowers and Bouquets",
+              "Ideal for Drying and Crafts"
+            ],
+            "val": [
+              "19",
+              "20"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Darkest red amaranth in our trials, ideal for summer/fall arrangements."
+            ],
+            "val": [
+              "Darkest red amaranth in our trials, ideal for summer/fall arrangements."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "129"
+            ]
+          },
+          {
+            "label": "prod_feature_use",
+            "ID": "prod_feature_use",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Use for Cut Flowers and Bouquets",
+              "Ideal for Drying and Crafts",
+              "Bouquet Filler"
+            ],
+            "val": [
+              "19",
+              "20",
+              "215"
+            ]
+          },
+          {
+            "label": "Product Feature Color",
+            "ID": "prod_feature_color",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Red"
+            ],
+            "val": [
+              "98"
+            ]
+          },
+          {
+            "label": "Product Feature Color Trends",
+            "ID": "prod_feature_color_trends",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Chocolate and Wine Shades"
+            ],
+            "val": [
+              "243"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.0067
+            ],
+            "val": [
+              0.0067
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Amaranthus cruentus"
+            ],
+            "val": [
+              "Amaranthus cruentus"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "65-75"
+            ],
+            "val": [
+              "65-75"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Use for Cut Flowers and Bouquets",
+              "Ideal for Drying and Crafts"
+            ],
+            "val": [
+              "19",
+              "20"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "Temporarily Unavailable"
+      ],
+      "inStockDate": null
+    },
+    "available": false,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=3786.11&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/flowers/amaranthus/red-spike-amaranthus-seed-3786.html?dwvar_3786_sizecode=11&quantity=undefined",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "Amaranthus Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AT",
+      "1": "BE",
+      "2": "BG",
+      "3": "CY",
+      "4": "CZ",
+      "5": "DE",
+      "6": "DK",
+      "7": "EE",
+      "8": "ES",
+      "9": "FI",
+      "10": "FR",
+      "11": "GB",
+      "12": "GR",
+      "13": "HR",
+      "14": "HU",
+      "15": "IE",
+      "16": "IT",
+      "17": "LT",
+      "18": "LU",
+      "19": "LV",
+      "20": "NL",
+      "21": "PL",
+      "22": "PT",
+      "23": "RO",
+      "24": "SE",
+      "25": "SI",
+      "26": "SK"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": null,
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Darkest red amaranth in our trials, ideal for summer/fall arrangements.",
+    "daysToMaturityString": "65 - 75 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "document",
+        "title": "Easy Cut-Flower Garden Planner | For Growers New to Flowers (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "Easy Cut-Flower Garden Map | For Growers New to Flowers (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Getting Started in Cut-Flowers | Top 15 Cuts",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Flower Farmers' Favorite Fillers & Foliage | Recommendations from 3 Farmer-Florists",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "How to Air-Dry Cut Flowers | Easy Instructions from Johnny's",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Slow Flowers Palette & Petal Crushes | Evolving Colors & Shape-Shifts in Floral Industry Trends",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": true,
+    "orderableRecommendationsPIDs": [
+      "4489"
+    ],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": false,
+    "productVideos": [],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw8c9d482a/images/svgs/product_feature/19.svg",
+        "value": "19",
+        "displayValue": "Use for Cut Flowers and Bouquets"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb2be0bff/images/svgs/product_feature/20.svg",
+        "value": "20",
+        "displayValue": "Ideal for Drying and Crafts"
+      }
+    ],
+    "availabilityStatus": "NOT_AVAILABLE",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Amaranthus",
+    "minPrice": {},
+    "maxPrice": {}
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "quickViewFullDetailMsg": "View Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "datalayerAjaxData": {
+    "currencyCode": "USD",
+    "products": [
+      {
+        "name": "Red Spike",
+        "id": "3786",
+        "price": "5.15",
+        "category": "Flowers/Amaranthus",
+        "variant": "",
+        "quantity": 1
+      }
+    ]
+  },
+  "recomendationProductDetails": {},
+  "urls": {
+    "product": "/flowers/amaranthus/velvet-curtains-amaranthus-seed-4489.html",
+    "quickView": "/on/demandware.store/Sites-JSS-Site/en_US/Product-ShowQuickView?pid=4489"
+  },
+  "validatePerishableproductURL": {},
+  "masterProductID": "3786",
+  "renderedTemplate": "\n\n\n\n\n\n<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"3786.11\">\n    <div class=\"row\">\n        <div class=\"col-12 col-lg-4 mb-lg-5\">\n            <div class=\"row product-header mb-2 align-items-end d-lg-none\">\n                <!-- Product Name -->\n                <div class=\"col-12\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Red Spike <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">Amaranthus Seed</span></h1>\n                </div>\n                <div class=\"col-12 mb-lg-2\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">3786.11</span><span class=\"master-product-id\">3786</span>\n\n                    </span>\n                </div>\n                <!-- Applicable Promotions -->\n                <span class=\"col-12 promotions mt-1 d-lg-none\">\n                    \n\n\n\n                </span>\n            </div>\n            <!-- Product Images Carousel -->\n            \n\n\n\n\n<div class=\"primary-images\">\n    <div id=\"pdpCarousel-3786\" class=\"carousel slide \" data-interval=\"0\" data-prev=\"Previous\" data-next=\"Next\">\n        <div class=\"carousel-inner\" role=\"listbox\">\n            <div class=\"zoom-image\">Zoom Image</div>\n\n            \n            \n                <div data-slide=\"0\" class='carousel-item active'>\n                    <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw4f92cfcd/images/products/flowers/3786_01_redspike.jpg?sw=800&amp;sh=800\" class=\"d-block img-fluid\" alt=\"Red Spike Amaranthus\" itemprop=\"image\" />\n                </div>\n            \n        </div>\n        \n            <div class=\"thumbnail-images-inner\">\n                <ol class=\"carousel-indicators\">\n                    \n\t                    <div data-target=\"#pdpCarousel-3786\" data-slide-to=\"0\" class=\"thumbnail-image   \">\n                            <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw4f92cfcd/images/products/flowers/3786_01_redspike.jpg?sw=140&amp;sh=140\" class=\"d-block img-fluid\" alt=\"Red Spike Amaranthus\" itemprop=\"image\" />\n                        </div>\n\t                    \n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t                \n\t            </ol>\n                \n            </div>\n        \n    </div>\n</div>\n        </div>\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-lg-8\">\n            <div class=\"row product-header align-items-end align-items-lg-start d-none d-lg-flex\">\n                <!-- Product Name -->\n                <div class=\"col-6\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Red Spike <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">Amaranthus Seed</span></h1>\n                </div>\n                <div class=\"col-6 text-right\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1 mb-2 mb-md-4 mb-lg-0 d-flex justify-content-end\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">3786.11</span><span class=\"master-product-id\">3786</span>\n\n                    </span>\n                    <!-- Applicable Promotions -->\n                    <span class=\"promotions text-md-right justify-content-lg-end\">\n                        \n\n\n\n                    </span>\n                </div>\n            </div>\n\n            <div class=\"row mt-2 mt-lg-3\">\n                \n                <div class=\"description-and-detail col-12\">\n    \n\n    \n        <div class=\"details collapsible-xs \">\n            \n    <p id=\"collapsible-details-1\">\n        <span style=\"color: #000000;\" >Ideal color and form for late summer and fall arrangements. More useful than other upright types because of its gracefully arched, feathery plumes. Dark red, arched, and airy flower heads. When plants are young and leaves are tender, the foliage makes a nice edible green. Also known simply as amaranth. Ht. 48&ndash;60&quot;. Avg. 40,600 seeds/oz. Packet: 100 seeds.</span>\n    </p>\n\n\n        </div>\n        <button type=\"button\" class=\"c-content-toggle-trigger js-ct-trigger d-none\" data-active-content=\"Less\">\n            Read More\n        </button>\n    \n</div>\n\n            </div>\n\n            <div class=\"row w-100 shipping-alerts\">\n                \n\n            </div>\n            <div class=\"row\">\n                \n                \n            </div>\n            <!-- Attributes -->\n\n            \n            \n                    \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n                    \n                \n            \n            \n            \n                <div class=\"substitutes\">\n                    <h3 class=\"brand-h4 mb-4\">Johnny's Recommended Substitute </h3>\n                    \n                        <div class=\"product\" data-pid=\"4489\">\n                            <div class=\"product-tile d-flex flex-column flex-lg-row w-100\">\n    <!-- dwMarker=\"product\" dwContentID=\"c581190858edb6bd13a89dfdf4\" -->\n    \n\n\n\t\n    \n\n\n<div class=\"image-container\">\n    \n    <a class=\"tile-image-link\" href=\"/flowers/amaranthus/velvet-curtains-amaranthus-seed-4489.html\" title=\"Velvet Curtains\">\n        <img class=\"tile-image\"\n             src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw49ffeba6/images/products/flowers/4489_01_velvetcurtains_vendor.jpg?sw=400&amp;cx=258&amp;cy=0&amp;cw=1196&amp;ch=1196\"\n             alt=\"Velvet Curtains Amaranthus\"\n             title=\"Velvet Curtains\"\n             itemprop=\"image\"/>\n    </a>\n    \n\n    \n</div>\n\n    <div class=\"tile-body\">\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n    \n\n\n\n\t<div class=\"pdp-link\">\n\t\t<a class=\"link tile-name-link\" href=\"/flowers/amaranthus/velvet-curtains-amaranthus-seed-4489.html\">\n\t\t\t\n\t\t\t\t<div class=\"tile-name product-name\" itemprop=\"name\">\n\t\t\t\t\tVelvet Curtains\n\t\t\t\t</div>\n\t\t\t\n\t\t\t\n\t\t\t\t<div class=\"tile-secondary-name product-secondary\" itemprop=\"alternateName\">\n\t\t\t\t\tAmaranthus Seed\n\t\t\t\t</div>\n\t\t\t\n\t\t</a>\n\t\t\n\t</div>\n\n        \n\t\n\n\n\t<div class=\"tile-description d-none d-lg-block\">Our substitute for Red Spike.</div>\n\n\t\t<div class=\"c-action-row mt-3\">\n\t\t\t<a class=\"c-button btn btn-primary\" href=\"/flowers/amaranthus/velvet-curtains-amaranthus-seed-4489.html\">View Details</a>\n\t\t</div>\n    </div>\n    <!-- END_dwmarker -->\n</div>\n\n                        </div>\n                    \n                </div>\n            \n        </div>\n    </div>\n\n    \n    \n</div>\n",
+  "productUrl": "/flowers/amaranthus/red-spike-amaranthus-seed-3786.11.html"
+}

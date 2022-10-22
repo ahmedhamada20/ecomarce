@@ -1,0 +1,1278 @@
+{
+  "action": "Product-ShowQuickView",
+  "queryString": "pid=118GP",
+  "locale": "en_US",
+  "product": {
+    "uuid": "8bd52b5cc75c1a07a2c1af6545",
+    "id": "118GP.11",
+    "productName": "Breen",
+    "productType": "variant",
+    "brand": null,
+    "price": {
+      "sales": {
+        "value": 7.8,
+        "currency": "USD",
+        "formatted": "$7.80",
+        "decimalPrice": "7.80"
+      },
+      "list": null
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"7.80\">\n        \n        $7.80\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Breen",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw3d005153/images/products/vegetables/0118gp_01_breen.jpg?sw=800&cx=358&cy=56&cw=1140&ch=1140",
+          "title": "Breen"
+        },
+        {
+          "alt": "Breen",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw132b51e6/images/products/vegetables/0118gp_02_breen.jpg?sw=800&cx=302&cy=0&cw=1196&ch=1196",
+          "title": "Breen"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Breen",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw3d005153/images/products/vegetables/0118gp_01_breen.jpg?sw=140&cx=358&cy=56&cw=1140&ch=1140",
+          "title": "Breen"
+        },
+        {
+          "alt": "Breen",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw132b51e6/images/products/vegetables/0118gp_02_breen.jpg?sw=140&cx=302&cy=0&cw=1196&ch=1196",
+          "title": "Breen"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "Packet",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": true,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=&pid=118GP&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=11&pid=118GP&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "118GP.11",
+            "price": {
+              "sales": {
+                "value": 7.8,
+                "currency": "USD",
+                "formatted": "$7.80",
+                "decimalPrice": "7.80"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"7.80\">\n        \n        $7.80\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=53&pid=118GP&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=53&pid=118GP&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "118GP.53",
+            "price": {
+              "sales": {
+                "value": 18.75,
+                "currency": "USD",
+                "formatted": "$18.75",
+                "decimalPrice": "18.75"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"18.75\">\n        \n        $18.75\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=54&pid=118GP&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=54&pid=118GP&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "118GP.54",
+            "price": {
+              "sales": {
+                "value": 61.25,
+                "currency": "USD",
+                "formatted": "$61.25",
+                "decimalPrice": "61.25"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"61.25\">\n        \n        $61.25\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "56",
+            "description": null,
+            "displayValue": "25,000 Seeds",
+            "value": "56",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=56&pid=118GP&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=56&pid=118GP&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "118GP.56",
+            "price": {
+              "sales": {
+                "value": 243,
+                "currency": "USD",
+                "formatted": "$243.00",
+                "decimalPrice": "243.00"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"243.00\">\n        \n        $243.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "59",
+            "description": null,
+            "displayValue": "100,000 Seeds",
+            "value": "59",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=59&pid=118GP&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=59&pid=118GP&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "118GP.59",
+            "price": {
+              "sales": {
+                "value": 923,
+                "currency": "USD",
+                "formatted": "$923.00",
+                "decimalPrice": "923.00"
+              },
+              "list": null,
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"923.00\">\n        \n        $923.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "Backordered"
+              ],
+              "inStockDate": "Tue Oct 25 2022"
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "backorder-msg",
+              "availabilityMsg": "",
+              "inStockDateMsg": "Estimated Ship Date Oct 25, 2022",
+              "schemaURL": "http://schema.org/OutOfStock",
+              "isInStock": false,
+              "pastInstockBackOrder": false,
+              "backOrderDateFormat": "Oct 25, 2022",
+              "preorderBackorderAllocation": 999999999,
+              "availabilityMsgFormatted": "Backordered Until Oct 25, 2022"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=&pid=118GP&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >Breen forms a very compact mini head early and is slow to become oversized. The short plant averages 8&quot; tall and is a medium-bronze-red color. Though best for mini heads, it can also be used for cut-and-come-again harvest. Especially nice marketed with other mini romaine varieties. Utility Patent granted. High resistance to downy mildew races EU 16&ndash;21, 23&ndash;26, 28&ndash;37; US 5&ndash;9. MT0-30. USDA Certified Organic. Avg. 1,100 seeds/oz. Packet: 250 seeds.</span>",
+    "shortDescription": "True mini bronze-red romaine. Organic seed with NOP-compliant pelleting.",
+    "rating": 5,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Pelleted Lettuce Seed"
+            ],
+            "val": [
+              "Organic Pelleted Lettuce Seed"
+            ]
+          },
+          {
+            "label": "Size Code",
+            "ID": "sizecode",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "11"
+            ],
+            "val": [
+              "11"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "lettuce-quick-reference-chart",
+              "pelleted-seed-tech-sheet",
+              "mini-versus-full-head-lettuce",
+              "lettuce-how-to-choose-grow-tips"
+            ],
+            "val": [
+              "lettuce-quick-reference-chart",
+              "pelleted-seed-tech-sheet",
+              "mini-versus-full-head-lettuce",
+              "lettuce-how-to-choose-grow-tips"
+            ]
+          },
+          {
+            "label": "Product Videos",
+            "ID": "product_videos",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "9Wl1B9Ikx2U"
+            ],
+            "val": [
+              "9Wl1B9Ikx2U"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Lactuca sativa"
+            ],
+            "val": [
+              "Lactuca sativa"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "45"
+            ],
+            "val": [
+              "45"
+            ]
+          },
+          {
+            "label": "Life Cycle ID",
+            "ID": "life_cycle_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "(A)"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-463"
+            ],
+            "val": [
+              "culture-463"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              45
+            ],
+            "val": [
+              45
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Pelleted Lettuce Seed"
+            ],
+            "val": [
+              "Organic Pelleted Lettuce Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "DM"
+            ],
+            "val": [
+              "DM"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Greenhouse Performer",
+              "Plant Variety Protected",
+              "Organic Seeds, Plants, and Supplies",
+              "Hydroponic Performer"
+            ],
+            "val": [
+              "9",
+              "37",
+              "3",
+              "110"
+            ]
+          },
+          {
+            "label": "Product Notes",
+            "ID": "productnotes",
+            "valueTypeCode": 5,
+            "multiValueType": false,
+            "requiresEncoding": false,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Early producer of truly compact mini heads with bronze-red color."
+            ],
+            "val": [
+              "Early producer of truly compact mini heads with bronze-red color."
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Seeds, Plants, and Supplies",
+              "Pelleted Seeds",
+              "Open Pollinated"
+            ],
+            "val": [
+              "3",
+              "16",
+              "129"
+            ]
+          },
+          {
+            "label": "prod_feature_grow_cond",
+            "ID": "prod_feature_grow_cond",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Greenhouse Performer",
+              "Hydroponic Performer"
+            ],
+            "val": [
+              "9",
+              "110"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Recommended Summer Planting for Fall Harvest",
+              "Baby Vegetables"
+            ],
+            "val": [
+              "45",
+              "137"
+            ]
+          },
+          {
+            "label": "Product Feature Color",
+            "ID": "prod_feature_color",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Red"
+            ],
+            "val": [
+              "98"
+            ]
+          },
+          {
+            "label": "prod_feature_grow_stg",
+            "ID": "prod_feature_grow_stg",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Mini Head"
+            ],
+            "val": [
+              "163"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "ShippingAttributes",
+        "name": "Shipping",
+        "attributes": [
+          {
+            "label": "Shipping Weight",
+            "ID": "shipping_weight",
+            "valueTypeCode": 2,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              0.0206
+            ],
+            "val": [
+              0.0206
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Lactuca sativa"
+            ],
+            "val": [
+              "Lactuca sativa"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "45"
+            ],
+            "val": [
+              "45"
+            ]
+          },
+          {
+            "label": "Life Cycle",
+            "ID": "life_cycle_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Annual"
+            ],
+            "val": [
+              "Annual"
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "DM"
+            ],
+            "val": [
+              "DM"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Open Pollinated"
+            ],
+            "val": [
+              "Open Pollinated"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Greenhouse Performer",
+              "Plant Variety Protected",
+              "Organic Seeds, Plants, and Supplies",
+              "Hydroponic Performer"
+            ],
+            "val": [
+              "9",
+              "37",
+              "3",
+              "110"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "comparison-fields",
+        "name": "Comparison Fields",
+        "attributes": [
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "45"
+            ],
+            "val": [
+              "45"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": null
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/lettuce/romaine-lettuce-cos/breen-organic-pelleted-lettuce-seed-118GP.html?dwvar_118GP_sizecode=11&quantity=undefined",
+    "readyToOrder": true,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": "118GP, Breen, Organic Pelleted Lettuce Seed, Annual, Lactuca sativa, Lettuce, Romaine/Cos, Red Romaine",
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "Organic Pelleted Lettuce Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AE",
+      "1": "AT",
+      "2": "AU",
+      "3": "BB",
+      "4": "BE",
+      "5": "BG",
+      "6": "BM",
+      "7": "BS",
+      "8": "CH",
+      "9": "CY",
+      "10": "CZ",
+      "11": "DE",
+      "12": "DK",
+      "13": "EE",
+      "14": "ES",
+      "15": "FI",
+      "16": "FR",
+      "17": "GB",
+      "18": "GR",
+      "19": "HK",
+      "20": "HR",
+      "21": "HU",
+      "22": "IE",
+      "23": "IS",
+      "24": "IT",
+      "25": "JP",
+      "26": "KR",
+      "27": "KW",
+      "28": "KY",
+      "29": "LT",
+      "30": "LU",
+      "31": "LV",
+      "32": "MY",
+      "33": "NL",
+      "34": "NO",
+      "35": "NZ",
+      "36": "OM",
+      "37": "PL",
+      "38": "PT",
+      "39": "QA",
+      "40": "RO",
+      "41": "SA",
+      "42": "SE",
+      "43": "SG",
+      "44": "SI",
+      "45": "SK",
+      "46": "SM",
+      "47": "TH",
+      "48": "TT",
+      "49": "TW",
+      "50": "UA"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": {},
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Early producer of truly compact mini heads with bronze-red color.",
+    "daysToMaturityString": "45 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "comparisonchart",
+        "title": "Lettuce Varieties | Quick-Reference Comparison Chart (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "About Pelleted Seed | Tech Sheet (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Growing Mini versus Full-size Head Lettuce | A Look at the ROI",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "How to Choose & Grow the Best Lettuce | Tips for Every Grower",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": true,
+    "orderableRecommendationsPIDs": [
+      "118JP"
+    ],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": false,
+    "newFlag": false,
+    "productVideos": [
+      "9Wl1B9Ikx2U"
+    ],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwee5e9caa/images/svgs/product_feature/37.svg",
+        "value": "37",
+        "displayValue": "Plant Variety Protected"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb74dfb93/images/svgs/product_feature/3.svg",
+        "value": "3",
+        "displayValue": "Organic Seeds, Plants, and Supplies"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw56e3b406/images/svgs/product_feature/9.svg",
+        "value": "9",
+        "displayValue": "Greenhouse Performer"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw730545ba/images/svgs/product_feature/110.svg",
+        "value": "110",
+        "displayValue": "Hydroponic Performer"
+      }
+    ],
+    "availabilityStatus": "IN_STOCK",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Romaine Lettuce (Cos)",
+    "minPrice": {},
+    "maxPrice": {}
+  },
+  "addToCartUrl": {},
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "quickViewFullDetailMsg": "View Details",
+  "closeButtonText": "Close Quickview Dialog",
+  "enterDialogMessage": "Start of Quickview dialog window. Select Close to cancel and close the window.",
+  "template": "product/quickView.isml",
+  "datalayerAjaxData": {
+    "currencyCode": "USD",
+    "products": [
+      {
+        "name": "Breen",
+        "id": "118GP",
+        "price": "7.80",
+        "category": "Vegetables/Lettuce/Romaine Lettuce (Cos)",
+        "variant": "",
+        "quantity": 1
+      }
+    ]
+  },
+  "recomendationProductDetails": {},
+  "urls": {
+    "product": "/vegetables/lettuce/romaine-lettuce-cos/breen-pelleted-lettuce-seed-118JP.html",
+    "quickView": "/on/demandware.store/Sites-JSS-Site/en_US/Product-ShowQuickView?pid=118JP"
+  },
+  "validatePerishableproductURL": {},
+  "masterProductID": "118GP",
+  "renderedTemplate": "\n\n\n\n\n\n<div class=\"product-quickview product-variant col product-wrapper product-detail\" data-pid=\"118GP.11\">\n    <div class=\"row\">\n        <div class=\"col-12 col-lg-4 mb-lg-5\">\n            <div class=\"row product-header mb-2 align-items-end d-lg-none\">\n                <!-- Product Name -->\n                <div class=\"col-12\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Breen <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">Organic Pelleted Lettuce Seed</span></h1>\n                </div>\n                <div class=\"col-12 mb-lg-2\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">118GP.11</span><span class=\"master-product-id\">118GP</span>\n\n                    </span>\n                </div>\n                <!-- Applicable Promotions -->\n                <span class=\"col-12 promotions mt-1 d-lg-none\">\n                    \n\n\n\n                </span>\n            </div>\n            <!-- Product Images Carousel -->\n            \n\n\n\n\n<div class=\"primary-images\">\n    <div id=\"pdpCarousel-118GP\" class=\"carousel slide has-video\" data-interval=\"0\" data-prev=\"Previous\" data-next=\"Next\">\n        <div class=\"carousel-inner\" role=\"listbox\">\n            <div class=\"zoom-image\">Zoom Image</div>\n\n            \n            \n                <div data-slide=\"0\" class='carousel-item active'>\n                    <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw3d005153/images/products/vegetables/0118gp_01_breen.jpg?sw=800&amp;cx=358&amp;cy=56&amp;cw=1140&amp;ch=1140\" class=\"d-block img-fluid\" alt=\"Breen Romaine Lettuce (Cos)\" itemprop=\"image\" />\n                </div>\n            \n                <div data-slide=\"1\" class='carousel-item '>\n                    <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw132b51e6/images/products/vegetables/0118gp_02_breen.jpg?sw=800&amp;cx=302&amp;cy=0&amp;cw=1196&amp;ch=1196\" class=\"d-block img-fluid\" alt=\"Breen Romaine Lettuce (Cos)\" itemprop=\"image\" />\n                </div>\n            \n        </div>\n        \n            <div class=\"thumbnail-images-inner\">\n                <ol class=\"carousel-indicators\">\n                    \n\t                    <div data-target=\"#pdpCarousel-118GP\" data-slide-to=\"0\" class=\"thumbnail-image active selected \">\n                            <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw3d005153/images/products/vegetables/0118gp_01_breen.jpg?sw=140&amp;cx=358&amp;cy=56&amp;cw=1140&amp;ch=1140\" class=\"d-block img-fluid\" alt=\"Breen Romaine Lettuce (Cos)\" itemprop=\"image\" />\n                        </div>\n\t                    \n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<div class=\"js-image-gallery__video-item \">\n\t\t\t\t\t\t\t\t\t<a href=\"https://www.youtube.com/watch?v=9Wl1B9Ikx2U\" target=\"_blank\">\n\t\t\t\t\t\t\t\t\t\t<img class=\"c-youtubeposter\" src=\"https://img.youtube.com/vi/9Wl1B9Ikx2U/default.jpg\" alt=\"Video for Breen\" />\n                                        <span class=\"play-icon\" aria-hidden=\"true\"></span>\n\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t<div class=\"js-image-gallery__video-template d-none\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"c-youtubeplayer\">\n\t\t\t\t\t\t\t\t\t\t\t<iframe  class=\"c-youtubeplayer__iframe\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9Wl1B9Ikx2U\" allowfullscreen></iframe>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t                \n\t                    <div data-target=\"#pdpCarousel-118GP\" data-slide-to=\"1\" class=\"thumbnail-image  selected \">\n                            <img src=\"https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw132b51e6/images/products/vegetables/0118gp_02_breen.jpg?sw=140&amp;cx=302&amp;cy=0&amp;cw=1196&amp;ch=1196\" class=\"d-block img-fluid\" alt=\"Breen Romaine Lettuce (Cos)\" itemprop=\"image\" />\n                        </div>\n\t                    \n\t                \n\t            </ol>\n                \n            </div>\n        \n    </div>\n</div>\n        </div>\n\n        <!-- Product Name and Number -->\n        <div class=\"col-12 col-lg-8\">\n            <div class=\"row product-header align-items-end align-items-lg-start d-none d-lg-flex\">\n                <!-- Product Name -->\n                <div class=\"col-6\">\n                    <h1 class=\"brand-h2 product-name\" itemprop=\"name\">Breen <span class=\"brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name\" itemprop=\"alternateName\">Organic Pelleted Lettuce Seed</span></h1>\n                </div>\n                <div class=\"col-6 text-right\">\n                    <!-- Product Number -->\n                    <span class=\"caption-1 mb-2 mb-md-4 mb-lg-0 d-flex justify-content-end\">\n                        <span>Product ID:</span><span class=\"product-id d-none\">118GP.11</span><span class=\"master-product-id\">118GP</span>\n\n                    </span>\n                    <!-- Applicable Promotions -->\n                    <span class=\"promotions text-md-right justify-content-lg-end\">\n                        \n\n\n\n                    </span>\n                </div>\n            </div>\n\n            <div class=\"row mt-2 mt-lg-3\">\n                \n                <div class=\"description-and-detail col-12\">\n    \n\n    \n        <div class=\"details collapsible-xs \">\n            \n    <p id=\"collapsible-details-1\">\n        <span style=\"color: #000000;\" >Breen forms a very compact mini head early and is slow to become oversized. The short plant averages 8&quot; tall and is a medium-bronze-red color. Though best for mini heads, it can also be used for cut-and-come-again harvest. Especially nice marketed with other mini romaine varieties. Utility Patent granted. High resistance to downy mildew races EU 16&ndash;21, 23&ndash;26, 28&ndash;37; US 5&ndash;9. MT0-30. USDA Certified Organic. Avg. 1,100 seeds/oz. Packet: 250 seeds.</span>\n    </p>\n\n\n        </div>\n        <button type=\"button\" class=\"c-content-toggle-trigger js-ct-trigger d-none\" data-active-content=\"Less\">\n            Read More\n        </button>\n    \n</div>\n\n            </div>\n\n            <div class=\"row w-100 shipping-alerts\">\n                \n\n            </div>\n            <div class=\"row\">\n                \n                \n            </div>\n            <!-- Attributes -->\n\n            \n            \n                    \n                    \n                        \n                        \n            \n            \n            \n                <section class=\"attributes\">\n                    <div class=\"row\">\n                        <div class=\"col-12 col-lg-11 pr-lg-0 attributes-wrap\">\n                            \n                                \n\n<div class=\"attribute\">\n    \n        <!-- Select <Attribute> Label -->\n        <div class=\"d-flex justify-content-between align-items-center mb-2\">\n            <!-- Select <Attribute> Label -->\n            <div class=\"sizecode-label d-flex\">\n                <label class=\"sizecode mb-0 text-uppercase\" for=\"sizecode-1\">\n                    Size:\n                </label>\n\t            \n                \n                <span class=\"selected-sizecode font-weight-normal ml-1 d-none\"></span>\n            </div>\n        </div>\n        <!-- Rectangular Swatch Attribute Values -->\n        <div class=\"sizecode-select\">\n            <ul class=\"sizecode-swatches sizecode-attribute d-flex pt-sm-1 flex-wrap\">\n                \n                    <li data-attr-value=\"11\" class=\"swatch-square position-relative size-swatch active selectable\"\n                    \n                    value=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=&amp;pid=118GP&amp;quantity=1\">\n                        <a data-attr-value=\"11\" data-product=\"118GP.11\" href=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=&amp;pid=118GP&amp;quantity=1\" title=\"11\" class=\"sizecode-value swatch-square-value d-flex justify-content-center align-items-center selected\">\n                            <div class=\"attribute-display attribute-availability product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                                <!-- Attribute displayValue -->\n                                <span class=\"font-weight-bold\">Packet</span>\n                                <!-- Product Availability -->\n                                \n                                \n\n\n\n\n\n\n\n\n<div class=\"availability-inner-wrapper\">\n\t<span class=\"in-stock-msg\">In Stock</span>\n\t\n</div>\n\n                            </div>\n                            <!-- Prices -->\n                            <div class=\"attribute-price\">\n                                <div class=\"prices-new\">\n                                    \n                                    \n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"7.80\">\n        \n        $7.80\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n                                </div>\n                            </div>\n                        </a>\n                    </li>\n                \n                    <li data-attr-value=\"53\" class=\"swatch-square position-relative size-swatch  selectable\"\n                    \n                    value=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=53&amp;pid=118GP&amp;quantity=1\">\n                        <a data-attr-value=\"53\" data-product=\"118GP.53\" href=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=53&amp;pid=118GP&amp;quantity=1\" title=\"53\" class=\"sizecode-value swatch-square-value d-flex justify-content-center align-items-center \">\n                            <div class=\"attribute-display attribute-availability product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                                <!-- Attribute displayValue -->\n                                <span class=\"font-weight-bold\">1,000 Seeds</span>\n                                <!-- Product Availability -->\n                                \n                                \n\n\n\n\n\n\n\n\n<div class=\"availability-inner-wrapper\">\n\t<span class=\"in-stock-msg\">In Stock</span>\n\t\n</div>\n\n                            </div>\n                            <!-- Prices -->\n                            <div class=\"attribute-price\">\n                                <div class=\"prices-new\">\n                                    \n                                    \n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"18.75\">\n        \n        $18.75\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n                                </div>\n                            </div>\n                        </a>\n                    </li>\n                \n                    <li data-attr-value=\"54\" class=\"swatch-square position-relative size-swatch  selectable\"\n                    \n                    value=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=54&amp;pid=118GP&amp;quantity=1\">\n                        <a data-attr-value=\"54\" data-product=\"118GP.54\" href=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=54&amp;pid=118GP&amp;quantity=1\" title=\"54\" class=\"sizecode-value swatch-square-value d-flex justify-content-center align-items-center \">\n                            <div class=\"attribute-display attribute-availability product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                                <!-- Attribute displayValue -->\n                                <span class=\"font-weight-bold\">5,000 Seeds</span>\n                                <!-- Product Availability -->\n                                \n                                \n\n\n\n\n\n\n\n\n<div class=\"availability-inner-wrapper\">\n\t<span class=\"in-stock-msg\">In Stock</span>\n\t\n</div>\n\n                            </div>\n                            <!-- Prices -->\n                            <div class=\"attribute-price\">\n                                <div class=\"prices-new\">\n                                    \n                                    \n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"61.25\">\n        \n        $61.25\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n                                </div>\n                            </div>\n                        </a>\n                    </li>\n                \n                    <li data-attr-value=\"56\" class=\"swatch-square position-relative size-swatch  selectable\"\n                    \n                    value=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=56&amp;pid=118GP&amp;quantity=1\">\n                        <a data-attr-value=\"56\" data-product=\"118GP.56\" href=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=56&amp;pid=118GP&amp;quantity=1\" title=\"56\" class=\"sizecode-value swatch-square-value d-flex justify-content-center align-items-center \">\n                            <div class=\"attribute-display attribute-availability product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                                <!-- Attribute displayValue -->\n                                <span class=\"font-weight-bold\">25,000 Seeds</span>\n                                <!-- Product Availability -->\n                                \n                                \n\n\n\n\n\n\n\n\n<div class=\"availability-inner-wrapper\">\n\t<span class=\"in-stock-msg\">In Stock</span>\n\t\n</div>\n\n                            </div>\n                            <!-- Prices -->\n                            <div class=\"attribute-price\">\n                                <div class=\"prices-new\">\n                                    \n                                    \n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"243.00\">\n        \n        $243.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n                                </div>\n                            </div>\n                        </a>\n                    </li>\n                \n                    <li data-attr-value=\"59\" class=\"swatch-square position-relative size-swatch  selectable\"\n                    \n                    value=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=59&amp;pid=118GP&amp;quantity=1\">\n                        <a data-attr-value=\"59\" data-product=\"118GP.59\" href=\"https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_118GP_sizecode=59&amp;pid=118GP&amp;quantity=1\" title=\"59\" class=\"sizecode-value swatch-square-value d-flex justify-content-center align-items-center \">\n                            <div class=\"attribute-display attribute-availability product-availability\" data-ready-to-order=\"true\" data-available=\"true\">\n                                <!-- Attribute displayValue -->\n                                <span class=\"font-weight-bold\">100,000 Seeds</span>\n                                <!-- Product Availability -->\n                                \n                                \n\n\n\n\n\n\n\n\n<div class=\"availability-inner-wrapper highlight\">\n\t<span class=\"backorder-msg\"></span>\n\t\n\t\t\n\t\t\t<span class=\"in-stock-date-msg\">Backordered Until Oct 25, 2022</span>\n\t\t\n\t\n</div>\n\n                            </div>\n                            <!-- Prices -->\n                            <div class=\"attribute-price\">\n                                <div class=\"prices-new\">\n                                    \n                                    \n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n        \n            <span class=\"value\" content=\"923.00\">\n        \n        $923.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n                                </div>\n                            </div>\n                        </a>\n                    </li>\n                \n            </ul>\n        </div>\n    \n</div>\n\n\n                                \n                                    <!-- Quantity Drop Down Menu -->\n                                    <div class=\"attribute quantity col-4 d-sm-none\">\n                                        \n                                            <div class=\"d-none\">\n    <select class=\"quantity-select custom-select form-control\" id=\"quantity-1\">\n        \n            <option value=\"1\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=1\"\n                    selected\n            >\n                1\n            </option>\n        \n            <option value=\"2\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=2\"\n                    \n            >\n                2\n            </option>\n        \n            <option value=\"3\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=3\"\n                    \n            >\n                3\n            </option>\n        \n            <option value=\"4\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=4\"\n                    \n            >\n                4\n            </option>\n        \n            <option value=\"5\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=5\"\n                    \n            >\n                5\n            </option>\n        \n            <option value=\"6\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=6\"\n                    \n            >\n                6\n            </option>\n        \n            <option value=\"7\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=7\"\n                    \n            >\n                7\n            </option>\n        \n            <option value=\"8\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=8\"\n                    \n            >\n                8\n            </option>\n        \n            <option value=\"9\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=9\"\n                    \n            >\n                9\n            </option>\n        \n            <option value=\"10\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=10\"\n                    \n            >\n                10\n            </option>\n        \n            <option value=\"11\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=11\"\n                    \n            >\n                11\n            </option>\n        \n            <option value=\"12\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=12\"\n                    \n            >\n                12\n            </option>\n        \n            <option value=\"13\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=13\"\n                    \n            >\n                13\n            </option>\n        \n            <option value=\"14\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=14\"\n                    \n            >\n                14\n            </option>\n        \n            <option value=\"15\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=15\"\n                    \n            >\n                15\n            </option>\n        \n            <option value=\"16\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=16\"\n                    \n            >\n                16\n            </option>\n        \n            <option value=\"17\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=17\"\n                    \n            >\n                17\n            </option>\n        \n            <option value=\"18\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=18\"\n                    \n            >\n                18\n            </option>\n        \n            <option value=\"19\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=19\"\n                    \n            >\n                19\n            </option>\n        \n            <option value=\"20\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=20\"\n                    \n            >\n                20\n            </option>\n        \n            <option value=\"21\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=21\"\n                    \n            >\n                21\n            </option>\n        \n            <option value=\"22\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=22\"\n                    \n            >\n                22\n            </option>\n        \n            <option value=\"23\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=23\"\n                    \n            >\n                23\n            </option>\n        \n            <option value=\"24\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=24\"\n                    \n            >\n                24\n            </option>\n        \n            <option value=\"25\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=25\"\n                    \n            >\n                25\n            </option>\n        \n    </select>\n</div>\n<div class=\"wrap d-flex align-items-center align-items-lg-end flex-column\">\n  <label for=\"quantity-1\">Quantity</label>\n  <div class=\"d-flex\">\n    <button type=\"button\" id=\"sub\" class=\"sub\" >-</button>\n    <input class=\"count\" type=\"text\" readonly id=\"quantity-1\" value=\"1\" min=\"1\"  aria-label=\"Quantity\" />\n    <button type=\"button\" id=\"add\" class=\"add\" >+</button>\n  </div>\n</div>\n\n                                        \n                                    </div>\n                                \n                            \n                        </div>\n                    </div>\n                </section>\n                \n                \n                    <!-- Options -->\n                    \n                \n                <div class=\"row\">\n                    <div class=\"col-12 col-lg-11\">\n                        <div class=\"row buttons-wrap\">\n                            \n                            <div class=\"col-12 col-lg-6\">\n                                <!-- Quantity -->\n                                <div class=\"attribute quantity pl-0 w-md-auto\">\n                                    \n                                        <div class=\"d-none\">\n    <select class=\"quantity-select custom-select form-control\" id=\"quantity-1\">\n        \n            <option value=\"1\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=1\"\n                    selected\n            >\n                1\n            </option>\n        \n            <option value=\"2\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=2\"\n                    \n            >\n                2\n            </option>\n        \n            <option value=\"3\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=3\"\n                    \n            >\n                3\n            </option>\n        \n            <option value=\"4\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=4\"\n                    \n            >\n                4\n            </option>\n        \n            <option value=\"5\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=5\"\n                    \n            >\n                5\n            </option>\n        \n            <option value=\"6\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=6\"\n                    \n            >\n                6\n            </option>\n        \n            <option value=\"7\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=7\"\n                    \n            >\n                7\n            </option>\n        \n            <option value=\"8\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=8\"\n                    \n            >\n                8\n            </option>\n        \n            <option value=\"9\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=9\"\n                    \n            >\n                9\n            </option>\n        \n            <option value=\"10\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=10\"\n                    \n            >\n                10\n            </option>\n        \n            <option value=\"11\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=11\"\n                    \n            >\n                11\n            </option>\n        \n            <option value=\"12\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=12\"\n                    \n            >\n                12\n            </option>\n        \n            <option value=\"13\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=13\"\n                    \n            >\n                13\n            </option>\n        \n            <option value=\"14\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=14\"\n                    \n            >\n                14\n            </option>\n        \n            <option value=\"15\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=15\"\n                    \n            >\n                15\n            </option>\n        \n            <option value=\"16\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=16\"\n                    \n            >\n                16\n            </option>\n        \n            <option value=\"17\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=17\"\n                    \n            >\n                17\n            </option>\n        \n            <option value=\"18\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=18\"\n                    \n            >\n                18\n            </option>\n        \n            <option value=\"19\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=19\"\n                    \n            >\n                19\n            </option>\n        \n            <option value=\"20\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=20\"\n                    \n            >\n                20\n            </option>\n        \n            <option value=\"21\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=21\"\n                    \n            >\n                21\n            </option>\n        \n            <option value=\"22\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=22\"\n                    \n            >\n                22\n            </option>\n        \n            <option value=\"23\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=23\"\n                    \n            >\n                23\n            </option>\n        \n            <option value=\"24\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=24\"\n                    \n            >\n                24\n            </option>\n        \n            <option value=\"25\"\n                    data-url=\"/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?pid=118GP.11&amp;quantity=25\"\n                    \n            >\n                25\n            </option>\n        \n    </select>\n</div>\n<div class=\"wrap d-flex align-items-center align-items-lg-end flex-column\">\n  <label for=\"quantity-1\">Quantity</label>\n  <div class=\"d-flex\">\n    <button type=\"button\" id=\"sub\" class=\"sub\" >-</button>\n    <input class=\"count\" type=\"text\" readonly id=\"quantity-1\" value=\"1\" min=\"1\"  aria-label=\"Quantity\" />\n    <button type=\"button\" id=\"add\" class=\"add\" >+</button>\n  </div>\n</div>\n\n                                    \n                                </div>\n                            </div>\n                            <div class=\"col-12 col-lg-6\">\n                                <div class=\"d-flex flex-column\">\n                                    <div class=\"d-flex align-items-center justify-content-center\">\n                                        <div class=\"add-to-wishlist-wrapper\">\n                                            <button type=\"submit\" class=\"btn btn-block add-to-wish-list p-0\" data-href=\"/on/demandware.store/Sites-JSS-Site/en_US/Wishlist-AddProduct\">\n    <span>Add to Wishlist</span>\n</button>\n                                        </div>\n                                        <!-- View Details -->\n                                        <a role=\"link\" class=\"full-pdp-link\" title=\"View Details\" href=\"/vegetables/lettuce/romaine-lettuce-cos/breen-organic-pelleted-lettuce-seed-118GP.11.html\">View Details</a>\n                                    </div>\n                                    <div>\n                                        <!-- Cart and [Optionally] Apple Pay -->\n                                        \n                                            <div class=\"row cart-and-ipay\">\n    <div class=\"col-sm-12\">\n        <input type=\"hidden\" class=\"add-to-cart-url\" value=\"/on/demandware.store/Sites-JSS-Site/en_US/Cart-AddProduct\" />\n        <input type=\"hidden\" class=\"perishable-url\" value=\"/on/demandware.store/Sites-JSS-Site/en_US/Cart-ValidatePerishableProduct\" />\n        \n        \n        \n        \n            \n        \n        <button class=\"add-to-cart-global btn btn-primary w-100\"\n                data-pid=\"118GP.11\"\n                data-addtocarttype=\"quick shop\"\n               >\n            <i class=\"fa fa-shopping-bag\"></i>\n            \n                Add to Cart\n            \n        </button>\n    </div>\n</div>\n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            \n        </div>\n    </div>\n\n    \n    \n</div>\n",
+  "productUrl": "/vegetables/lettuce/romaine-lettuce-cos/breen-organic-pelleted-lettuce-seed-118GP.11.html"
+}

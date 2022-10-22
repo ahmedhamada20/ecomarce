@@ -1,0 +1,1172 @@
+{
+  "action": "Product-Variation",
+  "queryString": "dwvar_3991G_sizecode=&pid=3991G&quantity=1",
+  "locale": "en_US",
+  "product": {
+    "uuid": "9b9978845b0052ac035f4e473e",
+    "id": "3991G",
+    "productName": "Clementine",
+    "productType": "master",
+    "brand": null,
+    "price": {
+      "type": "range",
+      "min": {
+        "sales": {
+          "value": 4.31,
+          "currency": "USD",
+          "formatted": "$4.31",
+          "decimalPrice": "4.31"
+        },
+        "list": null
+      },
+      "max": {
+        "sales": {
+          "value": 371,
+          "currency": "USD",
+          "formatted": "$371.00",
+          "decimalPrice": "371.00"
+        },
+        "list": null
+      },
+      "html": "\n\n\n\n    <div class=\"price\">\n        <span class=\"range\">\n    \n\n    \n    \n    <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n            <span class=\"value\" content=\"4.31\">\n        \n        \n        \n        $4.31\n\n\n        </span>\n    </span>\n</span>\n\n    -\n    \n    \n    <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n            <span class=\"value\" content=\"371.00\">\n        \n        \n        $371.00\n\n\n        </span>\n    </span>\n</span>\n\n</span>\n\n    </div>\n\n\n"
+    },
+    "renderedPrice": "\n\n\n\n    <div class=\"price\">\n        <span class=\"range\">\n    \n\n    \n    \n    <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n            <span class=\"value\" content=\"4.31\">\n        \n        \n        \n        $4.31\n\n\n        </span>\n    </span>\n</span>\n\n    -\n    \n    \n    <span>\n    \n\n    \n\n    \n    <span class=\"sales \">\n        \n        \n            <span class=\"value\" content=\"371.00\">\n        \n        \n        $371.00\n\n\n        </span>\n    </span>\n</span>\n\n</span>\n\n    </div>\n\n\n",
+    "images": {
+      "large": [
+        {
+          "alt": "Clementine",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw832feed7/images/products/vegetables/03991g_01_clementine.jpg?sw=800&sh=800",
+          "title": "Clementine"
+        },
+        {
+          "alt": "Clementine",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwf25287bb/images/products/vegetables/03991g_02_clementine.jpg?sw=800&sh=800",
+          "title": "Clementine"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Clementine",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dw832feed7/images/products/vegetables/03991g_01_clementine.jpg?sw=140&sh=140",
+          "title": "Clementine"
+        },
+        {
+          "alt": "Clementine",
+          "url": "https://www.johnnyseeds.com/dw/image/v2/BJGJ_PRD/on/demandware.static/-/Sites-jss-master/default/dwf25287bb/images/products/vegetables/03991g_02_clementine.jpg?sw=140&sh=140",
+          "title": "Clementine"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 25,
+    "variationAttributes": [
+      {
+        "attributeId": "sizecode",
+        "displayName": "Size",
+        "id": "sizecode",
+        "swatchable": false,
+        "displayValue": "",
+        "values": [
+          {
+            "id": "11",
+            "description": null,
+            "displayValue": "Packet",
+            "value": "11",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=11&pid=3991G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=11&pid=3991G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3991G.11",
+            "price": {
+              "sales": {
+                "value": 4.31,
+                "currency": "USD",
+                "formatted": "$4.31",
+                "decimalPrice": "4.31"
+              },
+              "list": {
+                "value": 6.15,
+                "currency": "USD",
+                "formatted": "$6.15",
+                "decimalPrice": "6.15"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"6.15\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $6.15\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"4.31\">\n        \n        $4.31\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "50",
+            "description": null,
+            "displayValue": "100 Seeds",
+            "value": "50",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=50&pid=3991G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=50&pid=3991G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3991G.50",
+            "price": {
+              "sales": {
+                "value": 14.39,
+                "currency": "USD",
+                "formatted": "$14.39",
+                "decimalPrice": "14.39"
+              },
+              "list": {
+                "value": 20.55,
+                "currency": "USD",
+                "formatted": "$20.55",
+                "decimalPrice": "20.55"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"20.55\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $20.55\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"14.39\">\n        \n        $14.39\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "51",
+            "description": null,
+            "displayValue": "250 Seeds",
+            "value": "51",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=51&pid=3991G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=51&pid=3991G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3991G.51",
+            "price": {
+              "sales": {
+                "value": 25.83,
+                "currency": "USD",
+                "formatted": "$25.83",
+                "decimalPrice": "25.83"
+              },
+              "list": {
+                "value": 36.9,
+                "currency": "USD",
+                "formatted": "$36.90",
+                "decimalPrice": "36.90"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"36.90\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $36.90\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"25.83\">\n        \n        $25.83\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "1,000 Seeds",
+            "value": "53",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=53&pid=3991G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=53&pid=3991G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3991G.53",
+            "price": {
+              "sales": {
+                "value": 86.52,
+                "currency": "USD",
+                "formatted": "$86.52",
+                "decimalPrice": "86.52"
+              },
+              "list": {
+                "value": 123.6,
+                "currency": "USD",
+                "formatted": "$123.60",
+                "decimalPrice": "123.60"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"123.60\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $123.60\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"86.52\">\n        \n        $86.52\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "5,000 Seeds",
+            "value": "54",
+            "selected": false,
+            "selectable": true,
+            "url": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=54&pid=3991G&quantity=1",
+            "selectUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=54&pid=3991G&quantity=1",
+            "productModelType": "fullProduct",
+            "pid": "3991G.54",
+            "price": {
+              "sales": {
+                "value": 371,
+                "currency": "USD",
+                "formatted": "$371.00",
+                "decimalPrice": "371.00"
+              },
+              "list": {
+                "value": 529.8,
+                "currency": "USD",
+                "formatted": "$529.80",
+                "decimalPrice": "529.80"
+              },
+              "html": "\n\n\n\n    <div class=\"price\">\n        \n        <span>\n    \n\n    \n        \n        <del>\n            <span class=\"strike-through list\">\n                <span class=\"value\" content=\"529.80\">\n                    <span class=\"sr-only\">\n                        Price reduced from\n                    </span>\n                    $529.80\n\n\n                    <span class=\"sr-only\">\n                        to\n                    </span>\n                </span>\n            </span>\n        </del>\n    \n\n    \n    <span class=\"sales red\">\n        \n        \n        \n            <span class=\"value\" content=\"371.00\">\n        \n        $371.00\n\n\n        </span>\n    </span>\n</span>\n\n    </div>\n\n\n"
+            },
+            "availability": {
+              "messages": [
+                "In Stock"
+              ],
+              "inStockDate": null
+            },
+            "availabilityLegacy": {
+              "isOrderable": true,
+              "availabilityClass": "in-stock-msg",
+              "availabilityMsg": "In Stock",
+              "schemaURL": "http://schema.org/InStock",
+              "isInStock": true,
+              "pastInstockBackOrder": false,
+              "availabilityMsgFormatted": "In Stock"
+            }
+          }
+        ],
+        "resetUrl": "https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=1"
+      }
+    ],
+    "longDescription": "<span style=\"color: #000000;\" >Clementine's tangerine-colored, oval-round fruits avg. 2 oz. Plants produce high yields with appealing, sweet-tart flavor. Exceptional when halved and roasted! Can be picked to ripen when shoulders are green. Balanced plant works well indoors. Crack resistant. High resistance to </span><span style=\"color: #000000;font-style:italic;\" >Fusarium</span><span style=\"color: #000000;\" > wilt race 1 and </span><span style=\"color: #000000;font-style:italic;\" >Verticillium</span><span style=\"color: #000000;\" > wilt. Indeterminate. USDA Certified Organic. Avg. 15,500 seeds/oz. Packet: 15 seeds.</span>",
+    "shortDescription": "Take advantage of our overstock position! Unique orange cocktail tomato.",
+    "rating": 3.6,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productAttributes",
+        "name": "Product Attributes",
+        "attributes": [
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic (F1) Tomato Seed"
+            ],
+            "val": [
+              "Organic (F1) Tomato Seed"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "RelatedAssets",
+        "name": "Related Assets",
+        "attributes": [
+          {
+            "label": "Related Assets",
+            "ID": "related_assets",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "tomatoes-indeterminate-comparison-chart-pdf",
+              "johnnys-bred-rob-johnston",
+              "tomatoes-greenhouse-pruning-string-trellis-instructions",
+              "video-v30",
+              "common-tomato-pests-diseases-disorders-overview"
+            ],
+            "val": [
+              "tomatoes-indeterminate-comparison-chart-pdf",
+              "johnnys-bred-rob-johnston",
+              "tomatoes-greenhouse-pruning-string-trellis-instructions",
+              "video-v30",
+              "common-tomato-pests-diseases-disorders-overview"
+            ]
+          },
+          {
+            "label": "Product Videos",
+            "ID": "product_videos",
+            "valueTypeCode": 23,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "oStIYR89qxw"
+            ],
+            "val": [
+              "oStIYR89qxw"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "PIMAttributes",
+        "name": "PIM Attributes",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Solanum lycopersicum"
+            ],
+            "val": [
+              "Solanum lycopersicum"
+            ]
+          },
+          {
+            "label": "Restrictions Canada",
+            "ID": "restrictionscanada",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions State",
+            "ID": "restrictionsstate",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Restrictions Foreign",
+            "ID": "restrictionsforeign",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is New",
+            "ID": "new_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Internet Only",
+            "ID": "internet_only_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Pelleted",
+            "ID": "pelleted_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Clearance",
+            "ID": "clearance_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Plant Type ID",
+            "ID": "plant_type_id",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "seed"
+            ],
+            "val": [
+              "seed"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "68"
+            ],
+            "val": [
+              "68"
+            ]
+          },
+          {
+            "label": "Is Featured",
+            "ID": "featured",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Favorite",
+            "ID": "favorite",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Culture Content ID",
+            "ID": "culture_coreid",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "culture-143"
+            ],
+            "val": [
+              "culture-143"
+            ]
+          },
+          {
+            "label": "Is Sale",
+            "ID": "sale_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is Overstock",
+            "ID": "overstock_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              true
+            ],
+            "val": [
+              true
+            ]
+          },
+          {
+            "label": "Is Current Promo",
+            "ID": "current_promo_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Is Crop Failure",
+            "ID": "crop_failure_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "Days Mature High",
+            "ID": "daysmature_high",
+            "valueTypeCode": 1,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              68
+            ],
+            "val": [
+              68
+            ]
+          },
+          {
+            "label": "Days Mature Unit",
+            "ID": "daysmature_unit",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Days"
+            ],
+            "val": [
+              "days"
+            ]
+          },
+          {
+            "label": "Secondary Name",
+            "ID": "partname_secondary",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic (F1) Tomato Seed"
+            ],
+            "val": [
+              "Organic (F1) Tomato Seed"
+            ]
+          },
+          {
+            "label": "Germination Guide Image",
+            "ID": "germination_guide_image",
+            "valueTypeCode": 7,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              {}
+            ],
+            "val": [
+              {}
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "F",
+              "V"
+            ],
+            "val": [
+              "F",
+              "V"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Developed by Johnny's",
+              "Greenhouse Performer",
+              "Organic Seeds, Plants, and Supplies"
+            ],
+            "val": [
+              "14",
+              "9",
+              "3"
+            ]
+          },
+          {
+            "label": "Grid Description",
+            "ID": "grid_desc",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Unique orange cocktail tomato with appealing, sweet-tart flavor."
+            ],
+            "val": [
+              "Unique orange cocktail tomato with appealing, sweet-tart flavor."
+            ]
+          },
+          {
+            "label": "Treated",
+            "ID": "treated_flag",
+            "valueTypeCode": 8,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              false
+            ],
+            "val": [
+              false
+            ]
+          },
+          {
+            "label": "prod_feature_seed_type",
+            "ID": "prod_feature_seed_type",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Organic Seeds, Plants, and Supplies",
+              "Hybrid"
+            ],
+            "val": [
+              "3",
+              "128"
+            ]
+          },
+          {
+            "label": "prod_feature_grow_cond",
+            "ID": "prod_feature_grow_cond",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Greenhouse Performer",
+              "Suitable for grafting"
+            ],
+            "val": [
+              "9",
+              "59"
+            ]
+          },
+          {
+            "label": "Product Feature Additional",
+            "ID": "prod_feature_addtl",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Start Early For Transplants"
+            ],
+            "val": [
+              "72"
+            ]
+          },
+          {
+            "label": "prod_feature_marketing",
+            "ID": "prod_feature_marketing",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Bred by Johnny's",
+              "SALE!",
+              "Overstock"
+            ],
+            "val": [
+              "14",
+              "28",
+              "64"
+            ]
+          },
+          {
+            "label": "Growth Habit",
+            "ID": "prod_feature_grow_hab",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Indeterminate"
+            ],
+            "val": [
+              "158"
+            ]
+          }
+        ]
+      },
+      {
+        "ID": "quickFacts",
+        "name": "Quick Facts",
+        "attributes": [
+          {
+            "label": "Latin Name",
+            "ID": "latin_name",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Solanum lycopersicum"
+            ],
+            "val": [
+              "Solanum lycopersicum"
+            ]
+          },
+          {
+            "label": "Days To Maturity",
+            "ID": "days_maturity",
+            "valueTypeCode": 3,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "68"
+            ],
+            "val": [
+              "68"
+            ]
+          },
+          {
+            "label": "Disease Resistance Codes",
+            "ID": "disease_resistance_codes",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "F",
+              "V"
+            ],
+            "val": [
+              "F",
+              "V"
+            ]
+          },
+          {
+            "label": "Hybrid Status",
+            "ID": "hybrid_status",
+            "valueTypeCode": 33,
+            "multiValueType": false,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Hybrid (F1)"
+            ],
+            "val": [
+              "Hybrid (F1)"
+            ]
+          },
+          {
+            "label": "Product Features",
+            "ID": "product_features",
+            "valueTypeCode": 33,
+            "multiValueType": true,
+            "requiresEncoding": true,
+            "getUnit": null,
+            "value": [
+              "Developed by Johnny's",
+              "Greenhouse Performer",
+              "Organic Seeds, Plants, and Supplies"
+            ],
+            "val": [
+              "14",
+              "9",
+              "3"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "inStockDate": null
+    },
+    "available": true,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=10"
+      },
+      {
+        "value": "11",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=11"
+      },
+      {
+        "value": "12",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=12"
+      },
+      {
+        "value": "13",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=13"
+      },
+      {
+        "value": "14",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=14"
+      },
+      {
+        "value": "15",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=15"
+      },
+      {
+        "value": "16",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=16"
+      },
+      {
+        "value": "17",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=17"
+      },
+      {
+        "value": "18",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=18"
+      },
+      {
+        "value": "19",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=19"
+      },
+      {
+        "value": "20",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=20"
+      },
+      {
+        "value": "21",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=21"
+      },
+      {
+        "value": "22",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=22"
+      },
+      {
+        "value": "23",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=23"
+      },
+      {
+        "value": "24",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=24"
+      },
+      {
+        "value": "25",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-JSS-Site/en_US/Product-Variation?dwvar_3991G_sizecode=&pid=3991G&quantity=25"
+      }
+    ],
+    "selectedProductUrl": "/vegetables/tomatoes/cocktail-tomatoes/clementine-organic-f1-tomato-seed-3991G.html?%2Fvegetables%2Ftomatoes%2Fcocktail-tomatoes%2Fclementine-organic-f1-tomato-seed-3991G.html=undefined&quantity=1",
+    "readyToOrder": false,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": "3991G, Clementine, Organic (F1) Tomato Seed, Solanum lycopersicum, Tomatoes, Indeterminate, Colored Cocktail Tomato, Tangerine, Orange Tomato, Fusarium Resistant",
+    "pageMetaTags": [
+      {}
+    ],
+    "template": null,
+    "alternateName": "Organic (F1) Tomato Seed",
+    "warningMessage": null,
+    "vendorCode": null,
+    "productFulfillmentDirective": null,
+    "restrictionsCanada": false,
+    "restrictionsState": false,
+    "restrictionsForeign": true,
+    "restrictionsStateList": null,
+    "restrictionsCountryList": {
+      "0": "AT",
+      "1": "AU",
+      "2": "BE",
+      "3": "BG",
+      "4": "CY",
+      "5": "CZ",
+      "6": "DE",
+      "7": "DK",
+      "8": "EE",
+      "9": "ES",
+      "10": "FI",
+      "11": "FR",
+      "12": "GB",
+      "13": "GR",
+      "14": "HR",
+      "15": "HU",
+      "16": "IE",
+      "17": "IT",
+      "18": "JP",
+      "19": "KR",
+      "20": "LT",
+      "21": "LU",
+      "22": "LV",
+      "23": "NL",
+      "24": "PL",
+      "25": "PT",
+      "26": "RO",
+      "27": "SE",
+      "28": "SI",
+      "29": "SK",
+      "30": "TW"
+    },
+    "productHasRestriction": false,
+    "productHasFobZonePrice": false,
+    "shipNoteAlert": null,
+    "germinationGuideImage": {},
+    "productNotes": null,
+    "shippingNotes": null,
+    "productDetails": null,
+    "aboutAuthorNote": null,
+    "warranty": null,
+    "gridDescription": "Unique orange cocktail tomato with appealing, sweet-tart flavor.",
+    "daysToMaturityString": "68 Days",
+    "relatedAssetsArray": [
+      {
+        "mediaType": "comparisonchart",
+        "title": "Indeterminate Tomato Varieties | Comparison Chart (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "5 JSS-Bred Varieties Introduced by Rob Johnston, Jr., Plant Breeder & Founder (Retired), Johnny's Selected Seeds",
+        "link": {}
+      },
+      {
+        "mediaType": "document",
+        "title": "Greenhouse Tomato Pruning & String Trellising | Tech Sheet (PDF)",
+        "link": {}
+      },
+      {
+        "mediaType": "video",
+        "title": "Video: How to Control Tomato [and Tobacco] Hornworms",
+        "link": {}
+      },
+      {
+        "mediaType": "article",
+        "title": "Common Tomato Pests, Diseases & Physiological Disorders | An Overview of Biotic & Abiotic Problems",
+        "link": {}
+      }
+    ],
+    "availableSubstitutes": false,
+    "orderableRecommendationsPIDs": [],
+    "questionsAsset": {},
+    "cultureCoreAsset": {},
+    "satisfactionContentAsset": {},
+    "shippingSurchargeZoneA": {},
+    "shippingSurchargeZoneB": {},
+    "shippingSurchargeZoneC": {},
+    "shippingSurchargeZoneD": {},
+    "shippingSurchargeZoneE": {},
+    "saleFlag": true,
+    "newFlag": false,
+    "productVideos": [
+      "oStIYR89qxw"
+    ],
+    "productFilteredFeatures": [
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb8b50c3b/images/svgs/product_feature/14.svg",
+        "value": "14",
+        "displayValue": "Developed by Johnny's"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dwb74dfb93/images/svgs/product_feature/3.svg",
+        "value": "3",
+        "displayValue": "Organic Seeds, Plants, and Supplies"
+      },
+      {
+        "imgSrc": "/on/demandware.static/Sites-JSS-Site/-/default/dw56e3b406/images/svgs/product_feature/9.svg",
+        "value": "9",
+        "displayValue": "Greenhouse Performer"
+      }
+    ],
+    "availabilityStatus": "IN_STOCK",
+    "isPerishable": false,
+    "leadTimeWeeks": 0,
+    "primaryCategory": "Cocktail Tomatoes",
+    "minPrice": {},
+    "maxPrice": {},
+    "attributesHtml": "\n\n\n    <div class=\"col-sm-12 col-md-4 col-lg-3\">\n        <button class=\"title btn text-left btn-block d-sm-none\"\n                aria-expanded=\"false\" aria-controls=\"collapsible-attributes-1\"\n        >\n            Attributes\n        </button>\n        <h2 class=\"title d-none d-sm-block\">\n            Attributes\n        </h2>\n    </div>\n    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\" id=\"collapsible-attributes-1\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    Product Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                Organic (F1) Tomato Seed\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    Related Assets\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Related Assets:\n                            \n                                tomatoes-indeterminate-comparison-chart-pdf\n                            \n                                johnnys-bred-rob-johnston\n                            \n                                tomatoes-greenhouse-pruning-string-trellis-instructions\n                            \n                                video-v30\n                            \n                                common-tomato-pests-diseases-disorders-overview\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Videos:\n                            \n                                oStIYR89qxw\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n                <h3 class=\"attribute-name\">\n                    PIM Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Latin Name:\n                            \n                                Solanum lycopersicum\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Canada:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions State:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Restrictions Foreign:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is New:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Internet Only:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Pelleted:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Clearance:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Plant Type ID:\n                            \n                                seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days To Maturity:\n                            \n                                68\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Featured:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Favorite:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Culture Content ID:\n                            \n                                culture-143\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Sale:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Overstock:\n                            \n                                true\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Current Promo:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Is Crop Failure:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature High:\n                            \n                                68\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Days Mature Unit:\n                            \n                                Days\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Secondary Name:\n                            \n                                Organic (F1) Tomato Seed\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Germination Guide Image:\n                            \n                                com.demandware.beehive.core.capi.domain.SimpleMediaFile@3868734c\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Disease Resistance Codes:\n                            \n                                F\n                            \n                                V\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Hybrid Status:\n                            \n                                Hybrid (F1)\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Features:\n                            \n                                Developed by Johnny's\n                            \n                                Greenhouse Performer\n                            \n                                Organic Seeds, Plants, and Supplies\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Grid Description:\n                            \n                                Unique orange cocktail tomato with appealing, sweet-tart flavor.\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Treated:\n                            \n                                false\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_seed_type:\n                            \n                                Organic Seeds, Plants, and Supplies\n                            \n                                Hybrid\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_grow_cond:\n                            \n                                Greenhouse Performer\n                            \n                                Suitable for grafting\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Product Feature Additional:\n                            \n                                Start Early For Transplants\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            prod_feature_marketing:\n                            \n                                Bred by Johnny's\n                            \n                                SALE!\n                            \n                                Overstock\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Growth Habit:\n                            \n                                Indeterminate\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "\n\n\n",
+    "optionsHtml": "\n\n\n",
+    "shippingAlertsHtml": "\n"
+  },
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  },
+  "pageData": {
+    "products": [
+      {
+        "name": "Clementine",
+        "id": "3991G",
+        "price": "4.31",
+        "category": "Vegetables/Tomatoes/Cocktail Tomatoes",
+        "variant": "",
+        "quantity": ""
+      }
+    ]
+  }
+}

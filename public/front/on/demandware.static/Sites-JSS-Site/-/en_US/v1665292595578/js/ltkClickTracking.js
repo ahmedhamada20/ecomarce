@@ -1,0 +1,1 @@
+!function(t){document.addEventListener?document.addEventListener("ltkAsyncListener",t):(e=document.documentElement,e.ltkAsyncProperty=0,e.attachEvent("onpropertychange",function(e){"ltkAsyncProperty"===e.propertyName&&t()}))}(function(){try{_ltk.Click.Submit()}catch(t){}});
