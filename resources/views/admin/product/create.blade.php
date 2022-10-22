@@ -80,7 +80,7 @@
                         </div>
 
                         <div class="col">
-                            <label>DISEASE RESISTANCE CODES</label>
+                            <label>Hybrid status</label>
                             <input type="text" name="hybrid" required class="form-control">
                         </div>
                     </div>
