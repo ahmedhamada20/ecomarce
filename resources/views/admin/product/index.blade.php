@@ -1,6 +1,6 @@
 @extends('admin.layouts.master')
 @section('title')
-المنتجات
+    المنتجات
 @endsection
 
 @section('css')
@@ -29,9 +29,12 @@
     <div class="row">
         <div class="col">
             <div class="card">
-                <div class="card-header">
-                    <a href="{{route('product.create')}}" class="btn btn-success">اضافه منتج جديد</a>
-                </div>
+                @can('اضافه منتج')
+                    <div class="card-header">
+                        <a href="{{route('product.create')}}" class="btn btn-success">اضافه منتج جديد</a>
+                    </div>
+                @endcan
+
                 <div class="card-body">
                     <table id="datatable" class="table table-bordered dt-responsive nowrap"
                            style="border-collapse: collapse; border-spacing: 0; width: 100%;">
@@ -58,11 +61,20 @@
                                 <td>{{$row->category->name}}</td>
                                 <td>{{$row->sub_category->name}}</td>
                                 <td>
-                                    <a href="{{route('product.edit',$row->id)}}" class="btn btn-success btn-sm"><i
-                                            class="fa fa-edit"></i></a>
-                                    <a href="{{route('product.show',$row->id)}}" class="btn btn btn-sm btn-info"><i class="fa fa-eye"></i></a>
-                                    <button class="btn btn-danger btn-sm" data-toggle="modal"
-                                            data-target="#delete{{$row->id}}"><i class="fa fa-trash"></i></button>
+                                    @can('تعديل المنتج')
+                                        <a href="{{route('product.edit',$row->id)}}" class="btn btn-success btn-sm"><i
+                                                class="fa fa-edit"></i></a>
+                                    @endcan
+                                    @can('سليدر المنتجات')
+                                        <a href="{{route('product.show',$row->id)}}" class="btn btn btn-sm btn-info"><i
+                                                class="fa fa-eye"></i></a>
+
+                                    @endcan
+
+                                    @can('حذف المنتج')
+                                        <button class="btn btn-danger btn-sm" data-toggle="modal"
+                                                data-target="#delete{{$row->id}}"><i class="fa fa-trash"></i></button>
+                                    @endcan
                                 </td>
                                 @include('admin.product.deleted')
                             </tr>

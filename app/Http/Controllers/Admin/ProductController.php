@@ -11,11 +11,15 @@ use Illuminate\Support\Facades\File;
 
 class ProductController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
+
+    function __construct()
+    {
+        $this->middleware('permission:سليدر المنتجات', ['only' => ['index']]);
+        $this->middleware('permission:اضافه منتج', ['only' => ['create','store']]);
+        $this->middleware('permission:تعديل المنتج', ['only' => ['edit','update']]);
+        $this->middleware('permission:حذف المنتج', ['only' => ['destroy']]);
+    }
+
     public function index()
     {
         $data = Product::all();
@@ -46,7 +50,7 @@ class ProductController extends Controller
      */
     public function store(Request $request)
     {
-       
+
         if ($request->page_id == 3){
             // Insert Many Photos
             if ($request->hasfile('FilenameMany')) {
@@ -102,7 +106,7 @@ class ProductController extends Controller
             'section_one' => $request->section_one,
             'section_two' => $request->section_two,
             'section_there' => $request->section_there,
-            
+
         ]);
 
         if ($file = $request->file('photo')) {
@@ -208,7 +212,7 @@ class ProductController extends Controller
             'section_one' => $request->section_one,
             'section_two' => $request->section_two,
             'section_there' => $request->section_there,
-            
+
         ]);
 
         if ($file = $request->file('photo')) {

@@ -10,11 +10,18 @@ use Illuminate\Support\Facades\File;
 
 class CategoryController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
+   
+
+
+    function __construct()
+    {
+         $this->middleware('permission:سليدر الفئات', ['only' => ['index']]);
+         $this->middleware('permission:اضافه فئه', ['only' => ['create','store']]);
+         $this->middleware('permission:تعديل الفئه', ['only' => ['edit','update']]);
+         $this->middleware('permission:حذف الفئه', ['only' => ['destroy']]);
+    }
+
+
     public function index()
     {
         $data = Category::all();

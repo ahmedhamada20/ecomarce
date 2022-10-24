@@ -10,11 +10,14 @@ use Illuminate\Support\Facades\File;
 
 class SubCategoryController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
+    function __construct()
+    {
+         $this->middleware('permission:سليدر العناصر', ['only' => ['index']]);
+         $this->middleware('permission:اضافه العناصر', ['only' => ['create','store']]);
+         $this->middleware('permission:تعديل العناصر', ['only' => ['edit','update']]);
+         $this->middleware('permission:حذف العناصر', ['only' => ['destroy']]);
+    }
+
     public function index()
     {
         $data = SubCategory::all();

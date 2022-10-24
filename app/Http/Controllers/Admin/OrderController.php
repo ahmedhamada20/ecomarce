@@ -8,11 +8,12 @@ use Illuminate\Http\Request;
 
 class OrderController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
+    function __construct()
+    {
+        $this->middleware('permission:سليدر الطلبات', ['only' => ['index']]);
+        $this->middleware('permission:تعديل الطلبات', ['only' => ['edit','update']]);
+
+    }
     public function index()
     {
 
