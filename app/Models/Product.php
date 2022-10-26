@@ -13,8 +13,8 @@ class Product extends Model
         'price',
         'quantity',
         'notes',
-        'category_id',
-        'sub_category_id',
+        // 'category_id',
+        // 'sub_category_id',
         'days',
         'life_cycle',
         'disease',
@@ -42,15 +42,13 @@ class Product extends Model
         return $this->morphMany(Photo::class, 'photoable');
     }
 
-    public function category()
-    {
-        return $this->belongsTo(Category::class, 'category_id');
-    }
+   
 
-    public function sub_category()
+    public function categoryProdut()
     {
-        return $this->belongsTo(SubCategory::class, 'sub_category_id');
+        return $this->belongsToMany(Category::class, 'product_category', 'product_id', 'category_id');
     }
+   
 
     public function orders()
     {

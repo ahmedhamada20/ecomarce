@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
+use App\Models\AssginOrder;
 use App\Models\Order;
 use Illuminate\Http\Request;
 
@@ -11,8 +12,7 @@ class OrderController extends Controller
     function __construct()
     {
         $this->middleware('permission:سليدر الطلبات', ['only' => ['index']]);
-        $this->middleware('permission:تعديل الطلبات', ['only' => ['edit','update']]);
-
+        $this->middleware('permission:تعديل الطلبات', ['only' => ['edit', 'update']]);
     }
     public function index()
     {
@@ -79,6 +79,20 @@ class OrderController extends Controller
         ]);
 
         toastr()->success('تم تغير الحاله بنجاح');
+        return redirect('order');
+    }
+
+
+    public function assgin(Request $request)
+    {
+        $assgin = AssginOrder::updateOrcreate([
+            'order_id' => $request->id,
+        ], [
+            'order_id' => $request->id,
+            'user_id' => $request->user_id,
+        ]);
+
+        toastr()->success('تم تعين الطلب بنجاح');
         return redirect('order');
     }
 

@@ -1,10 +1,12 @@
 <?php
 
 use App\Http\Controllers\Admin\CategoryController;
+use App\Http\Controllers\Admin\CouponController;
 use App\Http\Controllers\Admin\HomeController;
 use App\Http\Controllers\Admin\OrderController;
 use App\Http\Controllers\Admin\ProductController;
 use App\Http\Controllers\Admin\RoleController;
+use App\Http\Controllers\Admin\SilderController;
 use App\Http\Controllers\Admin\SiteSettingController;
 use App\Http\Controllers\Admin\SubCategoryController;
 use App\Http\Controllers\Admin\UserController;
@@ -32,12 +34,15 @@ Route::middleware(['auth', 'admin'])->group(function () {
     Route::resource('setting', SiteSettingController::class)->only(['index', 'update']);
 
     Route::resource('category', CategoryController::class);
+    Route::resource('silder', SilderController::class);
 
     Route::resource('subcategory', SubCategoryController::class);
 
     Route::resource('product', ProductController::class);
     Route::resource('order', OrderController::class);
+    Route::post('assgin_order', [OrderController::class,'assgin'])->name('order_assgin');
     Route::resource('users', UsersController::class);
+    Route::resource('coupon', CouponController::class);
 
     Route::get('sections/{id}', [ProductController::class, 'getsubcategory']);
 

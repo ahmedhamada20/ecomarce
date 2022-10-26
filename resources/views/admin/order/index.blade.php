@@ -40,6 +40,7 @@
                             <th>اسم المستخدم</th>
                             <th>سعر الطلب</th>
                             <th>حاله الطلب</th>
+                            <th>تعين الطلب</th>
                             <th>العمليات</th>
                         </tr>
                     </thead>
@@ -56,11 +57,25 @@
                             <td>{{$row->user->name}}</td>
                             <td>{{$row->total}}</td>
                             <td>{{$row->status()}}</td>
+                            <td>{{$row->assgin->user->name ?? 'لا يوجد تعين حتي الان '}}</td>
                             <td>
+
+
+                                <div class="dropdown">
+                                    <button class="btn btn-info  dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
+                                     العمليات
+                                    </button>
+                                    <div class="dropdown-menu">
+                                      <a class="dropdown-item" href="#" data-toggle="modal" data-target="#exampleModal{{ $row->id }}"> <i class="fa fa-edit text-success"></i>  تغير حاله الطلب</a>
+                                      <a class="dropdown-item" href="#" data-toggle="modal" data-target="#assgin{{ $row->id }}"> <i class="fa fa-eye text-info"></i>  تعين الطلب</a>
+                                    </div>
+                                  </div>
+{{-- 
                                 <button data-toggle="modal" data-target="#exampleModal{{ $row->id }}" class="btn btn-success btn-sm"><i
-                                        class="fa fa-edit"></i></button>
+                                        class="fa fa-edit"></i></button> --}}
                             </td>
                      @include('admin.order.edit')
+                     @include('admin.order.assgin')
                         </tr>
                         @endforeach
                     </tbody>

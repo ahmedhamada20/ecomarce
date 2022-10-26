@@ -2370,7 +2370,7 @@
 
 
 
-                                @foreach ($data->product as $row)
+                                @foreach ($data->categoryProdut as $row)
                                     
                                 <div class="col-6 col-lg-4 product-click" data-index="1.0"
                                 data-gtm-data="[{&quot;name&quot;:&quot;Chard, Yellow&quot;,&quot;id&quot;:&quot;4478M&quot;,&quot;price&quot;:&quot;4.40&quot;,&quot;category&quot;:&quot;Vegetables/Microgreens/Microgreen Vegetables&quot;,&quot;variant&quot;:&quot;&quot;,&quot;position&quot;:1,&quot;list&quot;:&quot;Sale&quot;}]">

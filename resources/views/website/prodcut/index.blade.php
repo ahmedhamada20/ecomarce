@@ -331,12 +331,12 @@ PRODUCT
                 <div class="col-12 col-lg-8">
                     <div class="row product-header align-items-end align-items-lg-start d-none d-lg-flex">
                         <!-- Product Name -->
-                        <div class="col-6">
+                        {{-- <div class="col-6">
                             <h1 class="brand-h2 product-name" itemprop="name">{{ $data->name }}
                                 <span class="brand-h4 d-block mt-1 mb-1 mt-lg-1 mb-lg-4 product-alternate-name"
-                                      itemprop="alternateName">{{ $data->sub_category->name }}</span>
+                                      itemprop="alternateName">{{ $data->pivot->name }}</span>
                             </h1>
-                        </div>
+                        </div> --}}
                         <div class="col-6 text-right">
                             <!-- Product Number -->
                             <span class="caption-1 mb-2 mb-md-4 mb-lg-0 d-flex justify-content-end">

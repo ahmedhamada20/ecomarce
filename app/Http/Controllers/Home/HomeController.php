@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Home;
 
 use App\Http\Controllers\Controller;
+use App\Models\Category;
 use App\Models\Order;
 use App\Models\Product;
 use App\Models\SubCategory;
@@ -29,7 +30,7 @@ class HomeController extends Controller
     }
     public function mincategory($id)
     {
-        $data = SubCategory::withcount('product')->where('category_id', $id)->first();
+        $data = Category::where('id', $id)->first();
         if (!empty($data)) {
             return view('website.category.index', compact('data'));
         } else {

@@ -30,4 +30,11 @@ class Category extends Model
     {
         return $this->morphOne(Photo::class, 'photoable');
     }
+
+
+    public function categoryProdut()
+    {
+        return $this->belongsToMany(Category::class, 'product_category', 'category_id', 'product_id');
+    }
+   
 }

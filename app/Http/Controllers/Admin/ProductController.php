@@ -74,8 +74,7 @@ class ProductController extends Controller
             'name' => 'required',
             'price' => 'required|numeric',
             'quantity' => 'required|numeric',
-            'category_id' => 'required',
-            'sub_category_id' => 'required',
+        
             'days' => 'required',
             'life_cycle' => 'required',
             'disease' => 'required',
@@ -84,8 +83,7 @@ class ProductController extends Controller
             'name.required' => 'هذا الحقل مطلوب',
             'price.required' => 'هذا الحقل مطلوب',
             'quantity.required' => 'هذا الحقل مطلوب',
-            'category_id.required' => 'هذا الحقل مطلوب',
-            'sub_category_id.required' => 'هذا الحقل مطلوب',
+         
             'days.required' => 'هذا الحقل مطلوب',
             'life_cycle.required' => 'هذا الحقل مطلوب',
             'disease.required' => 'هذا الحقل مطلوب',
@@ -97,8 +95,8 @@ class ProductController extends Controller
             'notes' => $request->notes,
             'price' => $request->price,
             'quantity' => $request->quantity,
-            'category_id' => $request->category_id,
-            'sub_category_id' => $request->sub_category_id,
+            // 'category_id' => $request->category_id,
+            // 'sub_category_id' => $request->sub_category_id,
             'days' => $request->days,
             'life_cycle' => $request->life_cycle,
             'disease' => $request->disease,
@@ -108,6 +106,9 @@ class ProductController extends Controller
             'section_there' => $request->section_there,
 
         ]);
+
+
+        $data->categoryProdut()->attach($request->category_id);
 
         if ($file = $request->file('photo')) {
             $file_name = $file->getClientOriginalName();
@@ -179,8 +180,7 @@ class ProductController extends Controller
             'name' => 'required',
             'price' => 'required|numeric',
             'quantity' => 'required|numeric',
-            'category_id' => 'required',
-            'sub_category_id' => 'required',
+      
             'days' => 'required',
             'life_cycle' => 'required',
             'disease' => 'required',
@@ -189,8 +189,7 @@ class ProductController extends Controller
             'name.required' => 'هذا الحقل مطلوب',
             'price.required' => 'هذا الحقل مطلوب',
             'quantity.required' => 'هذا الحقل مطلوب',
-            'category_id.required' => 'هذا الحقل مطلوب',
-            'sub_category_id.required' => 'هذا الحقل مطلوب',
+        
             'days.required' => 'هذا الحقل مطلوب',
             'life_cycle.required' => 'هذا الحقل مطلوب',
             'disease.required' => 'هذا الحقل مطلوب',
@@ -203,8 +202,8 @@ class ProductController extends Controller
             'notes' => $request->notes,
             'price' => $request->price,
             'quantity' => $request->quantity,
-            'category_id' => $request->category_id,
-            'sub_category_id' => $request->sub_category_id,
+            // 'category_id' => $request->category_id,
+            // 'sub_category_id' => $request->sub_category_id,
             'days' => $request->days,
             'life_cycle' => $request->life_cycle,
             'disease' => $request->disease,
@@ -214,6 +213,14 @@ class ProductController extends Controller
             'section_there' => $request->section_there,
 
         ]);
+
+
+
+        if (isset($request->category_id)) {
+            $data->categoryProdut()->sync($request->category_id);
+        } else {
+            $data->categoryProdut()->sync(array());
+        }
 
         if ($file = $request->file('photo')) {
             File::delete(public_path('admin/pictures/product'. $request->id . '/' . $request->oldfile));

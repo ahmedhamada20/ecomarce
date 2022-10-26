@@ -34,6 +34,18 @@
                 </li>
 
 
+                @can('سليدر سليدر')
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-archive"></i> <span> السليدر
+                        </span> <span class="menu-arrow float-right"><i class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                        <li><a href="{{route('silder.index')}}">جميع السليدر</a></li>
+                        <li><a href="{{route('silder.create')}}">اضافه سليدر جديده</a></li>
+
+                    </ul>
+                </li>
+                @endcan
+
                 @can('سليدر الفئات')
                 <li class="has_sub">
                     <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-archive"></i> <span> الفئات
@@ -68,6 +80,20 @@
                     <ul class="list-unstyled">
                         <li><a href="{{route('product.index')}}">جميع المنتجات</a></li>
                         <li><a href="{{route('product.create')}}">اضافه منتج جديد</a></li>
+
+                    </ul>
+                </li>
+
+                @endcan
+
+                @can('سليدر الخصومات')
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-graph-bar"></i><span>
+                        الخصومات </span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                        <li><a href="{{route('coupon.index')}}">جميع الخصومات</a></li>
+                        <li><a href="{{route('coupon.create')}}">اضافه خصم جديد</a></li>
 
                     </ul>
                 </li>

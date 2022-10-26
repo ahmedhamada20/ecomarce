@@ -26,8 +26,6 @@ class CreateProductsTable extends Migration
             $table->decimal('price',8,2);
             $table->string('quantity')->default(1);
             $table->text('notes')->nullable();
-            $table->foreignId('category_id')->constrained('categories')->cascadeOnUpdate()->cascadeOnDelete();
-            $table->foreignId('sub_category_id')->constrained('sub_categories')->cascadeOnUpdate()->cascadeOnDelete();
             $table->timestamps();
         });
     }

@@ -16,7 +16,7 @@
       <div class="html-slot-container">
         <div id="slider-home-slot-a" class="carousel slide slider-primary">
           <ol class="carousel-indicators d-xl-none">
-            @foreach (App\Models\Category::all() as $category)
+            @foreach (App\Models\Silder::all() as $category)
             <li data-target="#slider-home-slot-a" data-slide-to="0"></li>
             @endforeach
             {{-- <li data-target="#slider-home-slot-a" data-slide-to="1" class=""></li>
@@ -26,7 +26,7 @@
 
           <div class="carousel-inner">
 
-            @foreach (App\Models\Category::all() as $category)
+            @foreach (App\Models\Silder::all() as $category)
             <div class="carousel-item {{ $loop->first ? 'active' : null }}">
               <div class="carousel-content d-block">
                 <div>
@@ -50,7 +50,7 @@
                   </h2>
 
                   <p class="subtitle-1 mx-auto mx-xl-0 text-center text-xl-left">
-                    The same high-quality products, at a discount.
+                  {{ $category->notes }}
                   </p>
 
                   <div class="primaryText-link mx-auto mx-xl-0 text-center text-xl-left">
@@ -350,7 +350,7 @@
       <div class="html-slot-container">
         <div id="slider-home-slot-a" class="carousel slide slider-primary">
           <ol class="carousel-indicators d-xl-none">
-            @foreach (App\Models\Category::all() as $category)
+            @foreach (App\Models\Silder::all() as $category)
             <li data-target="#slider-home-slot-a" data-slide-to="0"></li>
             @endforeach
             {{-- <li data-target="#slider-home-slot-a" data-slide-to="1" class=""></li>
@@ -360,7 +360,7 @@
 
           <div class="carousel-inner">
 
-            @foreach (App\Models\Category::all() as $category)
+            @foreach (App\Models\Silder::all() as $category)
             <div class="carousel-item {{ $loop->last ? 'active' : null }}">
               <div class="carousel-content d-block">
                 <div>
@@ -382,7 +382,7 @@
                   </h2>
 
                   <p class="subtitle-1 mx-auto mx-xl-0 text-center text-xl-left">
-                    The same high-quality products, at a discount.
+                    {{ $category->notes }}
                   </p>
 
                   <div class="primaryText-link mx-auto mx-xl-0 text-center text-xl-left">

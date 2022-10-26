@@ -44,8 +44,7 @@
                             <th>اسم المنتج</th>
                             <th>سعر المنتج</th>
                             <th>كيمه المنتج</th>
-                            <th>اسم الفئه</th>
-                            <th>اسم العنصر</th>
+                      
                             <th>العمليات</th>
                         </tr>
                         </thead>
@@ -58,8 +57,6 @@
                                 <td>{{$row->name}}</td>
                                 <td>{{$row->price}}</td>
                                 <td>{{$row->quantity}}</td>
-                                <td>{{$row->category->name}}</td>
-                                <td>{{$row->sub_category->name}}</td>
                                 <td>
                                     @can('تعديل المنتج')
                                         <a href="{{route('product.edit',$row->id)}}" class="btn btn-success btn-sm"><i

@@ -24,14 +24,17 @@ class Order extends Model
     public function status()
     {
         switch ($this->status) {
-            case 0 :
+            case 0:
                 $result = 'new Order';
                 break;
-            case 1 :
-                $result = 'Completed';
+            case 1:
+                $result = 'Completed order';
                 break;
-            case 2 :
-                $result = 'process';
+            case 2:
+                $result = 'cansel order';
+                break;
+            case 3:
+                $result = "assgin Order";
                 break;
         }
 
@@ -40,11 +43,16 @@ class Order extends Model
 
     public function user()
     {
-        return $this->belongsTo(User::class,'user_id');
+        return $this->belongsTo(User::class, 'user_id');
     }
 
     public function orders()
     {
-        return $this->belongsToMany(Product::class,'order_product','order_id','product_id');
+        return $this->belongsToMany(Product::class, 'order_product', 'order_id', 'product_id');
+    }
+
+    public function assgin()
+    {
+        return $this->hasOne(AssginOrder::class,'order_id');
     }
 }

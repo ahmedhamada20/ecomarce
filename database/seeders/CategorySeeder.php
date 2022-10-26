@@ -5,10 +5,13 @@ namespace Database\Seeders;
 use App\Models\Category;
 use App\Models\Photo;
 use App\Models\Product;
+use App\Models\Silder;
 use App\Models\SubCategory;
+use App\Models\User;
 use Faker\Factory;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Schema;
 
 class CategorySeeder extends Seeder
@@ -24,6 +27,22 @@ class CategorySeeder extends Seeder
         Schema::disableForeignKeyConstraints();
         DB::table('categories')->truncate();
         DB::table('sub_categories')->truncate();
+        DB::table('silders')->truncate();
+
+        for ($i = 0; $i <= 2; $i++) {
+            Silder::create([
+                'name' => $faker->name,
+                'notes' => $faker->name,
+            ]);
+        }
+
+        for ($i = 0; $i <= Silder::count(); $i++) {
+            Photo::insert([
+                'Filename'     => rand(1,6) . ".jpg",
+                'photoable_id' => rand(1,6),
+                'photoable_type' => 'App\Models\Silder'
+            ]);
+        }
 
         for ($i = 0; $i <= 7; $i++) {
             Category::create([
@@ -63,8 +82,6 @@ class CategorySeeder extends Seeder
                 'notes' => $faker->paragraph,
                 'price'=> 25000,
                 'quantity'=> $faker->numberBetween(1000000,2000000),
-                'category_id'=> rand(1,2),
-                'sub_category_id'=> rand(1,2),
                 'days'=>rand(100,600),
                 'life_cycle'=>$faker->name,
                 'disease'=>$faker->name,
@@ -75,6 +92,14 @@ class CategorySeeder extends Seeder
             ]);
         }
 
+
+
+        $extras = Category::all();
+        Product::all()->each(function ($trips) use ($extras) {
+            $trips->categoryProdut()->attach($extras->random(rand(1, 4))->pluck('id')->toArray());
+        });
+
+
         for ($i = 0; $i <= 80; $i++) {
             Photo::insert([
                 'Filename'     => rand(1,9) . ".jpg",
@@ -82,6 +107,14 @@ class CategorySeeder extends Seeder
                 'photoable_type' => 'App\Models\Product'
             ]);
         }
+
+
+        $user = User::create([
+            'name' => 'test',
+            'email'=> 'test@test.com',
+            'password'=>Hash::make(123456789),
+            'is_admin'=>0,
+        ]);
         Schema::enableForeignKeyConstraints();
     }
 }
