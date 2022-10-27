@@ -80,6 +80,14 @@ class SiteSettingController extends Controller
        $data->instagram = $request->instagram;
        $data->twitter = $request->twitter;
        $data->youtube = $request->youtube;
+       $data->address = $request->address;
+       $data->dicration = $request->dicration;
+       $data->meat_tag = $request->meat_tag;
+       $data->meat_dicration = $request->meat_dicration;
+       $data->map_ifarme = $request->map_ifarme;
+       $data->play_store = $request->play_store;
+       $data->app_store = $request->app_store;
+
        $data->save();
         if ($file = $request->file('photo')) {
             File::delete(public_path('admin/pictures/setting'. $request->id . '/' . $request->oldfile));

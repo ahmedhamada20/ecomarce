@@ -58,8 +58,12 @@
                                 @can('تعين الطلبات')
                                 <a class="btn btn-success btn-sm"  data-toggle="modal" data-target="#exampleModal{{ $row->id }}"><i
                                         class="fa fa-edit"></i></a>
+
+
+                                        <button class="btn btn-info btn-sm" data-toggle="modal" data-target="# {{ $row->id }}"><i class="fa fa-eye"></i></button>
                                 @endcan
                                 @include('admin.assgin.edit')
+                                @include('admin.assgin.show')
                             </td>
                         </tr>
                         @endforeach

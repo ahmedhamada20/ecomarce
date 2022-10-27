@@ -26,6 +26,13 @@ class SettingSeeder extends Seeder
             'instagram' => 'instagram',
             'twitter' => 'twitter',
             'youtube' => 'youtube',
+            'address' => 'address',
+            'dicration' => 'dicration',
+            'meat_tag' => 'meat_tag',
+            'meat_dicration' => 'meat_dicration',
+            'map_ifarme' => 'map_ifarme',
+            'play_store' => 'play_store',
+            'app_store' => 'app_store',
         ]);
 
             Photo::insert([

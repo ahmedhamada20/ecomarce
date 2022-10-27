@@ -16,6 +16,13 @@ class Setting extends Model
         'instagram',
         'twitter',
         'youtube',
+        'address',
+        'dicration',
+        'meat_tag',
+        'meat_dicration',
+        'map_ifarme',
+        'play_store',
+        'app_store',
 
     ];
 
