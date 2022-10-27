@@ -10,6 +10,11 @@
 
 <body>
     <h2>Order Code || {{$order['code']}}</h2>
+    <h2>Order price || {{$order['total']}}</h2>
+    {{-- @foreach (getProductOrder($order['id']) as $prodcut)
+    <h2> Product || {{$prodcut['name']}}</h2>
+    @endforeach --}}
+
     <br />
 </body>
 </body>
