@@ -26,7 +26,7 @@
     <!-- end page title -->
 
     <div class="row">
-        <div class="col-xl-3 col-md-6">
+        <div class="col-xl-4 col-md-6">
             <div class="card bg-primary mini-stat text-white">
                 <div class="p-3 mini-stat-desc">
                     <div class="clearfix">
@@ -42,7 +42,7 @@
             </div>
         </div>
 
-        <div class="col-xl-3 col-md-6">
+        <div class="col-xl-4 col-md-6">
             <div class="card bg-info mini-stat text-white">
                 <div class="p-3 mini-stat-desc">
                     <div class="clearfix">
@@ -59,7 +59,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-3 col-md-6">
+
+
+        <div class="col-xl-4 col-md-6">
             <div class="card bg-pink mini-stat text-white">
                 <div class="p-3 mini-stat-desc">
                     <div class="clearfix">
@@ -76,29 +78,83 @@
             </div>
         </div>
 
+    </div>
+
+
+    <br>
+
+    <div class="row">
+        <div class="col-xl-3 col-md-6">
+            <div class="card bg-primary mini-stat text-white">
+                <div class="p-3 mini-stat-desc">
+                    <div class="clearfix">
+                        <h6 class="text-uppercase mt-0 float-left text-white-50">جميع الطلبات</h6>
+                        <h4 class="mb-3 mt-0 float-right">{{App\Models\Order::count()}}</h4>
+                    </div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="col-xl-3 col-md-6">
+            <div class="card bg-info mini-stat text-white">
+                <div class="p-3 mini-stat-desc">
+                    <div class="clearfix">
+                        <h6 class="text-uppercase mt-0 float-left text-white-50">طلبات جديده</h6>
+                        <h4 class="mb-3 mt-0 float-right">{{App\Models\Order::where('status',0)->count()}}</h4>
+                    </div>
+
+                </div>
+            
+            </div>
+        </div>
+
+        
+        <div class="col-xl-3 col-md-6">
+            <div class="card bg-pink mini-stat text-white">
+                <div class="p-3 mini-stat-desc">
+                    <div class="clearfix">
+                        <h6 class="text-uppercase mt-0 float-left text-white-50">طلبات مكتمله</h6>
+                        <h4 class="mb-3 mt-0 float-right">{{App\Models\Order::where('status',1)->count()}}</h4>
+                    </div>
+
+                </div>
+               
+            </div>
+        </div>
+
         <div class="col-xl-3 col-md-6">
             <div class="card bg-success mini-stat text-white">
                 <div class="p-3 mini-stat-desc">
                     <div class="clearfix">
-                        <h6 class="text-uppercase mt-0 float-left text-white-50">Product Sold</h6>
-                        <h4 class="mb-3 mt-0 float-right">1890</h4>
+                        <h6 class="text-uppercase mt-0 float-left text-white-50">طلبات تمت التعين</h6>
+                        <h4 class="mb-3 mt-0 float-right">{{App\Models\Order::where('status',3)->count()}}</h4>
+
                     </div>
-
-                </div>
-                <div class="p-3">
-
-                        <a href="#" class="text-white-50"><i class="mdi mdi-briefcase-check h5"></i></a>
 
                 </div>
             </div>
         </div>
     </div>
+
+
+
+
+
+
+
+
+
     <!-- end row -->
 
     <div class="row">
-        <div class="col">
-            <div id='calendar'></div>
-        </div>
+        {{-- <div class="container"> --}}
+            <div class="col">
+                <div id='calendar'></div>
+            </div>
+        {{-- </div> --}}
+        
     </div>
 @endsection
 

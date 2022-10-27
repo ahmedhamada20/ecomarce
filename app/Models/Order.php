@@ -12,6 +12,8 @@ class Order extends Model
     const ORDERCOMPTITED = 0;
     const ORDERSUCCESS = 1;
     const ORDERERROR = 2;
+    const ORDERASSGIN = 3;
+    const ORDERREFUND = 4;
 
     protected $fillable = [
         'user_id',
@@ -36,6 +38,9 @@ class Order extends Model
             case 3:
                 $result = "assgin Order";
                 break;
+            case 4:
+                $result = "assgin Refund";
+                break;
         }
 
         return $result;
@@ -53,6 +58,6 @@ class Order extends Model
 
     public function assgin()
     {
-        return $this->hasOne(AssginOrder::class,'order_id');
+        return $this->hasOne(AssginOrder::class, 'order_id');
     }
 }

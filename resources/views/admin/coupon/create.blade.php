@@ -36,7 +36,7 @@
                     <div class="row">
                         <div class="col">
                             <label>كود الخصم</label>
-                            <input type="text" name="code" class="form-control" required>
+                            <input type="text" name="code" class="form-control" value="{{ $data }}">
                         </div>
 
 

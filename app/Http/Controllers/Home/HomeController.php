@@ -4,12 +4,15 @@ namespace App\Http\Controllers\Home;
 
 use App\Http\Controllers\Controller;
 use App\Models\Category;
+use App\Models\Coupon;
 use App\Models\Order;
 use App\Models\Product;
 use App\Models\SubCategory;
 use Gloudemans\Shoppingcart\Facades\Cart;
+use Illuminate\Contracts\Session\Session;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Str;
 
 class HomeController extends Controller
@@ -87,12 +90,12 @@ class HomeController extends Controller
 
     public function order_paymaents(Request $request)
     {
-       $order = Order::create([
+        $order = Order::create([
             'user_id' => auth()->user()->id,
             'total' => Cart::subtotal(),
             'quantity' => 1,
             'status' => Order::ORDERCOMPTITED,
-            'code'=> 'ORD-' . Str::random(15),
+            'code' => 'ORD-' . Str::random(15),
         ]);
 
         foreach (Cart::content() as $item) {
@@ -101,8 +104,55 @@ class HomeController extends Controller
                 'order_id' => $order->id,
             ]);
         }
-
+        session()->forget('coupon');
         Cart::destroy();
+        
         return redirect()->back();
+    }
+
+    public function check_coupon(Request $request)
+    {
+
+        $id_product = Cart::content()->first()->id;
+        $product = Product::findorfail($id_product);
+        $id_cart = Cart::content()->first()->rowId;
+        if($id_product){
+            if ($id_cart) {
+                $check = Coupon::where('code', $request->coupon)->first();
+    
+    
+                session()->put('coupon', [
+                    'code' => $check->code,
+                ]);
+    
+    
+                if ($check) {
+    
+                    if ($check->start_date <= date('Y-m-d') && $check->end_date >= date('Y-m-d')) {
+    
+                        if ($check->coupon_type == 0) {
+                            Cart::update($id_cart, [
+                                'price' => $product->price / $check->coupon_percent,
+                            ]);
+                            return redirect()->back();
+                        } else {
+    
+                            Cart::update($id_cart, [
+                                'price' => $product->price - $check->coupon_percent,
+                            ]);
+                            return redirect()->back();
+                        }
+                    } else {
+                        return redirect()->back();
+                    }
+                } else {
+                    return redirect()->back();
+                }
+            }else{
+                return redirect()->back();
+            }
+        }
+    
+       
     }
 }

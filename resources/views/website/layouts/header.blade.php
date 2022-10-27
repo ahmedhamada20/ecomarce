@@ -16,6 +16,18 @@
                     <span class="user-message">Login / Register</span>
                 </a>
                     @else
+                    <form method="POST" action="{{ route('logout') }}">
+                        @csrf
+
+                        <x-dropdown-link :href="route('logout')"
+                                onclick="event.preventDefault();
+                                            this.closest('form').submit();">
+                           تسجيل الخروج
+                        </x-dropdown-link>
+                    </form>
+
+
+
                     <a href="javascript: void(0);">
                     <span class="user-message h2"> مرحبا بك  : {{ Auth::user()->name }}</span>
                     </a>

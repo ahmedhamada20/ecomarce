@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Models\AssginOrder;
 use App\Models\Order;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class OrderController extends Controller
 {
@@ -85,15 +86,23 @@ class OrderController extends Controller
 
     public function assgin(Request $request)
     {
-        $assgin = AssginOrder::updateOrcreate([
-            'order_id' => $request->id,
-        ], [
-            'order_id' => $request->id,
-            'user_id' => $request->user_id,
-        ]);
-
-        toastr()->success('تم تعين الطلب بنجاح');
-        return redirect('order');
+        DB::beginTransaction();
+        try {
+            Order::findorfail($request->id)->update([
+                'status' => Order::ORDERASSGIN,
+            ]);
+            AssginOrder::updateOrcreate([
+                'order_id' => $request->id,
+            ], [
+                'order_id' => $request->id,
+                'user_id' => $request->user_id,
+            ]);
+            DB::commit();
+            toastr()->success('تم تعين الطلب بنجاح');
+            return redirect('order');
+        } catch (\Exception $e) {
+            return redirect('order');
+        }
     }
 
     /**
@@ -105,5 +114,31 @@ class OrderController extends Controller
     public function destroy($id)
     {
         //
+    }
+
+
+    public function assgin_order()
+    {
+        if (auth()->user()->name == "admin") {
+            $data = AssginOrder::all();
+        } else {
+            $data = AssginOrder::where('user_id', auth()->user()->id)->get();
+        }
+
+        return view('admin.assgin.index',compact('data'));
+    }
+
+    public function assgin_order_status(Request $request)
+    {
+       
+        try {
+            Order::findorfail($request->id)->update([
+                'status' => $request->status,
+            ]);
+            toastr()->success('تم تغير حاله الطلب بنجاح');
+            return redirect()->back();
+        } catch (\Exception $e) {
+            return redirect()->back();
+        }
     }
 }

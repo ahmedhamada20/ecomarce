@@ -49,6 +49,7 @@ class PermissionTableSeeder extends Seeder
 
             'سليدر الطلبات',
             'تعديل الطلبات',
+            'تعين الطلبات',
             'سليدر المستخدمين والصلاحيات',
 
 

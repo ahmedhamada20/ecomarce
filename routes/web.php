@@ -29,6 +29,7 @@ Route::middleware('auth')->group(function () {
     Route::post('addToCart', [\App\Http\Controllers\Home\HomeController::class, 'addToCart'])->name('addToCart');
     Route::post('deletedCart', [\App\Http\Controllers\Home\HomeController::class, 'deletedCart'])->name('deletedCart');
     Route::get('cart', [\App\Http\Controllers\Home\HomeController::class, 'cart'])->name('show_cart');
+    Route::post('check_coupon', [\App\Http\Controllers\Home\HomeController::class, 'check_coupon'])->name('check_coupon');
     Route::post('order_paymaents', [\App\Http\Controllers\Home\HomeController::class, 'order_paymaents'])->name('order_paymaents');
 });
 

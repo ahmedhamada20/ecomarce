@@ -9,19 +9,19 @@
           </button>
         </div>
         <div class="modal-body">
-          <form action="{{ route('order.update','test') }}" method="POST">
-            @method('PUT')
+          <form action="{{ route('assgin_order_status') }}" method="POST">
+
             @csrf
 
-            <input type="hidden" value="{{ $row->id }}" name="id">
+            <input type="hidden" value="{{ $row->order->id }}" name="id">
             <div class="row">
                 <div class="col">
                     <label>تفير الحاله الطلب</label>
                     <select class="form-control" name="status">
-                        <option value="0" {{ $row->status == 0 ?'selected' : null }}>طلب جديد </option>
-                        <option value="1" {{ $row->status == 1 ?'selected' : null }}>متكمل </option>
-                        <option value="2" {{ $row->status == 2 ?'selected' : null }}>مرفوض  </option>
-                        <option value="4" {{ $row->status == 4 ?'selected' : null }}>مرتجع  </option>
+                      <option value="" disabled selected>-- اختر حاله الطلب --</option>
+                      <option value="1" {{ $row->order->status == 1 ?'selected' : null }}>متكمل </option>
+                        <option value="2" {{ $row->order->status == 2 ?'selected' : null }}>مرفوض  </option>
+                        <option value="4" {{ $row->order->status == 4 ?'selected' : null }}>مرتجع  </option>
                     </select>
                 </div>
             </div>

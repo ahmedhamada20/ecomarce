@@ -29,7 +29,7 @@
         <div class="col">
             <div class="card">
                 <div class="card-body">
-                    <form action="{{route('category.update','test')}}" method="post" enctype="multipart/form-data">
+                    <form action="{{route('coupon.update','test')}}" method="post" enctype="multipart/form-data">
                       @method('PUT')
                         @csrf
 
@@ -37,45 +37,49 @@
 
                         <div class="row">
                             <div class="col">
-                                <label>اسم الفئه</label>
-                                <input type="text" name="name" value="{{$data->name}}" class="form-control" >
+                                <label>كود الخصم</label>
+                                <input type="text" name="code" class="form-control" value="{{ $data->id }}">
                             </div>
-
-
+    
+    
                         </div>
-                        @error('name')
+                        @error('code')
                         <span class="text-danger">{{$message}}</span>
                         @enderror
-
+    
                         <br>
-
+    
                         <div class="row">
                             <div class="col">
-                                <label>ملاحظات</label>
-                                <textarea class="form-control" rows="5" name="notes">
-                                    {{$data->notes}}
-                                </textarea>
+                                <label>تاريخ البدايه</label>
+                                <input type="date" name="start_date" class="form-control" value="{{ $data->start_date }}">
+                            </div>
+                            <div class="col">
+                                <label>تاريخ النهايه</label>
+                                <input type="date" name="end_date" class="form-control" value="{{ $data->end_date }}">
                             </div>
                         </div>
-
+    
                         <br>
-
-                        @if($data->image)
-                            <a href="{{asset($data->image)}}" target="_blank">  <img src="{{asset($data->image)}}" width="75" height="75" alt=""></a>
-                            <input type="hidden" name="oldfile" value="{{$data->photo->Filename}}">
-                        @endif
-
+    
+    
                         <div class="row">
                             <div class="col">
-                                <label>صوره الفئه</label>
-                                <input type="file" name="photo" accept="image/*" >
+                                <label>نوع الخصم</label>
+                                <select class="form-control" name="coupon_type" required>
+                                    <option value="" disabled selected>-- اختر من القائمه --</option>
+                                    <option value="0" {{ $data->coupon_type == 0 ?'selected' : null }}>نسبي</option>
+                                    <option value="1" {{ $data->coupon_type == 1 ? 'selected' null }}>مبلغ</option>
+                                </select>
+                            </div>
+    
+    
+                            <div class="col">
+                                <label>قيمه الخصم</label>
+                                <input type="number" class="form-control" name="coupon_percent" value="{{ $data->coupon_percent }}">
                             </div>
                         </div>
-
-                        <br>
-                        @error('photo')
-                        <span class="text-danger">{{$message}}</span>
-                        @enderror
+    
                         <br>
                         <div class="row">
                             <div class="col">
