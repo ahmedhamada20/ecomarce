@@ -104,6 +104,10 @@ class HomeController extends Controller
                 'order_id' => $order->id,
             ]);
         }
+
+
+        Mail::to('ahmed.space2023@gmail.com')->send(new \App\Mail\MyTestMail($order));
+
         session()->forget('coupon');
         Cart::destroy();
         
