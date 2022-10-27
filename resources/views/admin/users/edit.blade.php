@@ -61,14 +61,14 @@
                         </div>
                         <div class="col-xs-12 col-sm-12 col-md-12">
                             <div class="form-group">
-                                <strong>كلمه المورو</strong>
+                                <strong>كلمه المرور</strong>
                                 {!! Form::password('password', array('placeholder' => 'Password','class' =>
                                 'form-control')) !!}
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-12 col-md-12">
                             <div class="form-group">
-                                <strong>تاكيد كلمه المورو</strong>
+                                <strong>تاكيد كلمه المرور</strong>
                                 {!! Form::password('confirm-password', array('placeholder' => 'Confirm Password','class'
                                 => 'form-control')) !!}
                             </div>
