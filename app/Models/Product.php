@@ -13,8 +13,6 @@ class Product extends Model
         'price',
         'quantity',
         'notes',
-        // 'category_id',
-        // 'sub_category_id',
         'days',
         'life_cycle',
         'disease',
@@ -23,6 +21,11 @@ class Product extends Model
         'section_two',
         'section_there',
         'section_frour',
+        'packet',
+        'stock',
+        'seeds_one',
+        'seeds_two',
+        'seeds_there',
     ];
 
     protected $appends = ['image'];

@@ -74,11 +74,12 @@ class ProductController extends Controller
             'name' => 'required',
             'price' => 'required|numeric',
             'quantity' => 'required|numeric',
-        
             'days' => 'required',
             'life_cycle' => 'required',
             'disease' => 'required',
             'hybrid' => 'required',
+
+            
         ], [
             'name.required' => 'هذا الحقل مطلوب',
             'price.required' => 'هذا الحقل مطلوب',
@@ -95,8 +96,6 @@ class ProductController extends Controller
             'notes' => $request->notes,
             'price' => $request->price,
             'quantity' => $request->quantity,
-            // 'category_id' => $request->category_id,
-            // 'sub_category_id' => $request->sub_category_id,
             'days' => $request->days,
             'life_cycle' => $request->life_cycle,
             'disease' => $request->disease,
@@ -104,6 +103,11 @@ class ProductController extends Controller
             'section_one' => $request->section_one,
             'section_two' => $request->section_two,
             'section_there' => $request->section_there,
+            'packet'=> $request->packet,
+            'stock'=> $request->stock,
+            'seeds_one'=> $request->seeds_one,
+            'seeds_two'=> $request->seeds_two,
+            'seeds_there'=> $request->seeds_there,
 
         ]);
 
@@ -202,8 +206,6 @@ class ProductController extends Controller
             'notes' => $request->notes,
             'price' => $request->price,
             'quantity' => $request->quantity,
-            // 'category_id' => $request->category_id,
-            // 'sub_category_id' => $request->sub_category_id,
             'days' => $request->days,
             'life_cycle' => $request->life_cycle,
             'disease' => $request->disease,
@@ -211,6 +213,11 @@ class ProductController extends Controller
             'section_one' => $request->section_one,
             'section_two' => $request->section_two,
             'section_there' => $request->section_there,
+            'packet'=> $request->packet,
+            'stock'=> $request->stock,
+            'seeds_one'=> $request->seeds_one,
+            'seeds_two'=> $request->seeds_two,
+            'seeds_there'=> $request->seeds_there,
 
         ]);
 

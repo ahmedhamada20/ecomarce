@@ -1535,75 +1535,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-lg-6 track-order-col">
-                <div class="card">
-                    <form action="https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Order-Track"
-                        class="trackorder" method="POST" name="trackorder-form">
-                        <h2 class="card-header card-header-custom track-order-header brand-h4 m-0">Order Status
-                        </h2>
-                        <div class="card-body">
-                            <span class="required-field-meaning">An asterisk (*) indicates a required
-                                field</span>
-
-
-                            <div class="form-group required">
-                                <label class="form-control-label" for="trackorder-form-number">
-                                    <span class="required" aria-label="Required field">*</span>
-                                    Order Number
-                                    <span class="info-icon">
-                                        <span class="icon">i</span>
-                                        <span class="tooltip">
-                                            Your order number can be found in your email order confirmation or
-                                            in the My Account section under order history.
-                                        </span>
-                                    </span>
-                                </label>
-                                <input type="text" required class="form-control" aria-describedby="form-number-error"
-                                    id="trackorder-form-number" name="trackOrderNumber" /
-                                    data-missing-error="This field is required.">
-                                <div class="invalid-feedback" id="form-number-error"></div>
-                            </div>
-
-                            <div class="form-group required">
-                                <label class="form-control-label" for="trackorder-form-email">
-                                    <span class="required" aria-label="Required field">*</span>
-                                    Order Email
-                                </label>
-                                <input type="text" required class="form-control" id="trackorder-form-email"
-                                    aria-describedby="form-email-error" name="trackOrderEmail"
-                                    pattern="^[\w.%+-]+@[\w.-]+\.[\w]{2,6}$" maxlength="50" /
-                                    data-pattern-mismatch="Please enter a valid email address."
-                                    data-missing-error="This field is required.">
-                                <div class="invalid-feedback" id="form-email-error"></div>
-                            </div>
-                            <!-- Billing Zip Code -->
-                            <div class="form-group required">
-                                <label class="form-control-label" for="trackorder-form-zip">
-                                    <span class="required" aria-label="Required field">*</span>
-                                    Billing ZIP code
-                                </label>
-                                <input type="text" required class="form-control" id="trackorder-form-zip"
-                                    aria-describedby="form-zipcode-error" name="trackOrderPostal"
-                                    pattern="(^\d{5}(-\d{4})?$)|(^[abceghjklmnprstvxyABCEGHJKLMNPRSTVXY]{1}\d{1}[A-Za-z]{1} *\d{1}[A-Za-z]{1}\d{1}$)"
-                                    data-missing-error="This field is required."
-                                    data-pattern-mismatch="Please enter a valid zip code.">
-                                <div class="invalid-feedback" id="form-zipcode-error"></div>
-                            </div>
-
-
-                            <input type="hidden" name="csrf_token"
-                                value="RJELk4dqqkWlznDIl6nqr43GuJTXQ1j4X7OxdbfyoQgDn-rRfA3MJk7sUjiR_U2M3CE8mW9vZqAv5Ww_KxtbT6zhbQFSYVket3Jv8j3cGrhUDpe8Lc6sFeq5CnY9UNNB9ANdJE4VQFCqAXtW1RyS3bhY1AKKHVWTHek2HVllu1O871c1onc=" />
-
-                            <div class="form-group">
-                                <button class="btn btn-primary" type="submit" name="submit" value="submit">
-                                    Check status
-                                </button>
-                            </div>
-                        </div>
-                    </form>
-
-                </div>
-            </div>
+          
         </div>
     </div>
 

@@ -254,74 +254,6 @@ PRODUCT
 
 
 
-                                <dt class="c-facts__term js-facts-dialog">
-                                    <h3 title="Product Features">Product Features</h3>
-
-                                    <button type="button"
-                                        class="c-facts__term__info js-facts-dialog__trigger">About Quick
-                                        Fact Product Features</button>
-                                    <div class="c-facts-dialog__content js-facts-dialog__content">
-                                        <h3><span class="c-facts-dialog__term-heading">Product
-                                                Features</span></h3>
-                                        <dl class="c-facts-dialog__list">
-
-                                            <dt class="c-facts-dialog__term has-icon">
-                                                <img src="{{ asset('front/on/demandware.static/Sites-JSS-Site/-/default/dw56e3b406/images/svgs/product_feature/9.svg') }}"
-                                                    class="c-facts-dialog__term-icon"
-                                                    alt="Greenhouse Performer" />
-                                                <span class="c-facts-dialog__term-heading">Greenhouse
-                                                    Performer</span>
-                                            </dt>
-                                            <dd class="c-facts-dialog__definition">
-
-                                                Variety that we have found, based on our trials, to be the
-                                                best performers in a climate-controlled greenhouse
-                                                environment.
-
-                                            </dd>
-
-                                            <dt class="c-facts-dialog__term has-icon">
-                                                <img src="{{ asset('front/on/demandware.static/Sites-JSS-Site/-/default/dw730545ba/images/svgs/product_feature/110.svg') }}"
-                                                    class="c-facts-dialog__term-icon"
-                                                    alt="Hydroponic Performer" />
-                                                <span class="c-facts-dialog__term-heading">Hydroponic
-                                                    Performer</span>
-                                            </dt>
-                                            <dd class="c-facts-dialog__definition">
-
-                                                Variety that can be grown successfully using hydroponic
-                                                growing methods, such as NFT (Nutrient Film Technique), DWC
-                                                (Deep Water Culture), or other soilless growing systems.
-
-                                            </dd>
-
-                                        </dl>
-                                        <span class="close-modal">Close</span>
-                                    </div>
-
-                                </dt>
-                                <dd class="c-facts__definition">
-                                    <h4>
-
-
-
-
-                                        <img src="{{ asset('front/on/demandware.static/Sites-JSS-Site/-/default/dw56e3b406/images/svgs/product_feature/9.svg') }}"
-                                            class="tooltip-img-alt c-facts__icon"
-                                            alt="Greenhouse Performer" />
-
-
-
-
-                                        <img src="{{ asset('front/on/demandware.static/Sites-JSS-Site/-/default/dw730545ba/images/svgs/product_feature/110.svg') }}"
-                                            class="tooltip-img-alt c-facts__icon"
-                                            alt="Hydroponic Performer" />
-
-
-
-                                    </h4>
-                                </dd>
-
 
 
                             </dl>
@@ -495,9 +427,9 @@ PRODUCT
 
 
 
-                                                                    <span class="value" content="6.70">
+                                                                    <span class="value" content="{{ $data->packet }}">
 
-                                                                        6.70 AED
+                                                                        {{ $data->packet }} AED
 
 
                                                                     </span>
@@ -550,9 +482,9 @@ PRODUCT
 
 
 
-                                                                    <span class="value" content="19.05">
+                                                                    <span class="value" content="{{ $data->stock }}">
 
-                                                                        19.05 AED
+                                                                        {{ $data->stock }} AED
 
 
                                                                     </span>
@@ -605,9 +537,9 @@ PRODUCT
 
 
 
-                                                                    <span class="value" content="54.40">
+                                                                    <span class="value" content="{{ $data->seeds_one }}">
 
-                                                                        54.40 AED
+                                                                        {{ $data->seeds_one }} AED
 
 
                                                                     </span>
@@ -660,9 +592,9 @@ PRODUCT
 
 
 
-                                                                    <span class="value" content="233.50">
+                                                                    <span class="value" content="{{ $data->seeds_two }}">
 
-                                                                        233.50 AED
+                                                                        {{ $data->seeds_two }} AED
 
 
                                                                     </span>
@@ -715,9 +647,9 @@ PRODUCT
 
 
 
-                                                                    <span class="value" content="439.70">
+                                                                    <span class="value" content="{{ $data->seeds_there }}">
 
-                                                                        439.70 AED
+                                                                        {{ $data->seeds_there }} AED
 
 
                                                                     </span>
@@ -932,18 +864,7 @@ PRODUCT
 
                                             </select>
                                         </div>
-                                        <div class="wrap d-flex align-items-center align-items-lg-end flex-column">
-                                            <label for="quantity-1">Quantity</label>
-                                            <div class="d-flex">
-
-                                                <input type="number" class="count" placeholder="1" value="1" min="1">
-
-                                                {{-- <button type="button" id="sub" class="sub">-</button>
-                                                <input class="count" type="text" readonly id="quantity-1" value="1"
-                                                    min="1" aria-label="Quantity" />
-                                                <button type="button" id="add" class="add">+</button> --}}
-                                            </div>
-                                        </div>
+                                       
 
                                     </span>
 

@@ -141,4 +141,13 @@ class OrderController extends Controller
             return redirect()->back();
         }
     }
+
+
+    public function status($id)
+    {
+       
+        $orders = Order::where('status',$id)->get();
+    
+        return view('admin.order.status',compact('orders'));
+    }
 }

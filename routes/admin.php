@@ -40,6 +40,7 @@ Route::middleware(['auth', 'admin'])->group(function () {
 
     Route::resource('product', ProductController::class);
     Route::resource('order', OrderController::class);
+    Route::get('statusorder/{status}',[OrderController::class,'status'])->name('order.status');
     Route::get('assgin_order', [OrderController::class,'assgin_order'])->name('assgin_order');
     Route::post('assgin_order_status', [OrderController::class,'assgin_order_status'])->name('assgin_order_status');
     Route::post('assgin_order', [OrderController::class,'assgin'])->name('order_assgin');

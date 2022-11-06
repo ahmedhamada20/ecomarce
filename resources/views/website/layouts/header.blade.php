@@ -28,7 +28,7 @@
 
 
 
-                    <a href="javascript: void(0);">
+                    <a href="{{ route('show_cart') }}">
                     <span class="user-message h2"> مرحبا بك  : {{ Auth::user()->name }}</span>
                     </a>
                 @endguest

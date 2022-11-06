@@ -64,6 +64,32 @@
 
                     <br>
 
+
+                    <div class="row">
+                        <div class="col">
+                            <label>packet</label>
+                            <input type="number" name="packet" required class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>stock</label>
+                            <input type="number" name="stock" required class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>seeds_one</label>
+                            <input type="number" name="seeds_one" required class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>seeds_two</label>
+                            <input type="number" name="seeds_two" required class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>seeds_there</label>
+                            <input type="number" name="seeds_there" required class="form-control">
+                        </div>
+                    </div>
+
+                    <br>
+
                     <div class="row">
                         <div class="col">
                             <label>DAYS TO MATURITY</label>

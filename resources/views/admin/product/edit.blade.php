@@ -66,7 +66,35 @@
                             </div>
                         </div>
 
+
                         <br>
+
+
+                    <div class="row">
+                        <div class="col">
+                            <label>packet</label>
+                            <input type="number" name="packet" value="{{ $data->packet }}" class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>stock</label>
+                            <input type="number" name="stock" value="{{ $data->stock }}" class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>seeds_one</label>
+                            <input type="number" name="seeds_one" value="{{ $data->seeds_one }}" class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>seeds_two</label>
+                            <input type="number" name="seeds_two" value="{{ $data->seeds_two }}" class="form-control">
+                        </div>
+                        <div class="col">
+                            <label>seeds_there</label>
+                            <input type="number" name="seeds_there" value="{{ $data->seeds_there }}" class="form-control">
+                        </div>
+                    </div>
+
+                        <br>
+
                        
 
                         <div class="row">
