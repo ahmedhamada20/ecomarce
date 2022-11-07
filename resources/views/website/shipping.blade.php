@@ -419,21 +419,6 @@ CQuotient.trackViewProduct = function(/* Object */ cqParamData){
 
 
 
-                                <div class="content-asset">
-                                    <!-- dwMarker="content" dwContentID="d3c0841c5708edcaeccb38af6a" -->
-                                    <ul>
-                                        <li><a href="shipping-usa.html">U.S. Shipping</a></li>
-                                        <li><a href="shipping-canada.html">Canada Shipping</a></li>
-                                        <li><a href="shipping-international.html">International Shipping</a></li>
-                                        <li><a href="list-of-countries-we-ship-to.html">Countries We Ship To</a></li>
-                                    </ul>
-                                </div> <!-- End content-asset -->
-
-
-
-
-
-
 
                             </div>
                         </div>

@@ -56,32 +56,7 @@ Contact Us
                             <div class="folder-navigation">
 
 
-                                <div class="content-asset">
-                                    <!-- dwMarker="content" dwContentID="d87a209b6e0650f03890ced6df" -->
-                                    <ul>
-                                        <!--<li><a href="https://www.johnnyseeds.com/customer-support/customer-care-message-fy22.html">A Message from Our Customer Care Team</a></li>-->
-                                        <li><a href="index.html">Contact Us</a></li>
-                                        <li><a href="../customer-support/maps-directions.html">Directions</a></li>
-                                        <li><a href="../customer-support/guarantee.html">Satisfaction Guarantee</a>
-                                        </li>
-                                        <li><a href="../customer-support/returns-refunds-exchanges.html">Returns &
-                                                Exchanges</a></li>
-                                        <li><a href="../customer-support/shipping/shipping-usa.html">Shipping</a>
-                                        </li>
-                                        <li><a href="../customer-support/faq-customer-support.html">Customer Support
-                                                FAQs</a></li>
-                                        <li><a href="../customer-support/faq-sales-tax.html">Sales Tax FAQs</a></li>
-                                        <li><a href="../customer-support/accessibility.html">Accessibility</a></li>
-                                        <li><a href="../customer-support/privacy-policy.html">Privacy Policy</a>
-                                        </li>
-                                        <!--li><a href="https://www.johnnyseeds.com/on/demandware.store/Sites-JSS-Site/en_US/Page-Show?cid=contest-rules">Contest Rules</a></li>-->
-                                        <li><a href="../customer-support/email-unsubscribe.html">Unsubscribe from
-                                                Email</a></li>
-                                    </ul>
-                                </div> <!-- End content-asset -->
-
-
-
+                           
                             </div>
                         </div>
                     </div>

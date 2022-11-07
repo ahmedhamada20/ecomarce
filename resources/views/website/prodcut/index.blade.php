@@ -917,12 +917,6 @@ PRODUCT
                                         </div>
                                         <!-- Add Product To Wishlist -->
 
-                                        <div class="add-to-wishlist-wrapper">
-                                            <button type="submit" class="btn btn-block add-to-wish-list p-0"
-                                                    data-href="/on/demandware.store/Sites-JSS-Site/en_US/Wishlist-AddProduct">
-                                                <span>Add to Wishlist</span>
-                                            </button>
-                                        </div>
 
                                     </div>
                                 </div>

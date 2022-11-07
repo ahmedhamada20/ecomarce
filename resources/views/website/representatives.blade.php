@@ -3,7 +3,7 @@
 
 <html lang="en-US">
 
-<!-- Mirrored from www.johnnyseeds.com/shop-johnnys/commercial-territory-sales-representatives.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 09 Oct 2022 09:47:54 GMT -->?xml 
+<!-- Mirrored from www.johnnyseeds.com/shop-johnnys/commercial-territory-sales-representatives.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 09 Oct 2022 09:47:54 GMT --> 
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -399,41 +399,6 @@ CQuotient.trackViewProduct = function(/* Object */ cqParamData){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-                                <div class="content-asset">
-                                    <!-- dwMarker="content" dwContentID="2f8ad203a3feb0cb8391729007" -->
-                                    <ul>
-                                        <li><a title="Digital Catalogs" href="online-catalogs.html">Johnny's Digital
-                                                Catalogs</a></li>
-                                        <li><a title="Commercial Sales"
-                                                href="commercial-territory-sales-representatives.html">Commercial
-                                                Sales</a></li>
-                                        <li><a title="Commercial Credit Application Form - PDF"
-                                                href="jss-credit-application.html" target="_blank">Commercial Credit
-                                                Application (PDF)</a></li>
-                                        <li><a title="Quick Order" href="../quick-order/index.html">Quick Order</a></li>
-                                        <li><a title="Order Form - PDF" href="web-orderform.html"
-                                                target="_blank">Printable Order Form (PDF)</a></li>
-                                        <li><a title="Retail Store in Winslow, Maine" href="retail-store.html">Johnny's
-                                                Retail Store</a></li>
-                                        <!--<li><a href="https://www.johnnyseeds.com/shop-johnnys/stores-that-carry-johnnys.html">Where to Buy</a></li>-->
-                                        <li><a title="Organic Product List - PDF" href="organic-index.html"
-                                                target="_blank">Organic Product Listing (PDF)</a></li>
-                                        <!--<li><a title="Gift Certificates" href="https://www.johnnyseeds.com/featured/gift-certificates/">Gift Certificates</a></li>-->
-                                        <li><a title="Gift Ieas" href="gift-ideas.html">Gift Ideas</a></li>
-                                    </ul>
-                                </div> <!-- End content-asset -->
 
 
 

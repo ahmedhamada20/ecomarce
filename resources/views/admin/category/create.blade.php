@@ -60,6 +60,7 @@
                             <div class="col">
                                 <label>صوره الفئه</label>
                                 <input type="file" name="photo" accept="image/*" >
+                                <p class="text-danger">مقاس الصوره 720 * 720 px</p>
                             </div>
                         </div>
 

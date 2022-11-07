@@ -177,6 +177,7 @@
                         <div class="col">
                             <label>صور المنتج</label>
                             <input type="file" name="FilenameMany[]" multiple accept="image/*">
+                            <p class="text-danger">مقاس الصور 1440 * 500</p>
                         </div>
                     </div>
 

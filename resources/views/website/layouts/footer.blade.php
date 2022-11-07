@@ -62,7 +62,7 @@
                         Request a Catalog
                     </h3>
                     <p>Request a free copy of Johnny’s latest catalog.</p>
-                    <a href="catalog-request/index.html" class="btn btn-secondary footer-top-btn">Request</a>
+                    <a href="{{ route('site') }}" class="btn btn-secondary footer-top-btn">Request</a>
                 </div>
             </div>
             <!-- End content-asset -->
@@ -101,22 +101,13 @@
         <div class="content-asset">
             <!-- dwMarker="content" dwContentID="c03d12030b0b600943089d4bcf" -->
             <div class="footer-item collapsible-md">
-                <div>
-                    <button class="title btn text-left btn-block d-lg-none" aria-expanded="false" aria-controls="collapsible-shop-at-johnnys">
-                        <h4>Shop at Johnny's</h4>
-                    </button>
-                    <span class="d-none d-lg-block">
-                        <a href="shop-johnnys/shop-at-johnnys.html">
-                            <h4>Shop at Johnny's</h4>
-                        </a>
-                    </span>
-                </div>
+               
 
                 <ul id="collapsible-shop-at-johnnys" class="menu-footer content">
                     <li>
                         <a href="{{ route('representatives') }}">Commercial Sales</a>
                     </li>
-                    <li><a href="{{ route('oders') }}">Quick Order</a></li>
+                    {{-- <li><a href="{{ route('oders') }}">Quick Order</a></li> --}}
                     <li><a href="{{ route('wishlist') }}">Wishlist</a></li>
                 
                   
