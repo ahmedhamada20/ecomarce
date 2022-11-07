@@ -111,6 +111,29 @@
                             <input type="text" name="hybrid" required class="form-control">
                         </div>
                     </div>
+
+                    <br>
+
+
+                    <div class="row">
+                        <div class="col">
+                            <label>Type</label>
+                            <select class="form-control" name="type" required>
+                                <option value="" disabled selected>-- Choose --</option>
+                                <option value="seeds">seeds</option>
+                                <option value="g">g</option>
+                                <option value="kg">kg</option>
+                                <option value="l">l</option>
+                                <option value="ml">ml</option>
+                                <option value="m">m</option>
+                                <option value="cm">cm</option>
+                                <option value="pcs">pcs</option>
+                                <option value="set">set</option>
+                                <option value="mlm">ملمتر</option>
+                            </select>
+                        </div>
+                    </div>
+
                     <br>
 
                     <div class="row">

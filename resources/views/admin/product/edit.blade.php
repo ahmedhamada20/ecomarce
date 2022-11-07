@@ -119,6 +119,27 @@
                             </div>
                         </div>
                         <br>
+
+
+                        <div class="row">
+                            <div class="col">
+                                <label>Type</label>
+                                <select class="form-control" name="type" >
+                                    <option value="seeds" {{ $data->type == "seeds" ? 'selected' : null }}>seeds</option>
+                                    <option value="g" {{ $data->type == "g" ? 'selected' : null }}>g</option>
+                                    <option value="kg" {{ $data->type == "kg" ? 'selected' : null }}>kg</option>
+                                    <option value="l" {{ $data->type == "l" ? 'selected' : null }}>l</option>
+                                    <option value="ml" {{ $data->type == "ml" ? 'selected' : null }}>ml</option>
+                                    <option value="m" {{ $data->type == "m" ? 'selected' : null }}>m</option>
+                                    <option value="cm" {{ $data->type == "cm" ? 'selected' : null }}>cm</option>
+                                    <option value="pcs" {{ $data->type == "pcs" ? 'selected' : null }}>pcs</option>
+                                    <option value="set" {{ $data->type == "set" ? 'selected' : null }}>set</option>
+                                    <option value="mlm" {{ $data->type == "mlm" ? 'selected' : null }}>ملمتر</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <br>
                         <div class="row">
                             <div class="col">
                                 <label>اسم الفئه</label>

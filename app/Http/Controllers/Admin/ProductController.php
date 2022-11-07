@@ -108,6 +108,7 @@ class ProductController extends Controller
             'seeds_one'=> $request->seeds_one,
             'seeds_two'=> $request->seeds_two,
             'seeds_there'=> $request->seeds_there,
+            'type'=> $request->type,
 
         ]);
 
@@ -218,6 +219,7 @@ class ProductController extends Controller
             'seeds_one'=> $request->seeds_one,
             'seeds_two'=> $request->seeds_two,
             'seeds_there'=> $request->seeds_there,
+            'type'=> $request->type,
 
         ]);
 
