@@ -6605,7 +6605,7 @@ a.close.disabled {
     -ms-flex-align: center;
     align-items: center;
     -ms-flex-pack: end;
-    justify-content: flex-end;
+    /*justify-content:flex-end;*/
     padding: 1rem;
     border-top: 1px solid #dee2e6;
     border-bottom-right-radius: .1875rem;
@@ -8327,8 +8327,8 @@ button.bg-dark:hover {
     }
 
     .justify-content-lg-end {
-        -ms-flex-pack: end !important;
-        justify-content: flex-end !important
+        /*-ms-flex-pack: end !important;
+        justify-content: flex-end !important */
     }
 
     .justify-content-lg-center {
@@ -8997,8 +8997,7 @@ button.bg-dark:hover {
 }
 
 .mw-100 {
-    max-width: 100% !important;
-    max-height: 100% !important;
+    max-width: 100% !important
 }
 
 .mh-100 {
@@ -11910,7 +11909,7 @@ a.text-dark:hover {
     }
 
     abbr[title]::after {
-        content: " ("attr(title) ")"
+        content: " (" attr(title) ")"
     }
 
     pre {
@@ -13593,7 +13592,7 @@ div#ltkmodal-container #ltkmodal-wrapper #contentInformation #check img {
 
 .main-menu-wrapper .navbar-expand-lg .mega-nav-content-right .menu-featured-a-wrapper img {
     width: 100%;
-    height: 60% !important
+    height: auto
 }
 
 .main-menu-wrapper .navbar-expand-lg .mega-nav-content-right .menu-featured-a-wrapper .featured-a-img-wrapper {
@@ -14572,7 +14571,7 @@ div#ltkmodal-container #ltkmodal-wrapper #contentInformation #check img {
         display: -ms-flexbox;
         display: flex;
         -ms-flex-pack: end;
-        justify-content: flex-end;
+        /*justify-content:flex-end;*/
         font-size: .9375rem;
         line-height: 1.375rem;
         padding: .75rem 0 .75rem 0
