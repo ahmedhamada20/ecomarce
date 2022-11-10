@@ -46,7 +46,24 @@
                 </div>
                 <div class="action-item-container col-5 d-flex justify-content-end align-items-center">
                     <div class="search-container d-none d-lg-flex">
-
+                        <div class="site-search search">
+                            <form role="search" action="{{ route('minproduct',1) }}" method="get" class="simple-search"
+                              name="simpleSearch">
+                              <input class="form-control search-field" type="text" name="q" value="" placeholder="Search Mig Farm"
+                                role="combobox" aria-describedby="search-assistive-text" aria-haspopup="listbox"
+                                aria-owns="search-results" aria-expanded="false" aria-autocomplete="list" aria-activedescendant=""
+                                aria-controls="search-results" aria-label="Enter Keyword or Item No." autocomplete="off" />
+                              <button type="submit" name="search-button" role="button" class="search-icon"
+                                aria-label="Submit search keywords">
+                                <svg class="search-svg">
+                                  <use xlink:href="#icon-search"></use>
+                                </svg>
+                              </button>
+                              <div class="suggestions-wrapper"
+                                data-url="/on/demandware.store/Sites-JSS-Site/en_US/SearchServices-GetSuggestions?q="></div>
+                              <input type="hidden" value="en_US" name="lang" />
+                            </form>
+                          </div>
                     </div>
                     <div class="minicart-container d-flex align-items-center">
                         <div class="minicart" data-action-url="{{asset('front/on/demandware.store/Sites-JSS-Site/en_US/Cart-MiniCartShow')}}">

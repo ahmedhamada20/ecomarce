@@ -8331,6 +8331,11 @@ button.bg-dark:hover {
         justify-content: flex-end !important */
     }
 
+    .user > a{
+        display: flex;
+        margin-left: auto;
+    }
+
     .justify-content-lg-center {
         -ms-flex-pack: center !important;
         justify-content: center !important
