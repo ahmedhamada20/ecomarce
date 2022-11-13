@@ -16,6 +16,11 @@
                     <span class="user-message">Login / Register</span>
                 </a>
                     @else
+
+                    <a href="{{ route('show_cart') }}">
+                        <span class="user-message h2"> مرحبا بك  : {{ Auth::user()->name }}</span>
+                        </a>
+                        
                     <form method="POST" action="{{ route('logout') }}">
                         @csrf
 
@@ -28,9 +33,7 @@
 
 
 
-                    <a href="{{ route('show_cart') }}">
-                    <span class="user-message h2"> مرحبا بك  : {{ Auth::user()->name }}</span>
-                    </a>
+                   
                 @endguest
                
             </div>
