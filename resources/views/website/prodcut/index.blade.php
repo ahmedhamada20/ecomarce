@@ -156,7 +156,7 @@ PRODUCT
                             @else
                             <img class="c-facts__supplementary_image"
 
-                            src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}" width="700px" height="700px"> 
+                            src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" width="700px" height="700px"> 
 
                             @endif
                           
