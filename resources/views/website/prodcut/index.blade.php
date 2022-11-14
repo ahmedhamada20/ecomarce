@@ -151,7 +151,7 @@ PRODUCT
                             @if ($data->photo->Filename ?? '')
                             <img class="c-facts__supplementary_image"
 
-                            src="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}"> 
+                            src="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}" width="700px" height="700px"> 
 
                             @else
                             <img class="c-facts__supplementary_image"

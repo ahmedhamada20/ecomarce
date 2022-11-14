@@ -265,7 +265,7 @@
               <div class="graphical-asset_image position-relative">
                 <a href="{{ route('mincategory',rand(1,3)) }}">
                   @if ($row->image)
-                  <img src="{{ asset($row->image) }}" alt="Hand touching basil leaves" width="50px" height="10px"
+                  <img src="{{ asset($row->image) }}" alt="Hand touching basil leaves" width="700px" height="700px"
                   class="mw-100" />
                   @else
                   <img src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Hand touching basil leaves" width="50px" height="10px"
