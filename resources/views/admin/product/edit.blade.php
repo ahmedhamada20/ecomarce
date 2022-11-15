@@ -48,6 +48,15 @@
                                 @enderror
                             </div>
 
+
+                            <div class="col">
+                                <label>رقم المنتج</label>
+                                <input type="text" name="code_prodcut" value="{{$data->code_prodcut}}" class="form-control">
+                                @error('code_prodcut')
+                                <span class="text-danger">{{$message}}</span>
+                                @enderror
+                            </div>
+
                             <div class="col">
                                 <label>سعر المنتج</label>
                                 <input type="number" name="price" value="{{$data->price}}" class="form-control">

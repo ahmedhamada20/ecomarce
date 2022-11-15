@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateTypeProductTable extends Migration
+class CreateCodeProductTable extends Migration
 {
     /**
      * Run the migrations.
@@ -14,8 +14,7 @@ class CreateTypeProductTable extends Migration
     public function up()
     {
         Schema::table('products', function (Blueprint $table) {
-            $table->enum('type',['seeds','g','kg','l','ml','m','cm','pcs','set','mlm']);
-        
+            $table->string('code_prodcut')->nullable();
         });
     }
 
@@ -27,8 +26,7 @@ class CreateTypeProductTable extends Migration
     public function down()
     {
         Schema::table('products', function (Blueprint $table) {
-            $table->dropColumn('type');
-           
+            $table->string('code_prodcut')->nullable();
         });
     }
 }

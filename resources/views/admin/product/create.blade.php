@@ -45,6 +45,14 @@
                         </div>
 
                         <div class="col">
+                            <label>رقم المنتج</label>
+                            <input type="text" name="code_prodcut" required class="form-control">
+                            @error('code_prodcut')
+                            <span class="text-danger">{{$message}}</span>
+                            @enderror
+                        </div>
+
+                        <div class="col">
                             <label>سعر المنتج</label>
                             <input type="number" name="price" required class="form-control">
                             @error('price')

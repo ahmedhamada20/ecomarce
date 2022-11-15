@@ -27,6 +27,7 @@ class Product extends Model
         'seeds_two',
         'seeds_there',
         'type',
+        'code_prodcut',
     ];
 
     protected $appends = ['image'];
