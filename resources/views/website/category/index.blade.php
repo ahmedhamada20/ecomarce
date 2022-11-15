@@ -2483,10 +2483,10 @@
                                                 href="{{ route('minproduct',$row->id) }}"
                                                 title="Chard, Yellow">
                                                 @if ($row->image)
-                                                <img class="tile-image" src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Chard, Yellow Microgreen Vegetables" title="Chard, Yellow" itemprop="image" />
+                                                <img class="tile-image" src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Chard, Yellow Microgreen Vegetables" title="Chard, Yellow" itemprop="image" />
 
                                                 @else
-                                                <img class="tile-image" src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Chard, Yellow Microgreen Vegetables" title="Chard, Yellow" itemprop="image" />
+                                                <img class="tile-image" src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Chard, Yellow Microgreen Vegetables" title="Chard, Yellow" itemprop="image" />
 
                                                 @endif
 
