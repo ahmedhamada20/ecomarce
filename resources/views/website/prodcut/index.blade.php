@@ -126,7 +126,7 @@ PRODUCT
 
 
                                 <div data-slide="0" class='carousel-item active'>
-                                    <img src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" class="d-block img-fluid"
+                                    <img src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}"  width="700px" height="700px" class="d-block img-fluid"
                                          alt="Salanova&reg; Hydroponic Red Butter Salanova&reg; Lettuce"
                                          itemprop="image"/>
                                 </div>
@@ -151,12 +151,12 @@ PRODUCT
                             @if ($data->photo->Filename ?? '')
                             <img class="c-facts__supplementary_image"
 
-                            src="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}" width="700px" height="700px"> 
+                            src="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}" width="1200px" height="450px"> 
 
                             @else
                             <img class="c-facts__supplementary_image"
 
-                            src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" width="700px" height="700px"> 
+                            src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" width="1200px" height="450px"> 
 
                             @endif
                           
