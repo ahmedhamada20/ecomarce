@@ -163,7 +163,7 @@
                                         <div class="menu-featured-a-wrapper">
                                             <a href="vegetables/lettuce/lettuce-mixes/five-star-greenhouse-lettuce-mix-vegetable-seed-192fd0e.html?vegmmfeatsq_20221005" class="featured-a-main-link">
                                                 <div class="featured-a-img-wrapper">
-                                                    @if ($row->image)
+                                                    @if ($category->image)
                                                     <img alt="Five Star Greenhouse Lettuce Mix Seed" width="100px" height="100px" src="{{ asset('admin/pictures/category/'.rand(1,6).'/'.rand(1,6).".jpg") }}" />
 
                                                     @else
