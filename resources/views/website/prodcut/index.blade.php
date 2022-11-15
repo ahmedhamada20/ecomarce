@@ -126,7 +126,7 @@ PRODUCT
 
 
                                 <div data-slide="0" class='carousel-item active'>
-                                    <img src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}" class="d-block img-fluid"
+                                    <img src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" class="d-block img-fluid"
                                          alt="Salanova&reg; Hydroponic Red Butter Salanova&reg; Lettuce"
                                          itemprop="image"/>
                                 </div>
