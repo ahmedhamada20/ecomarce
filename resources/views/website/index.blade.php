@@ -369,7 +369,7 @@
                     @if ($category->image)
                     <img src="{{ asset($category->image) }}" style="width: 50% !mpos" alt="Bin of red tomatoes" />
                     @else
-                    <img src="{{ asset('admin/pictures/category/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Hand touching basil leaves" style="width: 50% !mpos" alt="Bin of red tomatoes" />
+                    <img src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Hand touching basil leaves" style="width: 50% !mpos" alt="Bin of red tomatoes" />
                     @endif
                                     </a>
                 </div>
