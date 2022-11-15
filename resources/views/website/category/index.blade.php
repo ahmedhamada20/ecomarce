@@ -2575,7 +2575,7 @@
 
 
                                                 <div class="tile-description d-none d-lg-block">
-                                                   {{ $row->notes }}
+                                                   {{ substr($row->notes,0,50) }}
                                                 </div>
 
 
