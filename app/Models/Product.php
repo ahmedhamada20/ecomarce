@@ -47,13 +47,16 @@ class Product extends Model
         return $this->morphMany(Photo::class, 'photoable');
     }
 
-   
+    public function typeProduct()
+    {
+        return $this->hasMany(TypeProdcut::class, 'product_id');
+    }
 
     public function categoryProdut()
     {
         return $this->belongsToMany(Category::class, 'product_category', 'product_id', 'category_id');
     }
-   
+
 
     public function orders()
     {

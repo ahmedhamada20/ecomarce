@@ -9,6 +9,7 @@ use App\Http\Controllers\Admin\RoleController;
 use App\Http\Controllers\Admin\SilderController;
 use App\Http\Controllers\Admin\SiteSettingController;
 use App\Http\Controllers\Admin\SubCategoryController;
+use App\Http\Controllers\Admin\TypeProductController;
 use App\Http\Controllers\Admin\UserController;
 use App\Http\Controllers\Admin\UsersController;
 use Illuminate\Support\Facades\Route;
@@ -37,6 +38,7 @@ Route::middleware(['auth', 'admin'])->group(function () {
     Route::resource('silder', SilderController::class);
 
     Route::resource('subcategory', SubCategoryController::class);
+    Route::resource('typeProduct', TypeProductController::class);
 
     Route::resource('product', ProductController::class);
     Route::resource('order', OrderController::class);

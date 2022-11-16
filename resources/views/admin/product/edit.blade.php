@@ -79,7 +79,7 @@
                         <br>
 
 
-                    <div class="row">
+                    {{-- <div class="row">
                         <div class="col">
                             <label>packet</label>
                             <input type="number" name="packet" value="{{ $data->packet }}" class="form-control">
@@ -100,7 +100,7 @@
                             <label>seeds_there</label>
                             <input type="number" name="seeds_there" value="{{ $data->seeds_there }}" class="form-control">
                         </div>
-                    </div>
+                    </div> --}}
 
                         <br>
 

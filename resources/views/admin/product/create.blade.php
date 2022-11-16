@@ -72,7 +72,7 @@
 
                     <br>
 
-
+{{-- 
                     <div class="row">
                         <div class="col">
                             <label>packet</label>
@@ -94,7 +94,7 @@
                             <label>seeds_there</label>
                             <input type="number" name="seeds_there" required class="form-control">
                         </div>
-                    </div>
+                    </div> --}}
 
                     <br>
 

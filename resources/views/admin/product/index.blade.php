@@ -72,6 +72,9 @@
                                         <button class="btn btn-danger btn-sm" data-toggle="modal"
                                                 data-target="#delete{{$row->id}}"><i class="fa fa-trash"></i></button>
                                     @endcan
+
+
+                                <a href="{{ route('typeProduct.show',$row->id) }}" class="btn btn-dark btn-sm"><i class="fa fa-shopping-basket"></i></a>
                                 </td>
                                 @include('admin.product.deleted')
                             </tr>

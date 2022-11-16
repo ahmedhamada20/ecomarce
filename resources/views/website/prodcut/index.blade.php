@@ -389,62 +389,66 @@ PRODUCT
                                     <div class="sizecode-select">
                                         <ul class="sizecode-swatches sizecode-attribute d-flex pt-sm-1 flex-wrap">
 
+                                            @foreach ($data->typeProduct as $rowes)
                                             <li data-attr-value="11"
-                                                class="swatch-square position-relative size-swatch active selectable"
-                                                value="../../../on/demandware.store/Sites-JSS-Site/en_US/Product-Variation7e43.json?dwvar_4449JP_sizecode=&amp;pid=4449JP&amp;quantity=1">
-                                                <a data-attr-value="11" data-product="4449JP.11"
-                                                   href="../../../on/demandware.store/Sites-JSS-Site/en_US/Product-Variation7e43.json?dwvar_4449JP_sizecode=&amp;pid=4449JP&amp;quantity=1"
-                                                   title="11"
-                                                   class="sizecode-value swatch-square-value d-flex justify-content-center align-items-center selected">
-                                                    <div
-                                                        class="attribute-display attribute-availability product-availability"
-                                                        data-ready-to-order="true" data-available="true">
-                                                        <!-- Attribute displayValue -->
-                                                        <span class="font-weight-bold">Packet</span>
-                                                        <!-- Product Availability -->
+                                            class="swatch-square position-relative size-swatch active selectable"
+                                            value="../../../on/demandware.store/Sites-JSS-Site/en_US/Product-Variation7e43.json?dwvar_4449JP_sizecode=&amp;pid=4449JP&amp;quantity=1">
+                                            <a data-attr-value="11" data-product="4449JP.11"
+                                               href="../../../on/demandware.store/Sites-JSS-Site/en_US/Product-Variation7e43.json?dwvar_4449JP_sizecode=&amp;pid=4449JP&amp;quantity=1"
+                                               title="11"
+                                               class="sizecode-value swatch-square-value d-flex justify-content-center align-items-center selected">
+                                                <div
+                                                    class="attribute-display attribute-availability product-availability"
+                                                    data-ready-to-order="true" data-available="true">
+                                                    <!-- Attribute displayValue -->
+                                                    <span class="font-weight-bold"></span>
+                                                    <!-- Product Availability -->
 
 
-                                                        <div class="availability-inner-wrapper">
-                                                            <span class="in-stock-msg">In Stock</span>
-
-                                                        </div>
+                                                    <div class="availability-inner-wrapper">
+                                                        <span class="in-stock-msg">{{ $rowes->name }}</span>
 
                                                     </div>
-                                                    <!-- Prices -->
-                                                    <div class="attribute-price">
-                                                        <div class="prices-new">
+
+                                                </div>
+                                                <!-- Prices -->
+                                                <div class="attribute-price">
+                                                    <div class="prices-new">
 
 
-                                                            <div class="price">
+                                                        <div class="price">
 
-                                                            <span>
-
-
-
-
-
-                                                                <span class="sales ">
+                                                        <span>
 
 
 
-                                                                    <span class="value" content="{{ $data->packet }}">
-
-                                                                        {{ $data->packet }} AED
 
 
-                                                                    </span>
+                                                            <span class="sales ">
+
+
+
+                                                                <span class="value" content="{{ $rowes->name }}">
+
+                                                                    {{ $rowes->price }} AED
+
+
                                                                 </span>
                                                             </span>
-
-                                                            </div>
-
+                                                        </span>
 
                                                         </div>
-                                                    </div>
-                                                </a>
-                                            </li>
 
-                                            <li data-attr-value="51"
+
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </li>
+
+                                            @endforeach
+
+                                           
+                                            {{-- <li data-attr-value="51"
                                                 class="swatch-square position-relative size-swatch  selectable"
                                                 value="../../../on/demandware.store/Sites-JSS-Site/en_US/Product-Variation4367.json?dwvar_4449JP_sizecode=51&amp;pid=4449JP&amp;quantity=1">
                                                 <a data-attr-value="51" data-product="4449JP.51"
@@ -718,7 +722,7 @@ PRODUCT
                                                         </div>
                                                     </div>
                                                 </a>
-                                            </li>
+                                            </li> --}}
 
                                         </ul>
                                     </div>
