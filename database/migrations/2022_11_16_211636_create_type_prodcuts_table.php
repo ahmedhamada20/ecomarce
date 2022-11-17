@@ -17,6 +17,8 @@ class CreateTypeProdcutsTable extends Migration
             $table->id();
             $table->string('name')->nullable();
             $table->string('price')->nullable();
+            $table->string('count')->nullable();
+            $table->enum('type',['in_stock','out_stock'])->nullable();
             $table->foreignId('product_id')->constrained('products')->cascadeOnDelete()->cascadeOnUpdate();
             $table->timestamps();
         });

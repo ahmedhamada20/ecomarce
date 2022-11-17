@@ -24,6 +24,12 @@ class HomeController extends Controller
     }
 
 
+    public function link_get()
+    {
+        return view('admin.link_get');
+    }
+
+
     public function ajax(Request $request)
     {
         if($request->ajax())

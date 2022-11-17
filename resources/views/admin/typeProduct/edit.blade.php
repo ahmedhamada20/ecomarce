@@ -26,6 +26,25 @@
 
                     <div class="row">
                         <div class="col">
+                            <label>Stock</label>
+                            <select class="form-control" name="type" >
+                                <option value="" disabled selected>-- Choose --</option>
+                                <option value="in_stock" {{ $row->type ==  "in_stock" ? 'selected' : null }}>In Stock</option>
+                                <option value="out_stock" {{ $row->type ==  "out_stock" ? 'selected' : null }}>Out Stock</option>
+                            </select>
+                        </div>
+
+
+                        <div class="col">
+                            <label>Qutinity</label>
+                            <input type="number" name="count" value="{{ $row->count }}" class="form-control">
+                        </div>
+                    </div>
+
+                    <br>
+
+                    <div class="row">
+                        <div class="col">
                             <label>Price</label>
                             <input type="text" value="{{ $row->price }}" name="price" class="form-control">
                         </div>

@@ -154,6 +154,38 @@
                 @endcan
 
 
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        لزاهو</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="{{ route('link_get') }}">لزاهو</a></li>
+
+                    </ul>
+                </li>
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        الشحن</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="{{ route('link_get') }}">الشحن</a></li>
+
+                    </ul>
+                </li>
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        بوابة الدفع</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="{{ route('link_get') }}">بوابة الدفع</a></li>
+
+                    </ul>
+                </li>
+
+
             </ul>
         </div>
         <div class="clearfix"></div>

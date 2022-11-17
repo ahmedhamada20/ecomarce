@@ -401,12 +401,12 @@ PRODUCT
                                                     class="attribute-display attribute-availability product-availability"
                                                     data-ready-to-order="true" data-available="true">
                                                     <!-- Attribute displayValue -->
-                                                    <span class="font-weight-bold"></span>
+                                                    <span class="font-weight-bold">{{ $rowes->count }}</span>
                                                     <!-- Product Availability -->
 
 
                                                     <div class="availability-inner-wrapper">
-                                                        <span class="in-stock-msg">{{ $rowes->name }}</span>
+                                                        <span class="in-stock-msg">{{ $rowes->type }}</span>
 
                                                     </div>
 

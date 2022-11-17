@@ -30,6 +30,7 @@ require __DIR__ . '/auth.php';
 
 Route::middleware(['auth', 'admin'])->group(function () {
     Route::get('/admin/dash', [HomeController::class, 'index'])->name('home');
+    Route::get('/link_get', [HomeController::class, 'link_get'])->name('link_get');
     Route::post('fullcalenderAjax', [HomeController::class, 'ajax'])->name('add_event');
 
     Route::resource('setting', SiteSettingController::class)->only(['index', 'update']);

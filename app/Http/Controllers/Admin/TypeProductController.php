@@ -41,6 +41,8 @@ class TypeProductController extends Controller
             'name' => $request->name,
             'price' => $request->price,
             'product_id' => $request->product_id,
+            'type' => $request->type,
+            'count' => $request->count,
         ]);
 
         toastr()->success('تم الحفظ بنجاح');
@@ -82,6 +84,8 @@ class TypeProductController extends Controller
         TypeProdcut::findorfail($request->id)->update([
             'name' => $request->name,
             'price' => $request->price,
+            'type' => $request->type,
+            'count' => $request->count,
         ]);
 
         toastr()->success('تم التعديل بنجاح');

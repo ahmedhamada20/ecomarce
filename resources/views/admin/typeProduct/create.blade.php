@@ -25,6 +25,25 @@
 
                     <div class="row">
                         <div class="col">
+                            <label>Stock</label>
+                            <select class="form-control" name="type" required>
+                                <option value="" disabled selected>-- Choose --</option>
+                                <option value="in_stock">In Stock</option>
+                                <option value="out_stock">Out Stock</option>
+                            </select>
+                        </div>
+
+
+                        <div class="col">
+                            <label>Qutinity</label>
+                            <input type="number" name="count" required class="form-control">
+                        </div>
+                    </div>
+
+                    <br>
+
+                    <div class="row">
+                        <div class="col">
                             <label>Price</label>
                             <input type="text" required name="price" class="form-control">
                         </div>
