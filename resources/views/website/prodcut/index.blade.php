@@ -402,6 +402,7 @@ PRODUCT
                                                     data-ready-to-order="true" data-available="true">
                                                     <!-- Attribute displayValue -->
                                                     <span class="font-weight-bold">{{ $rowes->count }}</span>
+                                                    <span class="font-weight-bold">{{ $rowes->name }}</span>
                                                     <!-- Product Availability -->
 
 
