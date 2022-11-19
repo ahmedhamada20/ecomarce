@@ -128,7 +128,7 @@ PRODUCT
                                 <div data-slide="0" class='carousel-item active'>
                                     @foreach ($data->photos as $row)
                                     @if ($loop->last)
-                                    <img src="{{ asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename) }}"  width="700px" height="700px" class="d-block img-fluid"
+                                    <img src="{{ asset('admin/pictures/product/'.$data->id.'/'.$row->Filename) }}"  width="700px" height="700px" class="d-block img-fluid"
                                     alt="Salanova&reg; Hydroponic Red Butter Salanova&reg; Lettuce"
                                     itemprop="image"/>
                                     @endif
@@ -158,7 +158,7 @@ PRODUCT
                             @if ($loop->first)
                             <img class="c-facts__supplementary_image"
 
-                            src="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}" width="1200px" height="450px"> 
+                            src="{{asset('admin/pictures/product/'.$data->id.'/'.$row->Filename)}}" width="1200px" height="450px"> 
 @endif
                             @endforeach
                          
