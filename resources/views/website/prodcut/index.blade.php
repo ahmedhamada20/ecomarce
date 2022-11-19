@@ -127,7 +127,7 @@ PRODUCT
 
                                 <div data-slide="0" class='carousel-item active'>
                                     @foreach ($data->photos as $row)
-                                    @if ($loop->last)
+                                    @if (!$loop->last)
                                     <img src="{{ asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename) }}"  width="700px" height="700px" class="d-block img-fluid"
                                     alt="Salanova&reg; Hydroponic Red Butter Salanova&reg; Lettuce"
                                     itemprop="image"/>
@@ -154,11 +154,14 @@ PRODUCT
                         <div class="c-facts layout-zipper-line-pdp-social-icon">
                             <h2 class="c-facts__heading ">Quick Facts</h2>
 
-                            {{-- @if ($data->photo->Filename ?? '') --}}
+                            @foreach ($data->photos as $row)
+                            @if ($loop->last)
                             <img class="c-facts__supplementary_image"
 
                             src="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}" width="1200px" height="450px"> 
-
+@endif
+                            @endforeach
+                         
                             {{-- @else
                             <img class="c-facts__supplementary_image"
 
