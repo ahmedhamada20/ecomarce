@@ -160,7 +160,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="{{ route('link_get') }}">لزاهو</a></li>
+                        <li><a href="{{ route('link_get') }}">زاهو</a></li>
 
                     </ul>
                 </li>

@@ -50,7 +50,7 @@
                 <div class="action-item-container col-5 d-flex justify-content-end align-items-center">
                     <div class="search-container d-none d-lg-flex">
                         <div class="site-search search">
-                            <form role="search" action="{{ route('minproduct',rand(1,6)) }}" method="get" class="simple-search"
+                            <form role="search" action="{{ route('minproduct',2) }}" method="get" class="simple-search"
                               name="simpleSearch">
                               <input class="form-control search-field" type="text" name="q" value="" placeholder="Search Mig Farm"
                                 role="combobox" aria-describedby="search-assistive-text" aria-haspopup="listbox"
