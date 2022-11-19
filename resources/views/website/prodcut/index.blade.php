@@ -154,17 +154,17 @@ PRODUCT
                         <div class="c-facts layout-zipper-line-pdp-social-icon">
                             <h2 class="c-facts__heading ">Quick Facts</h2>
 
-                            @if ($data->photo->Filename ?? '')
+                            {{-- @if ($data->photo->Filename ?? '') --}}
                             <img class="c-facts__supplementary_image"
 
                             src="{{asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename)}}" width="1200px" height="450px"> 
 
-                            @else
+                            {{-- @else
                             <img class="c-facts__supplementary_image"
 
                             src="{{ asset('admin/pictures/product/'.rand(1,6).'/'.rand(1,6).".jpg") }}" width="1200px" height="450px"> 
 
-                            @endif
+                            @endif --}}
                           
                             <dl class="c-facts__list">
 
