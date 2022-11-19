@@ -18,6 +18,7 @@ use Illuminate\Support\Facades\URL;
 
 
 Route::get('/', [\App\Http\Controllers\Home\HomeController::class, 'index'])->name('site');
+Route::get('/search/{id}',[\App\Http\Controllers\Home\HomeController::class, 'search'])->name('search');
 Route::get('/customer_support', [\App\Http\Controllers\Home\HomeController::class, 'customer_support'])->name('customer_support');
 Route::get('/contact_us', [\App\Http\Controllers\Home\HomeController::class, 'contact_us'])->name('contact_us');
 Route::get('mincategory/{id}', [\App\Http\Controllers\Home\HomeController::class, 'mincategory'])->name('mincategory');

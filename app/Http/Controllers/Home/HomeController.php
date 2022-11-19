@@ -22,6 +22,18 @@ class HomeController extends Controller
         return view('website.index');
     }
 
+    public function search(Request $request)
+    {
+
+        $data = Product::where('code_prodcut', $request->q)->first();
+        $cart = Cart::content();
+        if (!empty($data)) {
+            return view('website.prodcut.index', compact('data', 'cart'));
+        } else {
+            return redirect()->back();
+        }
+    }
+
     public function customer_support()
     {
         return view('website.customer_support.index');
