@@ -126,9 +126,15 @@ PRODUCT
 
 
                                 <div data-slide="0" class='carousel-item active'>
+                                    @foreach ($data->photos as $row)
+                                    @if ($loop->last)
                                     <img src="{{ asset('admin/pictures/product/'.$data->id.'/'.$data->photo->Filename) }}"  width="700px" height="700px" class="d-block img-fluid"
-                                         alt="Salanova&reg; Hydroponic Red Butter Salanova&reg; Lettuce"
-                                         itemprop="image"/>
+                                    alt="Salanova&reg; Hydroponic Red Butter Salanova&reg; Lettuce"
+                                    itemprop="image"/>
+                                    @endif
+                                  
+                                    @endforeach
+                                    
                                 </div>
 
                             </div>
