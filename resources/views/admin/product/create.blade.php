@@ -123,7 +123,7 @@
                     <br>
 
 
-                    <div class="row">
+                    {{-- <div class="row">
                         <div class="col">
                             <label>Type</label>
                             <select class="form-control" name="type" required>
@@ -140,7 +140,7 @@
                                 <option value="mlm">ملمتر</option>
                             </select>
                         </div>
-                    </div>
+                    </div> --}}
 
                     <br>
 

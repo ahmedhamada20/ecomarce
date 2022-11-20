@@ -129,7 +129,7 @@
                         </div>
                         <br>
 
-
+{{-- 
                         <div class="row">
                             <div class="col">
                                 <label>Type</label>
@@ -146,7 +146,7 @@
                                     <option value="mlm" {{ $data->type == "mlm" ? 'selected' : null }}>ملمتر</option>
                                 </select>
                             </div>
-                        </div>
+                        </div> --}}
 
                         <br>
                         <div class="row">
