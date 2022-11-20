@@ -42,7 +42,7 @@
                         <tr>
                             <th>#</th>
                             <th>اسم المنتج</th>
-                            <th>سعر المنتج</th>
+                            {{-- <th>سعر المنتج</th> --}}
                             <th>كيمه المنتج</th>
                       
                             <th>العمليات</th>
@@ -55,7 +55,7 @@
                             <tr>
                                 <td>{{$loop->index+1}}</td>
                                 <td>{{$row->name}}</td>
-                                <td>{{$row->price}}</td>
+                                {{-- <td>{{$row->price}}</td> --}}
                                 <td>{{$row->quantity}}</td>
                                 <td>
                                     @can('تعديل المنتج')
