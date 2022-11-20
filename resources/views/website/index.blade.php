@@ -332,7 +332,7 @@
                 <ul>
                   <li>
                     <a
-                      href="{{ route('minproduct',$row->id)) }}">SHOP
+                      href="{{ route('minproduct',$row->id) }}">SHOP
                       NOW</a>
                   </li>
                 </ul>
