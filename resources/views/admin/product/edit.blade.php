@@ -57,13 +57,13 @@
                                 @enderror
                             </div>
 
-                            <div class="col">
+                            {{-- <div class="col">
                                 <label>سعر المنتج</label>
                                 <input type="number" name="price" value="{{$data->price}}" class="form-control">
                                 @error('price')
                                 <span class="text-danger">{{$message}}</span>
                                 @enderror
-                            </div>
+                            </div> --}}
 
 
                             <div class="col">

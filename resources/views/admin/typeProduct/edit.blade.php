@@ -26,6 +26,25 @@
 
                     <div class="row">
                         <div class="col">
+                            <label>Type</label>
+                            <select class="form-control" name="type_product" >
+                                <option value="seeds" {{ $row->type_product == "seeds" ? 'selected' : null }}>seeds</option>
+                                <option value="g" {{ $row->type_product == "g" ? 'selected' : null }}>g</option>
+                                <option value="kg" {{ $row->type_product == "kg" ? 'selected' : null }}>kg</option>
+                                <option value="l" {{ $row->type_product == "l" ? 'selected' : null }}>l</option>
+                                <option value="ml" {{ $row->type_product == "ml" ? 'selected' : null }}>ml</option>
+                                <option value="m" {{ $row->type_product == "m" ? 'selected' : null }}>m</option>
+                                <option value="cm" {{ $row->type_product == "cm" ? 'selected' : null }}>cm</option>
+                                <option value="pcs" {{ $row->type_product == "pcs" ? 'selected' : null }}>pcs</option>
+                                <option value="set" {{ $row->type_product == "set" ? 'selected' : null }}>set</option>
+                                <option value="mlm" {{ $row->type_product == "mlm" ? 'selected' : null }}>ملمتر</option>
+                            </select>
+                        </div>
+                    </div>
+                    <br>
+
+                    <div class="row">
+                        <div class="col">
                             <label>Stock</label>
                             <select class="form-control" name="type" >
                                 <option value="" disabled selected>-- Choose --</option>

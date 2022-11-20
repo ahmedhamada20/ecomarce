@@ -43,6 +43,7 @@ class TypeProductController extends Controller
             'product_id' => $request->product_id,
             'type' => $request->type,
             'count' => $request->count,
+            'type_product' => $request->type_product,
         ]);
 
         toastr()->success('تم الحفظ بنجاح');
@@ -86,6 +87,7 @@ class TypeProductController extends Controller
             'price' => $request->price,
             'type' => $request->type,
             'count' => $request->count,
+            'type_product' => $request->type_product,
         ]);
 
         toastr()->success('تم التعديل بنجاح');

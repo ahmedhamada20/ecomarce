@@ -412,6 +412,7 @@ PRODUCT
                                                     <!-- Attribute displayValue -->
                                                     <span class="font-weight-bold">{{ $rowes->count }}</span>
                                                     <span class="font-weight-bold">{{ $rowes->name }}</span>
+                                                    <span class="font-weight-bold">{{ $rowes->type_product }}</span>
                                                     <!-- Product Availability -->
 
 
