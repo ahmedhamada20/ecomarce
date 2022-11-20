@@ -260,17 +260,17 @@
 
           <div class="graphical-asset_body d-flex flex-nowrap justify-content-start">
 
-            @foreach (App\Models\SubCategory::inRandomOrder()->take(4)->get() as $row)
+            @foreach (App\Models\Product::inRandomOrder()->take(4)->get() as $row)
             <div class="graphical-asset_elements p-0">
               <div class="graphical-asset_image position-relative">
-                <a href="{{ route('mincategory',rand(1,3)) }}">
-                  @if ($row->image)
+                <a href="{{ route('minproduct',$row->id) }}">
+                  {{-- @if ($row->image) --}}
                   <img src="{{ asset($row->image) }}" alt="Hand touching basil leaves" width="700px" height="700px"
                   class="mw-100" />
-                  @else
+                  {{-- @else
                   <img src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Hand touching basil leaves" width="700px" height="700px"
                   class="mw-100" />
-                  @endif
+                  @endif --}}
                   
                 </a>
               </div>
@@ -281,7 +281,7 @@
               <div class="primaryText-link col-12 col-lg-8 m-0 p-0 text-center graphical-asset_btn">
                 <ul>
                   <li>
-                    <a href="{{ route('mincategory',rand(1,2)) }}">SHOP NOW</a>
+                    <a href="{{ route('minproduct',$row->id) }}">SHOP NOW</a>
                   </li>
                 </ul>
               </div>
@@ -311,18 +311,18 @@
           </div>
           <div class="graphical-asset_body d-flex flex-nowrap justify-content-start">
 
-            @foreach (App\Models\SubCategory::inRandomOrder()->take(4)->get() as $row)
+            @foreach (App\Models\Product::inRandomOrder()->take(4)->get() as $row)
             <div class="graphical-asset_elements p-0">
               <div class="graphical-asset_image position-relative">
                 <a
-                  href="{{ route('mincategory',rand(1,3)) }}">
-                  @if ($row->image)
+                  href="{{ route('minproduct',$row->id) }}">
+                  {{-- @if ($row->image) --}}
                   <img src="{{ asset($row->image) }}" alt="Hand touching basil leaves" width="700px" height="700px"
                   class="mw-100" />
-                  @else
+                  {{-- @else
                   <img src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Hand touching basil leaves" width="700px" height="700px"
                   class="mw-100" />
-                  @endif                </a>
+                  @endif                </a> --}}
               </div>
               <h3 class="brand-h4">{{ $row->name }}</h3>
               <p class="d-none d-lg-block body-2 graphical-asset_body-text">
@@ -332,7 +332,7 @@
                 <ul>
                   <li>
                     <a
-                      href="{{ route('mincategory',rand(1,3)) }}">SHOP
+                      href="{{ route('minproduct',$row->id)) }}">SHOP
                       NOW</a>
                   </li>
                 </ul>

@@ -143,9 +143,9 @@
                                         <ul role="menu" class="nav navbar-nav nav-categories">
                                             <li class="nav-categories-column">
                                                 <ul>
-                                                    @foreach ($category->subCategory as $row)
+                                                    @foreach ($category->categoryProdut as $row)
                                                     <li class="dropdown-item" role="presentation">
-                                                        <a href="{{ route('mincategory',$row->id) }}" id="artichokes" role="menuitem" class="dropdown-link">{{ $row->name }}</a>
+                                                        <a href="{{ route('minproduct',$row->id) }}" id="artichokes" role="menuitem" class="dropdown-link">{{ $row->name }}</a>
                                                     </li>
 
                                                     @endforeach
