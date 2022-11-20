@@ -185,6 +185,72 @@
                     </ul>
                 </li>
 
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        Customer Support</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="#">Customer Support</a></li>
+
+                    </ul>
+                </li>
+
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        Contact Us</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="#">Contact Us</a></li>
+
+                    </ul>
+                </li>
+
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        Satisfaction Guarantee</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="#">Satisfaction Guarantee</a></li>
+
+                    </ul>
+                </li>
+                
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        Shipping</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="#">Shipping</a></li>
+
+                    </ul>
+                </li>
+
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        Commercial Sales</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="#">Commercial Sales</a></li>
+
+                    </ul>
+                </li>
+
+                <li class="has_sub">
+                    <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
+                        Wishlist</span> <span class="menu-arrow float-right"><i
+                                class="mdi mdi-chevron-right"></i></span></a>
+                    <ul class="list-unstyled">
+                       
+                        <li><a href="#">Wishlist</a></li>
+
+                    </ul>
+                </li>
+
 
             </ul>
         </div>
