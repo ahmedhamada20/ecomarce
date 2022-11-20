@@ -317,7 +317,7 @@
                 <a
                   href="{{ route('minproduct',$row->id) }}">
                   {{-- @if ($row->image) --}}
-                  <img src="{{ asset($row->image) }}" alt="Hand touching basil leaves" width="700px" height="700px"
+                  <img src="{{ asset($row->image) }}" alt="Hand touching basil leaves" width="272px" height="272px"
                   class="mw-100" />
                   {{-- @else
                   <img src="{{ asset('admin/pictures/subcategory/'.rand(1,6).'/'.rand(1,6).".jpg") }}" alt="Hand touching basil leaves" width="700px" height="700px"
