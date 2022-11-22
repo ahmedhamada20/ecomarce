@@ -523,41 +523,7 @@ CQuotient.trackViewProduct = function(/* Object */ cqParamData){
                                 </div>
                             </div>
 
-                            <div class="col-12 col-lg-3 s-lgc-right-column">
-                                <div class="content-asset">
-                                    <div class="right">
-                                        <div class="rt-contbox">
-                                            <div class="rt-boxhead">CONTACT US</div>
-                                            <div class="rt-box-content">
-                                                <p>Call Us Toll-Free at</p>
-                                                <span style="font-size: 1.5em;">
-                                                    <nobr><a style="color: #567632; font-size: 1.5em;"
-                                                            title="Call Us..." href="tel:877-564-6697">877-564-6697</a>
-                                                    </nobr>
-                                                </span>
-                                                <br>
-                                                <h3>January–April</h3>
-                                                Mon–Fri: 8am–8pm ET<br />
-                                                Sat–Sun: 8am–5pm ET<br />
-                                                <h3>May</h3>
-                                                Mon–Fri: 8am–7pm ET<br />
-                                                Sat: 8am–5pm ET<br />
-                                                <h3>June</h3>
-                                                Mon–Sat: 8am–5pm ET<br />
-                                                <h3>July–November</h3>
-                                                Mon–Fri: 8am–5pm ET<br />
-                                                <h3>December</h3>
-                                                Mon–Sat: 8am–5pm ET<br />
-                                                <br /><br />
-                                                <p>NOTE: Seasonal hours subject to change.</p>
-                                            </div>
-                                        </div>
-                                        <h3 style="font-size: 1.1em;"><a title="Johnny's Retail Store"
-                                                href="../../shop-johnnys/retail-store.html">Johnny's Retail Store</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
+                           
 
                         </div>
                     </div>
