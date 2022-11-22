@@ -3,11 +3,10 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
-use App\Models\Product;
-use App\Models\TypeProdcut;
+use App\Models\Group;
 use Illuminate\Http\Request;
 
-class TypeProductController extends Controller
+class GroupController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -37,18 +36,7 @@ class TypeProductController extends Controller
      */
     public function store(Request $request)
     {
-        TypeProdcut::create([
-            'name' => $request->name,
-            'price' => $request->price,
-            'product_id' => $request->product_id,
-            'type' => $request->type,
-            'count' => $request->count,
-            'type_product' => $request->type_product,
-            'qunitiy' => $request->qunitiy,
-        ]);
-
-        toastr()->success('تم الحفظ بنجاح');
-        return redirect()->back();
+        //
     }
 
     /**
@@ -59,8 +47,7 @@ class TypeProductController extends Controller
      */
     public function show($id)
     {
-        $data = Product::findorfail($id);
-        return view('admin.typeProduct.index',compact('data'));
+        //
     }
 
     /**
@@ -83,16 +70,19 @@ class TypeProductController extends Controller
      */
     public function update(Request $request, $id)
     {
-        TypeProdcut::findorfail($request->id)->update([
-            'name' => $request->name,
-            'price' => $request->price,
-            'type' => $request->type,
-            'count' => $request->count,
-            'type_product' => $request->type_product,
-            'qunitiy' => $request->qunitiy,
+        $group = Group::first();
+        Group::findorfail($request->id)->update([
+            'shop' => $request->shop ?? $group->shop,
+            'payment' => $request->payment ?? $group->payment,
+            'customer_support' => $request->customer_support ?? $group->customer_support,
+            'contact_Us' => $request->contact_Us ?? $group->contact_Us,
+            'satisfaction_guarantee' => $request->satisfaction_guarantee ?? $group->satisfaction_guarantee,
+            'shipping' => $request->shipping ?? $group->shipping,
+            'commercial_sales' => $request->commercial_sales ?? $group->commercial_sales,
+            'wishlist' => $request->wishlist ?? $group->wishlist,
         ]);
 
-        toastr()->success('تم التعديل بنجاح');
+        toastr()->success('تم الحفظ بنجاح');
         return redirect()->back();
     }
 
@@ -104,8 +94,6 @@ class TypeProductController extends Controller
      */
     public function destroy($id)
     {
-        TypeProdcut::destroy($id);
-        toastr()->success('تم الحذف بنجاح');
-        return redirect()->back();
+        //
     }
 }

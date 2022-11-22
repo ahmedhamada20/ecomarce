@@ -15,6 +15,7 @@ class TypeProdcut extends Model
         'type',
         'count',
         'type_product',
+        'qunitiy',
     ];
 
     public function product()

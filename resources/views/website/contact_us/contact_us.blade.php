@@ -86,9 +86,7 @@ Contact Us
                             <div class="c-form-content-block u-margin-top-md">
                                 <div class="c-form-content-block__body">
                                     <!-- dwMarker="content" dwContentID="573d647aeba77587649e22d50b" -->
-                                    <p>Our friendly, knowledgeable Customer Care team is here to assist you. Our
-                                        Contact Center is open year-round, with extended hours during the busiest
-                                        planning, planting, and growing months.</p>
+                                    <p> {{ App\Models\Group::first()->contact_Us ?? null }}</p>
                                 </div> <!-- End content-asset -->
                             </div>
 
@@ -97,25 +95,13 @@ Contact Us
                                 <div class="o-layout__col o-layout__col-secondary o-layout__col-secondary@ml-up">
 
 
-                                    <div class="content-asset">
-                                        <!-- dwMarker="content" dwContentID="a47c1b5d654511326131d040bf" -->
-                                        <div class="u-content-container">
-                                            <h2 class="u-margin-top-xxs">Call Us Toll-Free</h2>
-                                            <h2 class="c-heading-secondary u-margin-bottom-none"><a class="call-us"
-                                                                                                    href="tel:1-877-564-6697">1.877.564.6697</a></h2>
-                                            <h2 data-id="Peqym-YDO-w" class="livechat_button c-contact-block__link">
-                                                Chat Now!</h2>
-                                        </div>
-                                    </div> <!-- End content-asset -->
-
-
 
                                 </div>
                                 <div
                                     class="o-layout__col o-layout__col-main o-layout__col-main@ml-up u-margin-top-md u-margin-top-none@ml-up">
 
 
-                                    <div class="content-asset">
+                                    {{-- <div class="content-asset">
                                         <!-- dwMarker="content" dwContentID="67f1f6be226cfbf2647dcf8c1f" -->
                                         <!-- 1 -->
                                         <div class="o-layout o-layout-with-gutter">
@@ -216,7 +202,7 @@ Contact Us
                                                     href="../shop-johnnys/retail-store.html">&raquo;&nbsp;LEARN&nbsp;MORE&hellip;</a>
                                             </p>
                                         </div>
-                                    </div> <!-- End content-asset -->
+                                    </div> <!-- End content-asset --> --}}
 
 
 
@@ -232,20 +218,17 @@ Contact Us
                                           id="ContactForm">
                                         <h2 class="c-heading">Send Us a Message</h2>
 
-                                        <div class="c-form-content-block__body">
+                                        {{-- <div class="c-form-content-block__body">
                                             <p>If you prefer to contact us by email, use the form below to allow us
                                                 to better assist you. We will respond within 2 business days. Please
                                                 note that we will use your email address only to respond to your
                                                 inquiry.</p>
-                                        </div>
+                                        </div> --}}
 
 
                                         <div class="o-layout-flex@xs-up o-layout-flex--wrap o-layout-grid">
                                             <div class="row">
-                                                <div class="col-12">
-                                                        <span class="required-field-meaning">An asterisk (*) indicates a
-                                                            required field</span>
-                                                </div>
+                                               
                                                 <div class="col-12 col-lg-6">
                                                     <div class="form-group required">
                                                         <label class="form-control-label" for="firstname">

@@ -408,14 +408,13 @@
                 </div>
                 <div class="row">
                     <div class="col-12 mb-lg-5 pb-lg-5">
-                        <p class="page-subtitle">If you are not signed in, your lists are only available on this device
-                            and will expire at the end of this session.</p>
+                        <p class="page-subtitle">
+                            {{ App\Models\Group::first()->wishlist }}
+                        </p>
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-6">
 
-                                <div class="mt-2">
-                                    <p>This list is empty.</p>
-                                </div>
+                             
 
 
                             </div>

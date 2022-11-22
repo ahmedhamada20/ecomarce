@@ -529,9 +529,7 @@
                                         </div>
                                         <div class="h2-TXT">
                                             <h2 class="h2-t">
-                                                Our willingness to put the customer first in everything we do is
-                                                what
-                                                defines our commitment to service.
+                                             {{ App\Models\Group::first()->customer_support ?? null }}
                                             </h2>
                                         </div>
                                         <div class="contentCONT">
@@ -545,7 +543,7 @@
 </a>
 </div>
 </div>-->
-                                            <div class="squareBOX">
+                                            {{-- <div class="squareBOX">
                                                 <div class="boxtitleABOUT"><a class="linkABOUT"
                                                         style="font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'; text-decoration: none;"
                                                         href="../contact-us/index.html">
@@ -713,7 +711,7 @@
                                                             width="150" height="150" />
                                                     </a>
                                                 </div>
-                                            </div>
+                                            </div> --}}
                                         </div>
                                         <div class="c-cta-link"><a title="Back to Top" href="#top">Top
                                                 <strong>&circ;</strong></a></div>
@@ -734,25 +732,10 @@
                                                     </nobr>
                                                 </span>
                                                 <br>
-                                                <h3>January–April</h3>
-                                                Mon–Fri: 8am–8pm ET<br />
-                                                Sat–Sun: 8am–5pm ET<br />
-                                                <h3>May</h3>
-                                                Mon–Fri: 8am–7pm ET<br />
-                                                Sat: 8am–5pm ET<br />
-                                                <h3>June</h3>
-                                                Mon–Sat: 8am–5pm ET<br />
-                                                <h3>July–November</h3>
-                                                Mon–Fri: 8am–5pm ET<br />
-                                                <h3>December</h3>
-                                                Mon–Sat: 8am–5pm ET<br />
-                                                <br /><br />
-                                                <p>NOTE: Seasonal hours subject to change.</p>
+                                              
                                             </div>
                                         </div>
-                                        <h3 style="font-size: 1.1em;"><a title="Johnny's Retail Store"
-                                                href="../shop-johnnys/retail-store.html">Johnny's Retail Store</a>
-                                        </h3>
+                                       
                                     </div>
                                 </div>
                             </div>

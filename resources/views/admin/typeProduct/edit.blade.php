@@ -40,6 +40,12 @@
                                 <option value="mlm" {{ $row->type_product == "mlm" ? 'selected' : null }}>ملمتر</option>
                             </select>
                         </div>
+
+
+                        <div class="col">
+                            <label>Quinitiy</label>
+                            <input type="number" name="qunitiy" value="{{ $row->qunitiy }}" class="form-control">
+                        </div>
                     </div>
                     <br>
 

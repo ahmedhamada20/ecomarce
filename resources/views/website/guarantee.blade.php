@@ -463,42 +463,16 @@
                                             <div class="large-headTXT">
                                                 <h1 class="h1-t"
                                                     style="margin-top: -29px !important; margin-bottom: -30px !important;">
-                                                    Johnny's Guarantee</h1>
+                                                    Mig farm Guarantee</h1>
                                             </div>
                                         </div>
                                         <div class="careerBOX">
                                             <div class="careertitle">Our Guarantee</div>
                                             <div class="careertext">
-                                                <p>Johnny's is committed to your success, every step of the way.</p>
-                                                <p>
-                                                    We want you, our customer, to be 100% satisfied with all of our
-                                                    seeds, tools, and supplies.</p>
-                                                <p>
-                                                    If anything you purchase from us proves unsatisfactory, we will
-                                                    either replace the item or refund the purchase price.</p>
+                                                {{ App\Models\Group::first()->satisfaction_guarantee ?? null }}
                                             </div>
                                         </div>
-                                        <div class="careerBOX">
-                                            <div class="careertext">
-                                                <h3>DISCLAIMER OF GUARANTEE (WARRANTY)</h3>
-                                                <p>No other express guarantee or warranty is made in respect thereof.
-                                                </p>
-                                                <h3>EXCLUSIVE LIMITATION OF REMEDY FOR COMMERCIAL CUSTOMERS</h3>
-                                                <p>The liability of Johnny's Selected Seeds for breach of guarantee
-                                                    (warranty), or for any loss or damage arising out of the purchase or
-                                                    use of its seeds or other products, including loss or damage
-                                                    resulting from negligence or strict liability in tort, shall be
-                                                    limited to replacement of the dissatisfactory item or refund of the
-                                                    purchase price.</p>
-                                                <p>Nor shall Johnny's Selected Seeds be liable for any incidental or
-                                                    consequential loss or damage, including any loss or damage resulting
-                                                    from negligence or strict liability in tort.</p>
-                                                <h3>NOTE</h3>
-                                                <p>Claims for defects in Johnny's Selected Seeds' products must be
-                                                    presented to Johnny's Selected Seeds as soon as practicable and, in
-                                                    any event, within 30 days of discovery.</p>
-                                            </div>
-                                        </div>
+                                      
                                         <div class="c-cta-link"> <a href="#top"> Top <strong> ˆ </strong> </a> </div>
                                     </div>
                                 </div>
@@ -517,24 +491,9 @@
                                                     </nobr>
                                                 </span>
                                                 <br>
-                                                <h3>January–April</h3>
-                                                Mon–Fri: 8am–8pm ET<br />
-                                                Sat–Sun: 8am–5pm ET<br />
-                                                <h3>May</h3>
-                                                Mon–Fri: 8am–7pm ET<br />
-                                                Sat: 8am–5pm ET<br />
-                                                <h3>June</h3>
-                                                Mon–Sat: 8am–5pm ET<br />
-                                                <h3>July–November</h3>
-                                                Mon–Fri: 8am–5pm ET<br />
-                                                <h3>December</h3>
-                                                Mon–Sat: 8am–5pm ET<br />
-                                                <br /><br />
-                                                <p>NOTE: Seasonal hours subject to change.</p>
+                                              
                                             </div>
                                         </div>
-                                        <h3 style="font-size: 1.1em;"><a title="Johnny's Retail Store"
-                                                href="../shop-johnnys/retail-store.html">Johnny's Retail Store</a></h3>
                                     </div>
                                 </div>
                             </div>

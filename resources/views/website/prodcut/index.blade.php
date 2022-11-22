@@ -418,6 +418,7 @@ PRODUCT
 
                                                     <div class="availability-inner-wrapper">
                                                         <span class="in-stock-msg">{{ $rowes->type }}</span>
+                                                        <span class="in-stock-msg">{{ $rowes->qunitiy }}</span>
 
                                                     </div>
 

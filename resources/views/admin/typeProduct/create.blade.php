@@ -39,6 +39,11 @@
                                 <option value="mlm">ملمتر</option>
                             </select>
                         </div>
+
+                        <div class="col">
+                            <label>Quinitiy</label>
+                            <input type="number" name="qunitiy" required class="form-control">
+                        </div>
                     </div>
                     <br>
 

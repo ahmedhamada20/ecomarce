@@ -170,7 +170,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="{{ route('link_get') }}">الشحن</a></li>
+                        <li><a href="{{ route('admin.shop') }}">الشحن</a></li>
 
                     </ul>
                 </li>
@@ -180,7 +180,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="{{ route('link_get') }}">بوابة الدفع</a></li>
+                        <li><a href="{{ route('admin.payment') }}">بوابة الدفع</a></li>
 
                     </ul>
                 </li>
@@ -191,7 +191,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="#">Customer Support</a></li>
+                        <li><a href="{{ route('admin.customer_support') }}">Customer Support</a></li>
 
                     </ul>
                 </li>
@@ -202,7 +202,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="{{ route('admin.contact_Us') }}">Contact Us</a></li>
 
                     </ul>
                 </li>
@@ -213,7 +213,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="#">Satisfaction Guarantee</a></li>
+                        <li><a href="{{ route('admin.satisfaction_guarantee') }}">Satisfaction Guarantee</a></li>
 
                     </ul>
                 </li>
@@ -224,7 +224,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="#">Shipping</a></li>
+                        <li><a href="{{ route('admin.shipping') }}">Shipping</a></li>
 
                     </ul>
                 </li>
@@ -235,7 +235,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="#">Commercial Sales</a></li>
+                        <li><a href="{{ route('admin.commercial_sales') }}">Commercial Sales</a></li>
 
                     </ul>
                 </li>
@@ -246,7 +246,7 @@
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
-                        <li><a href="#">Wishlist</a></li>
+                        <li><a href="{{ route('admin.wishlist') }}">Wishlist</a></li>
 
                     </ul>
                 </li>
