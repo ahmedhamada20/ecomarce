@@ -156,7 +156,7 @@
 
                 <li class="has_sub">
                     <a href="javascript:void(0);" class="waves-effect"><i class="dripicons-copy"></i><span>  
-                        لزاهو</span> <span class="menu-arrow float-right"><i
+                        زاهو</span> <span class="menu-arrow float-right"><i
                                 class="mdi mdi-chevron-right"></i></span></a>
                     <ul class="list-unstyled">
                        
