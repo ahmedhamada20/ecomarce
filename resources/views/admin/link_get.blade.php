@@ -39,7 +39,9 @@ Api
                     <label>Api Key</label>
                     <input type="text" placeholder="Api Key" class="form-control">
                 </div>
+               </div>
 
+               <div class="row">
                 <div class="col">
                     <button class="btn btn-success" type="button">Comfirm</button>
                 </div>
